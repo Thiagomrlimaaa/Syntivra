@@ -1,0 +1,19 @@
+﻿Glossßrio anterior removido.
+  [OK] o que Ú NUP, o que significa n·mero ·nico de protocolo, como funciona 
+  [OK] o que Ú acervo documental, o que Ú arquivo, diferenþa entre acervo e a
+  [OK] o que Ú assinatura digital, como funciona a assinatura digital no epal
+  [OK] o que Ú tramitaþÒo, o que significa tramitar um documento, o que Ú trÔ
+  [OK] quais sÒo as situaþ§es de um documento no epalmas, o que significa cor
+  [OK] quais sÒo os perfis de usußrio no epalmas, o que Ú perfil de sistema, 
+  [OK] o que Ú classificaþÒo arquivÝstica, para que serve, o que Ú prazo de g
+  [OK] o que Ú fluxo de trabalho no epalmas, como funciona o workflow automßt
+  [OK] o que Ú follow-up no epalmas, como acompanhar prazos de resposta
+  [OK] o que sÒo guias no epalmas, como gerar guia de tramitaþÒo remessa expe
+  [OK] o que Ú juntada, diferenþa entre anexaþÒo e apensaþÒo, como juntar doc
+  [OK] o que Ú cancelamento de documento, como reativar documento cancelado, 
+  [OK] o que Ú emprÚstimo de processo, como emprestar um documento, diferenþa
+
+Glossßrio: 13 chunks criados.
+Total geral de chunks ativos: 121
+
+P¾s-processamento concluÝdo!

@@ -1,0 +1,69 @@
+﻿
+=== Processando: PALMAS_GLOSSARIO ===
+  Total de pßginas: 7
+  Caracteres extraÝdos: 12080
+  Preview (300 chars):
+    [Pßgina 1]
+Prefeitura Municipal de Palmas
+Sistema de GestÒo Eletr¶nica de Documentos
+Portal E-palmas
+GLOSS┴RIO DE TERMOS USUAIS DO SISTEMA E
+DA GEST├O DOCUMENTAL
+GLOSS┴RIO û IKHON TECNOLOGIA û SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED
+
+[Pßgina 2]
+GLOSS┴RIO
+A
+TERMO DEFINIÃ├O
+1.Agrupamento d
+  Salvo em: pdf_extract_PALMAS_GLOSSARIO.txt
+
+=== Processando: Manual___Modulo_Processos ===
+  Total de pßginas: 111
+  Caracteres extraÝdos: 76255
+  Preview (300 chars):
+    [Pßgina 1]
+Manual do usußrio û M¾dulo Processos VersÒo 1.0
+memo
+MANUAL DO USU┴RIO
+M¾dulo Processos
+ElaboraþÒo: IKHON-Tecnologia Pßgina 1 de 111
+
+[Pßgina 2]
+Manual do usußrio û M¾dulo Processos VersÒo 1.0
+═
+NDICE
+1. û INTRODUÃ├O 3
+2. M
+ËDULO DE
+P
+ROCESSOS
+4
+2.1. ALTERAR 6
+2.2. ARQUIVAR 9
+2.3. CADASTR
+  Salvo em: pdf_extract_Manual___Modulo_Processos.txt
+
+=== Processando: Manual___Modulo_Documentos ===
+  Total de pßginas: 131
+  Caracteres extraÝdos: 91127
+  Preview (300 chars):
+    [Pßgina 1]
+Manual do usußrio û M¾dulo Documentos VersÒo 1.0
+MANUAL DO USU┴RIO
+M¾dulo Documentos
+
+[Pßgina 2]
+Manual do usußrio û M¾dulo Documentos VersÒo 1.0
+═ndice
+1 - INTRODUÃ├O 4
+2 - MËDULO DOCUMENTOS 5
+2.1 û Arquivar 8
+Arquivar Documento: 8
+Desarquivar: 10
+2.2 - Arquivo Digital 11
+Incluir Arquivo
+  Salvo em: pdf_extract_Manual___Modulo_Documentos.txt
+
+
+ExtraþÒo concluÝda.

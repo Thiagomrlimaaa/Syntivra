@@ -1,0 +1,4 @@
+﻿Migrations for 'tickets':
+  apps\tickets\migrations\0005_knowledge_chunk_ai_state.py
+    + Create model KnowledgeChunk
+    + Create model AIConversationState

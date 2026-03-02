@@ -1,0 +1,23 @@
+﻿=== IngestÒo de Knowledge Chunks ===
+
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como incluir arquivo digital, como anexar pdf, como fazer up
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como cadastrar documento interno, como registrar novo docume
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como tramitar documento, como encaminhar para outro departam
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como arquivar documento, como localizar documento arquivado,
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como assinar digitalmente, como usar certificado digital, co
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como cancelar documento, como reativar documento cancelado, 
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como pesquisar documento, como encontrar protocolo pelo nup,
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como distribuir documento para funcionario, como atribuir re
+  [OK] Manual M¾dulo Documentos - E-Palmas v1.0 | como expedir documento, como enviar para externo, como fazer
+  [OK] Manual M¾dulo Processos - E-Palmas v1.0 | como criar processo, como formalizar processo, diferenþa ent
+  [OK] Manual M¾dulo Processos - E-Palmas v1.0 | como alterar dados de um processo, como corrigir informaþ§es
+  [OK] Glossßrio SIGED - E-Palmas | o que Ú NUP, o que significa NUP, para que serve o n·mero de
+  [OK] Glossßrio SIGED - E-Palmas | quais sÒo as situaþ§es de um documento no epalmas, o que sig
+  [OK] Glossßrio SIGED - E-Palmas | quais sÒo os perfis de usuario no epalmas, nÒo consigo acess
+  [OK] Glossßrio SIGED - E-Palmas | o que Ú sobrestar, como sobrestar um documento, diferenþa en
+
+Total: 15 chunks criados no banco.
+
+Total de chunks ativos no banco: 15
+
+IngestÒo concluÝda com sucesso!

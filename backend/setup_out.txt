@@ -1,0 +1,11 @@
+﻿=== Setup de dados de demo ===
+
+Criada organizacao: Empresa Demo (id=d3d69c7e-bc93-407e-a6de-5e6a9be97329)
+Atualizado admin: CPF=000.000.000-00  email=admin@demo.com  senha=admin123  org=Empresa Demo
+Atualizado cliente: CPF=111.111.111-11  email=cliente@demo.com  senha=cliente123  org=Empresa Demo
+
+=== Verificacao de autenticacao ===
+  OK  Admin (CPF=00000000000) autenticado -> role=ADMIN org=Empresa Demo
+  OK  Cliente (CPF=11111111111) autenticado -> role=CUSTOMER org=Empresa Demo
+
+Setup concluido.

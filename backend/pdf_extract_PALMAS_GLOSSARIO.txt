@@ -1,0 +1,241 @@
+[Página 1]
+Prefeitura Municipal de Palmas
+Sistema de Gestão Eletrônica de Documentos
+Portal E-palmas
+GLOSSÁRIO DE TERMOS USUAIS DO SISTEMA E
+DA GESTÃO DOCUMENTAL
+GLOSSÁRIO – IKHON TECNOLOGIA – SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED
+
+[Página 2]
+GLOSSÁRIO
+A
+TERMO DEFINIÇÃO
+1.Agrupamento de todos os documentos referentes a uma questão específica. Por
+exemplo, o arquivo público de uma cidade disponibiliza todos os documentos
+Acervo (documental)
+históricos referentes à cidade em questão. 2.Documentos de uma entidade produtora
+ou de uma entidade custodiadora.
+1.Possibilidade de consulta a documentos e informações. 2.Função arquivística
+destinada a tornar acessíveis os documentos e a promover sua utilização baseando-
+Acesso (grau)
+se na classificação de um item documental que considera seu teor, seus valores, uso
+etc.
+1.Sequência de operações intelectuais e físicas que visam à guarda ordenada de
+Arquivar documentos. 2.Ação pela qual uma autoridade determina a guarda de um
+documento, cessada a sua tramitação.
+Conjunto de documentos produzidos e acumulados por uma entidade coletiva,
+Arquivo pública ou privada, pessoa ou família, no desempenho de suas atividades,
+independentemente da natureza do suporte.
+Assinatura em meio eletrônico, que permite aferir a origem e a integridade do
+Assinatura Digital
+documento.
+Característica específica que é atribuída ou associada a um tipo documental
+Atributo
+constituindo um metadado desse tipo.
+C
+TERMO DEFINIÇÃO
+Inserir um conjunto de metadados de um tipo documental tornando possível sua
+localização, utilização, tramitação e recuperação da informação contida no
+Cadastrar (documento)
+documento. Considerando seus valores. Sendo possível associar o arquivo digital do
+documento para visualização e tramite.
+O cancelamento é a ação que retira a validade probatória do documento e a validade
+Cancelamento (do
+do NUP associado. Pode ser revertida a partir da ação reativar, quando o vício inicial
+documento)
+for sanado.
+GLOSSÁRIO – IKHON TECNOLOGIA – SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED
+
+[Página 3]
+Defini a localização e a responsabilidade de guarda e atendimento atual dos
+protocolos. Ex.: Na carga de um departamento, o protocolo irá constar nas listagens
+Carga (no sistema)
+de documentos da unidade, na situação correspondente (corrente, arquivado,
+sobrestado, etc.). A carga limita e defini acessos e funções disponíveis para o usuário.
+1.Análise e identificação do conteúdo de documentos, seleção da categoria de
+assunto sob a qual sejam recuperados, podendo-se-lhes atribuir códigos.
+Classificação arquivística
+2.Organização dos documentos de um arquivo, de acordo com um plano de
+classificação e código de classificação.
+Documentos em tramitação ou que são frequentemente consultados devido ao seu
+uso administrativo, fiscal e/ou jurídico. Precisam ficar próximo ao seu produtor/
+Correntes (documentos)
+acumulador, possuem valor primário, ou seja, gestão tramitando cumprindo o
+objetivo para o qual foram criados.
+D
+TERMO DEFINIÇÃO
+Departamento Cada uma das unidades administrativas de uma instituição.
+Ato de comunicação ou decisão emitido por autoridade competente na realização das
+Despacho
+atividades, que pode ser um tipo documental ou uma anotação.
+Processo de conversão de um documento para o formato digital por meio de
+Digitalização
+dispositivo apropriado, como um escâner.
+Movimentar protocolos/documentos na instituição com o intuito do cumprimento de
+Distribuir sua finalidade. Dar andamento para o usuário que realizará ação prevista ou
+necessária.
+Documento Unidade de registro de informações qualquer que seja o suporte ou formato.
+Documento codificado em dígitos binários, acessível por meio de sistema
+Documento digital
+computacional.
+Aquele que não foi produzido no âmbito da instituição. Normalmente é registrado em
+uma unidade de protocolizadora, ou seja, que realiza o cadastro do recebimento de
+documentos produzidos por outras instituições. O cadastro de um documento
+Documento externo
+externo prevê o registro de metadados complementares possíveis, como origem,
+número de origem, referencias, remetentes, tipo de remessa, etc. Ao ser cadastrado
+receberá um NUP interno para tramite.
+Aquele que é produzido no âmbito da instituição e recebe o NUP (número único de
+protocolo que os identifica), sendo registrado no sistema. O cadastro de documentos
+Documento interno
+internos prevê o registro de metadados como a origem interna (departamento) o
+responsável pelo cadastro, data, tipo documental, classificação arquivística, etc.
+E
+GLOSSÁRIO – IKHON TECNOLOGIA – SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED
+
+[Página 4]
+TERMO DEFINIÇÃO
+1. Destruição de documentos que, na avaliação, foram considerados sem valor
+permanente. Também chamada expurgo de documentos. É um procedimento de
+Eliminação
+destruição de documentos que já cumpriram a sua função e não apresentam valor
+histórico ou funcional, tornando-se assim inúteis para os fins que foram criados.
+É a configuração que assume um documento de acordo com a disposição e a natureza
+das informações nele contidas. Ex. exemplos de espécies documentais ata, carta,
+Espécie tipo documental
+decreto, folheto, folheto fotografia, fotografia memorando, ofício, planta, planta
+relatório
+Ato de expedir, remete, despachar quaisquer documentos oficiais ou não para uma
+Expedir determinada instituição ou pessoa, externo a instituição de origem, mediante registro
+de protocolo.
+F
+TERMO DEFINIÇÃO
+1.É o agrupamento de atividades funcionais que trata o movimento de informação ou
+materiais entre elas. As atividades de trabalho são mostradas como um fluxo que
+descreve a relação de cada atividade com as demais realizadas no agrupamento. 2.É
+Fluxo de trabalho
+a sequência de passos necessários para se automatizar processos de negócio, de
+acordo com um conjunto de regras definidas, permitindo que sejam transmitidos de
+uma pessoa para outra.
+1. Acompanhar. 2. Acompanhar o andamento de protocolos na carga do
+Follow up (sistema)
+departamento, no que diz respeito ao atendimento dos prazos estabelecidos.
+Formalizador Usuário que autua um processo, que formaliza o processo.
+G
+TERMO DEFINIÇÃO
+Designação dos documentos segundo aspecto de sua formatação nos diferentes
+Gênero (do acervo) suportes. Segundo a maneira que a informação foi registrada. Ex. documentos,
+audiovisuais, textuais, cartográficos, digitais, iconográficos.
+São formulários físicos ou digitais para o registro de movimentação de protocolos,
+Guias (sistema) que atestam o envio e o recebimento, registrando metadados como datas e
+responsáveis.
+J
+TERMO DEFINIÇÃO
+GLOSSÁRIO – IKHON TECNOLOGIA – SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED
+
+[Página 5]
+Juntada 1.Junção de documentos a outro documento.
+M
+TERMO DEFINIÇÃO
+Dados estruturados e codificados, que descrevem e permitem acessar, gerenciar,
+Metadados
+compreender Dados e/ou preservar outros dados ao longo do tempo.
+São os protocolos (documentos) transferidos de antigos sistemas para o sistema
+Migrados (documentos) atual. A migração garante que as atividades em andamento não sejam
+descontinuadas.
+1.Versão preliminar de documento sujeita à aprovação. 2.Documento em fase de
+Minuta
+elaboração.
+N
+TERMO DEFINIÇÃO
+Sigla para Número Único de Protocolo (NUP). Um conjunto numérico sequencial e
+NUP único, que fornece informações sobre a origem do protocolo, autenticidade, tipo,
+sequencial e ano de produção.
+P
+TERMO DEFINIÇÃO
+1. Documentos inerentes das atividades institucionais, que não foram
+Passivo (documental) disponibilizados em um repositório de forma organizada e tratada, ou migrados para
+um sistema que permita sua recuperação e usabilidade.
+É um conjunto de características relacionadas as funções e atividades desenvolvidas
+por um usuário na instituição, determinando as permissões e acessos necessários
+Perfil (sistema) para que ele possa cumprir suas tarefas utilizando o sistema. A personalidade do
+usuário em relação ao sistema que irá utilizar. Ex. perfil administrador, perfil técnico,
+perfil analista, perfil protocolo, etc.
+Prazo, definido na tabela de temporalidade e baseado em estimativas de uso, em
+que documentos deverão ser mantidos no arquivo corrente ou no arquivo
+Prazo de guarda
+intermediário ao fim do qual a destinação é efetivada. Também chamado período de
+retenção ou prazo de retenção.
+Procedência (dos Determina a origem. Determina o órgão produtor do documento ou a sua última
+documentos) localização.
+GLOSSÁRIO – IKHON TECNOLOGIA – SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED
+
+[Página 6]
+Protocolo (departamento Serviço encarregado do recebimento, registro, classificação, distribuição, controle da
+de) tramitação e expedição de documentos.
+Comprovante da recepção de documentos caracterizado por um número que
+também é registrado no respectivo documento. O Número Único de Protocolo
+(NUP) é o padrão normatizado de numeração utilizado para controle dos
+documentos, avulsos ou processos, produzidos ou recebidos pelas instituições. O
+Protocolo (número de) NUP tem uma função de grande relevância, pois viabiliza a padronização na gestão
+documental, desde a produção ao arquivamento dos documentos, assim como
+facilita as comunicações entre as unidades administrativas dos órgãos e entidades
+ou destas com a sociedade, promovendo a simplificação do acesso às informações
+sobre os documentos.
+R
+TERMO DEFINIÇÃO
+Ação de relacionar documentos que tratam do mesmo assunto, para a continuidade
+das tratativas (resposta ao documento referenciado) ou subsídio para outra
+Referência (do cadastro)
+atividade. No sistema a referência cria um link entre os protocolos, facilitando a
+consulta e o acesso.
+Requerente Indivíduo que solicita algo através de um requerimento. Solicitante.
+S
+TERMO DEFINIÇÃO
+Indica em qual fase documental um protocolo se encontra, e defini as tratativas
+Situação (sistema) possíveis para este documento Ex. cadastrado, tramitando, arquivado, expedido,
+sobrestado.
+Indica uma fase de suspensão de ações para o protocolo, quando este não está
+cumprindo tramites, mas aguardando alguma providencia (envio de outros
+Sobrestar
+documentos, decisão, pesquisa, prazos) para continuidade do seu andamento, difere
+do arquivamento.
+Material no qual são registradas as informações. Ex. Papel, cd's, dvd's, fitas
+Suporte (tipo de)
+magnéticas, filme, etc.
+T
+TERMO DEFINIÇÃO
+Divisão de espécie documental que reúne documentos por suas características
+Tipo documental comuns no que diz respeito à fórmula diplomática, natureza de conteúdo ou técnica
+do registro. São exemplos de tipos documentais cartas precatórias, cartas régias,
+GLOSSÁRIO – IKHON TECNOLOGIA – SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED
+
+[Página 7]
+cartas-patentes, decretos sem número, decretos-leis, decretos legislativos,
+litogravuras, serigrafias, xilogravuras.
+Curso do documento desde a sua produção ou recepção até o cumprimento de sua
+Tramitação
+função administrativa. Também chamado movimentação ou trâmite.
+U
+TERMO DEFINIÇÃO
+Servidor, terceirizado, estagiário ou empregado em exercício que tenha acesso, de
+Usuários (do sistema)
+forma autorizada, para atuar em sistemas utilizados pela instituição.
+Usuários externos (do Pessoa física ou jurídica autorizada a acessar ou protocolar documentos em sistemas
+sistema) utilizados pela instituição, e que não seja caracterizada como usuário interno.
+V
+TERMO DEFINIÇÃO
+1.Valor intrínseco que permite a um documento de arquivo servir de prova legal. 2.
+Características de um documento que concedem a este valor de prova. Ex.: o
+Valor probatório
+número do protocolo, assinaturas reconhecidas como legítimas, sejam firmadas ou
+digitais, históricos, etc.
+Resultado da reprodução de um documento original. As vias podem ser
+movimentadas individualmente, mas as alterações realizadas no cadastro do
+Vias (de documentos)
+documento original refletirão em todas as vias do documento. Só é possível associar
+arquivo digital à via.
+Conjunto normalizado de termos que serve à indexação e à indexação recuperação
+Vocabulário Controlado
+da informação
+GLOSSÁRIO – IKHON TECNOLOGIA – SISTEMA DE GESTAO ELETRONICAS DE DOCUMENTOS - SIGED

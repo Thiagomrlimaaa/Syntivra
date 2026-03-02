@@ -1,0 +1,1719 @@
+[Página 1]
+Manual do usuário – Módulo Processos Versão 1.0
+memo
+MANUAL DO USUÁRIO
+Módulo Processos
+Elaboração: IKHON-Tecnologia Página 1 de 111
+
+[Página 2]
+Manual do usuário – Módulo Processos Versão 1.0
+Í
+NDICE
+1. – INTRODUÇÃO 3
+2. M
+ÓDULO DE
+P
+ROCESSOS
+4
+2.1. ALTERAR 6
+2.2. ARQUIVAR 9
+2.3. CADASTRO DE PROCESSO 13
+2.4. CANCELAR TRAMITAÇÃO 22
+2.5. COMENTAR 23
+2.6. DISTRIBUIR 26
+2.7. EMPRESTAR 32
+2.8. EXPEDIR 35
+2.9. FICHA DE ACOMPANHAMENTO 43
+2.10. FOLLOWUP 44
+2.11. GUIAS 47
+2.12. ANEXAR / APENSAR 57
+2.13. LISTAGEM 62
+2.14. PALAVRA - CHAVE 81
+2.15. PESQUISA AVANÇADA 83
+2.16. PESQUISA SIMPLES 86
+2.17. RECEBER TRAMITAÇÃO 88
+2.18. RECEBER DISTRIBUIÇÃO 92
+2.19. RECEBER EMPRÉSTIMO 93
+2.20. RELATÓRIOS 94
+2.21. TRAMITAR 1
+2.22. VOLUMES 1
+3. 3 - T
+ECLAS DE
+A
+TALHO
+1
+4. 4- F
+ECHAMENTO
+1
+Elaboração: IKHON-Tecnologia Página 2 de 111
+
+[Página 3]
+Manual do usuário – Módulo Processos Versão 1.0
+1. – INTRODUÇÃO
+Este documento foi elaborado com o objetivo de orientar os
+Administradores/Gestores e os demais usuários do E-Palmas quanto à operacionalização
+do Módulo de Processo. Este manual apresenta os procedimentos operacionais que
+permitirão a utilização plena deste recurso na instituição.
+Para facilitar a interação sistema-usuário, este manual demonstra a composição
+das funcionalidades e ações do Módulo de Processo e a facilidade da navegabilidade e
+usabilidade por meio de descrições sucintas dos procedimentos e dos resultados que
+serão alcançados.
+O manual do Módulo de Processo descreve as funcionalidades disponibilizadas no
+sistema para a gestão da documentação. Ações como cadastro de novos processos,
+inclusão de arquivos digitais e tramitação são contempladas neste módulo.
+O acesso às funcionalidades deste módulo é definido pelos perfis atribuídos aos
+usuários. Algumas ações são permitidas apenas aos administradores/gestores do sistema.
+Elaboração: IKHON-Tecnologia Página 3 de 111
+
+[Página 4]
+Manual do usuário – Módulo Processos Versão 1.0
+2. M P
+ÓDULO DE ROCESSOS
+O Módulo de Processo é destinado às funcionalidades de gerenciamento de
+processos produzidos e recebidos pela instituição ao longo de suas atividades rotineiras. O
+sistema apresenta telas com menus que quando acionados possibilita ao(s) usuários a
+realização de várias ações necessárias para o fluxo das atividades por meio dos
+processos.
+A tela principal do Módulo de Processo apresenta as seguintes funcionalidades.
+FUNCIONALIDADE DESCRIÇÃO
+Alterar Altera os dados de um registro de processo.
+Arquivar Ação de atribuir a localização de arquivamento de um processo no departamento.
+Permite o cadastro de um novo processo. Esta funcionalidade também possibilita
+Cadastro de Processo imprimir etiqueta de processos, imprimir a ficha de acompanhamento e imprimir capa de
+processo.
+Cancela a tramitação de um processo. Esta funcionalidade só é válida desde que a
+Cancelar Tramitação
+departamento de destino ainda não tenha recebido o processo.
+Distribuir Distribui um processo para um funcionário do departamento.
+Possibilita o empréstimo de um processo para um usuário desde que, o mesmo esteja
+Emprestar
+arquivado ou sobrestado.
+Ficha de
+Permite gerar e imprimir a ficha de acompanhamento de um(s) processo(s).
+Acompanhamento
+Follow UP Lista os prazos de respostas dos processos.
+Guias Permite gerar as Guias de tramitação, de remessa e de expedição.
+Elaboração: IKHON-Tecnologia Página 4 de 111
+
+[Página 5]
+Manual do usuário – Módulo Processos Versão 1.0
+Permite que o usuário realize a ação de juntar/anexar e apensar processos/processos a
+Juntar/Anexar/Apensar
+outros processos.
+Lista todos os protocolos na carga do departamento e do usuário. Permite a execução de
+atividades de acordo com as permissões do usuário. Por meio da listagem é possível
+Listagem
+executar diversas ações como, por exemplo, alterar, imprimir etiquetas, ver histórico além
+de outras.
+Palavra-chave Inclui uma palavra-chave que auxiliará em consultas futuras.
+Recupera um ou mais processos a partir de diversos parâmetros de pesquisa informados
+Pesquisa Avançada nos filtros do relatório. Quanto mais refinada é a busca mais eficaz é o resultado da
+pesquisa.
+Pesquisa Simples Recupera um processo a partir do seu número de protocolo.
+Permite a inclusão dos dados da publicação de determinado ato oficial no registro do
+Publicação
+processo.
+Permite receber um processo que foi distribuído dentro do departamento para um
+Receber Distribuição
+usuário.
+Receber Empréstimo Permite receber um empréstimo de um protocolo.
+Emite relatórios de algumas ações realizadas com os processos cadastrados no sistema,
+Relatórios como por exemplo, de Classificação Arquivística, dos Interessados associados, a
+Produção Documental, as Distribuições entre outros.
+Tramitar Tramita um processo de um departamento para outro.
+Volumes Possibilita o encerramento e a abertura de volumes de processos
+Painel Gerencial Apresenta o Painel Gerencial de processos no departamento.
+Elaboração: IKHON-Tecnologia Página 5 de 111
+
+[Página 6]
+Manual do usuário – Módulo Processos Versão 1.0
+2.1. Alterar
+A funcionalidade Alterar destina - se à alteração de uma série de informações
+referentes ao processo. As informações são atualizadas através de preenchimento de
+campos ou seleção de opções em caixas de listagem.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico
+▪ Acionar o botão PESQUISAR.
+▪ O sistema disponibiliza a tela abaixo, com os dados do processo anteriormente
+preenchidos e prontos para alterações.
+▪ Alterar as informações dos campos abertos para edição conforme desejar;
+Elaboração: IKHON-Tecnologia Página 6 de 111
+
+[Página 7]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ Para visualizar as ações que podem ser realizadas no processo é necessário
+acionar o botão DADOS CADASTRAIS, onde o sistema irá direcionar para a tela de
+visualização do cadastro do registro, onde o sistema permitirá realizar as ações de
+incluir arquivo digital, fazer distribuição, fazer comentário, incluir palavra-chave,
+arquivar, visualizar entre outras.
+Elaboração: IKHON-Tecnologia Página 7 de 111
+
+[Página 8]
+Manual do usuário – Módulo Processos Versão 1.0
+Elaboração: IKHON-Tecnologia Página 8 de 111
+
+[Página 9]
+Manual do usuário – Módulo Processos Versão 1.0
+2.2. Arquivar
+A funcionalidade Arquivar destina-se ao arquivamento de um processo quando
+cessado a sua tramitação. Ao arquivar um processo deve-se informar no sistema o local
+em que este ficará arquivado. Por esta funcionalidade também podem ser desfeitas as
+ações de arquivamento de processo.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico
+▪ Acionar o botão ‘PESQUISAR’.
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para arquivar mais de um
+processo ao mesmo tempo;
+▪ Informar a localização física de arquivamento do processo se, o mesmo tiver o tipo
+de suporte “papel”;
+▪ Se o tipo de suporte do processo for “digital” o sistema informa no campo
+Módulo/Localização “PROCESSO DIGITAL”.
+o O(s) processos(s) pode(m) ser arquivado(s) diretamente em uma caixa do
+Módulo Arquivos. Acionar o botão + no campo ‘CAIXA’ para selecionar uma;
+o É preciso preencher um dos campos;
+o Não é preciso preencher todos os campos.
+▪ Selecionar a conclusão do processo;
+▪ Informar o motivo do arquivamento;
+Elaboração: IKHON-Tecnologia Página 9 de 111
+
+[Página 10]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Acionar o botão ‘ARQUIVAR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+Elaboração: IKHON-Tecnologia Página 10 de 111
+
+[Página 11]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema atualizará a tela com a nova situação do processo.
+Após o arquivamento, o processo continua sendo acessado pelo módulo de
+processo. Para acessá-lo o usuário deverá selecionar a situação ‘ARQUIVADO’ na
+Listagem de processo do departamento.
+Desarquivar:
+▪ Acionar o botão ‘DESARQUIVAR’ para desfazer o arquivamento do processo.
+Elaboração: IKHON-Tecnologia Página 11 de 111
+
+[Página 12]
+Manual do usuário – Módulo Processos Versão 1.0
+Elaboração: IKHON-Tecnologia Página 12 de 111
+
+[Página 13]
+Manual do usuário – Módulo Processos Versão 1.0
+2.3. Cadastro de Processo
+A funcionalidade Cadastro de Processo destina-se ao cadastro no sistema de
+processos produzidos ou recebidos pela PMP no exercício de suas atividades.
+Navegando na tela inicial da funcionalidade:
+▪ Selecionar a opção CADASTRAR PROCESSO para registrar um novo processo
+produzido internamente ou recebido pela PMP;
+▪ Selecionar a opção IMPRIMIR CAPA DE PROCESSO para substituir a capa do
+processo original;
+▪ Selecionar a opção IMPRIMIR ETIQUETAS para gerar etiquetas de identificação
+dos processos cadastrados no sistema;
+▪ Selecionar a opção IMPRIMIR FOLHA DE DESPACHO para gerar uma ficha de
+acompanhamento de despachos dados a um processo cadastrado no sistema;
+AÇÃO: Cadastrar Processo Geral:
+A funcionalidade Cadastrar Processo Geral destina-se ao cadastro no sistema de
+processos produzidos ou recebidos pela PMP no exercício de suas atividades.
+Procedimentos:
+▪ Preencher o formulário de cadastro com as informações que permitirão a gestão
+deste processo e o acesso à informação nele registrada. Os campos assinalados
+com asterisco vermelho são de preenchimento obrigatório;
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+o Processo Interno
+Elaboração: IKHON-Tecnologia Página 13 de 111
+
+[Página 14]
+Manual do usuário – Módulo Processos Versão 1.0
+o Processo Externo
+Elaboração: IKHON-Tecnologia Página 14 de 111
+
+[Página 15]
+Manual do usuário – Módulo Processos Versão 1.0
+CAMPOS PARA SELEÇÃO E PREENCHIMENTO
+Campo onde o usuário deve escolher se o processo a ser cadastrado tem
+Tipo de Processo
+origem interna (da instituição) ou externa (fora da instituição).
+Tipo de processo interno: Este campo não é editável, o número do processo
+será gerado automaticamente pelo sistema.
+Número
+Tipo de processo externo: Campo editável, informar o número do processo.
+O sistema não permite informar o código do processo da instituição.
+Informar neste campo a data real em que o processo foi gerado. Aceita data
+Data do Processo
+atual ou retroativa.
+Elaboração: IKHON-Tecnologia Página 15 de 111
+
+[Página 16]
+Manual do usuário – Módulo Processos Versão 1.0
+Informar a data de recebimento do processo externo na instituição. Este
+Data de Recebimento
+campo somente é apresentado para os processos do tipo externo.
+Se o processo a ser gerado terá alguma peça documental física circulando,
+Tipo de Suporte escolher a opção PAPEL. Se o processor gerado for totalmente virtual,
+selecionar a opção DIGITAL.
+Informar qual setor irá gerir este processo diretamente. Este campo somente
+Departamento Gestor
+é apresentado para os processos do tipo interno.
+Informar a instituição de origem do processo. Este campo somente é
+Origem
+apresentado para os processos do tipo externo.
+Acesso Campo para definir restrições de acesso ao processo.
+Processo prioritário Informar se o processo é prioritário ou não.
+Utilizar este campo para informar se o que o processo que está sendo
+registrado possui referências a outros protocolos.
+Referência Este é um campo de preenchimento livre, podendo receber letras, números e
+sinais. Recomendado para referenciar protocolos que não estejam
+cadastrados no sistema ou cujos números de protocolo sejam reconhecidos.
+Prazo de Resposta Informar o prazo final para resposta do processo.
+Código derivado de um plano de classificação utilizado para organização dos
+Classificação Arquivística
+processos de um arquivo e determinar o seu prazo de guarda.
+Sigla do Processo Selecionar a sigla do processo.
+Informar palavras referentes ao processo que serão utilizadas para futuras
+Palavras-Chave
+pesquisas.
+Campo para descrever o conteúdo do processo. Campo de preenchimento
+Justificativa
+livre, podendo receber letras, números e sinais.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s)
+interessada(s) no conteúdo do processo que está sendo registrado.
+Requerente
+Este campo utiliza informações previamente cadastradas no Módulo Mala
+Direta do sistema. Acionar o botão + para selecionar um interessado.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s) que
+originou o conteúdo do processo que está sendo registrado.
+Procedência
+Este campo utiliza informações previamente cadastradas no Módulo Mala
+Direta do sistema. Acionar o botão + para selecionar um interessado.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s)
+destinatárias do processo recebido.
+Destinatário Este campo utiliza informações previamente cadastradas no Módulo Mala
+Direta do sistema. Acionar o botão + para selecionar um interessado. Este
+campo somente é apresentado para os processos do tipo externo.
+Número de Volumes /Folhas Informar a quantidade de volumes, folhas e anexos que possui o processo
+/Anexos cadastrado.
+A funcionalidade deve ser utilizada caso o usuário deseja tramitar o processo
+Tramitar Para
+imediatamente após se clicar no botão INCLUIR.
+Elaboração: IKHON-Tecnologia Página 16 de 111
+
+[Página 17]
+Manual do usuário – Módulo Processos Versão 1.0
+Permite informar o nome do destinatário para recebimento do processo, no
+Aos Cuidados De
+caso de uma tramitação imediata.
+Ao preencher e selecionar as informações acione o botão INCLUIR para
+Incluir
+efetivar o cadastro do processo no sistema.
+Limpar Permite apagar todos os dados alimentados na tela.
+Voltar Retornar para a tela anterior.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação. O
+número 00000.9.000000/2020 é o Número Único de Protocolo (NUP) atribuído pelo
+sistema ao processo. O usuário utilizará este número para realizar ações dentro do
+sistema.
+Elaboração: IKHON-Tecnologia Página 17 de 111
+
+[Página 18]
+Manual do usuário – Módulo Processos Versão 1.0
+AÇÃO: Imprimir Capa de Processo
+A funcionalidade Imprimir Capa de Processo destina-se à geração de uma nova
+capa para substituir a capa do processo original após alguma alteração das informações
+cadastrais do processo em questão.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ O sistema irá emitir a seguinte mensagem de confirmação do sucesso da ação.
+▪ O sistema substituirá a capa existente por uma nova com as informações cadastrais
+atualizadas.
+AÇÃO: Imprimir Etiquetas
+A funcionalidade Imprimir Etiqueta é destinada à geração de etiquetas de
+identificação de processos registrados no sistema.
+Elaboração: IKHON-Tecnologia Página 18 de 111
+
+[Página 19]
+Manual do usuário – Módulo Processos Versão 1.0
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico.
+▪ Acionar o botão ‘PESQUISAR’;
+▪ O sistema encaminhará o usuário para a tela em que selecionará o tipo de etiqueta
+para processo que deseja gerar;
+o Não é necessário alterar as configurações das etiquetas. Ao selecionar o
+tipo o sistema trará automaticamente as configurações previamente
+definidas;
+o Selecionar se deseja gerar etiquetas para todos os volumes do processo
+ou somente para o selecionados.
+▪ Acionar o botão ‘GERAR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 19 de 111
+
+[Página 20]
+Manual do usuário – Módulo Processos Versão 1.0
+Elaboração: IKHON-Tecnologia Página 20 de 111
+
+[Página 21]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema gerará uma etiqueta como a seguir.
+Endereço do portal errado (IMAGEM TEMPORÁRIA)
+AÇÃO: Imprimir Folha de Despacho
+A funcionalidade Imprimir Folha de Despacho é destinada à geração de folhas de
+despacho para registro de ações realizadas com um processo nos departamentos por
+onde tramitar dentro da instituição.
+Ver tópico 2.10 Ficha de Acompanhamento, neste manual.
+Elaboração: IKHON-Tecnologia Página 21 de 111
+
+[Página 22]
+Manual do usuário – Módulo Processos Versão 1.0
+2.4. Cancelar Tramitação
+A funcionalidade Cancelar Tramitação destina-se ao cancelamento da
+movimentação de processos quando o mesmo ainda não foi recebido no departamento de
+destino. Uma tramitação só pode ser cancelada pelo departamento que a realizou.
+Procedimentos:
+▪ Selecionar, entre os processos listados, o(s) processos(s) cuja(s) tramitação(ões)
+deseja cancelar;
+o O sistema listará os processos tramitados pelo departamento do usuário e
+ainda não recebidos pelo departamento de destino;
+▪ Acionar o botão ‘CANCELAR’;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+Observação Importante: após cancelada a tramitação, o processo retorna para Listagem de
+processos correntes do departamento do usuário.
+Elaboração: IKHON-Tecnologia Página 22 de 111
+
+[Página 23]
+Manual do usuário – Módulo Processos Versão 1.0
+2.5. Comentar
+A funcionalidade Comentar destina-se à inserção de um comentário no cadastro
+de um processo registrado no sistema. Por esta funcionalidade também podem ser
+excluídos os comentários já registrados.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico.
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Acionar o botão +, na opção ‘NUP´S ADICIONAIS’, para inserir o mesmo comentário
+em mais de um processo ao mesmo tempo;
+Elaboração: IKHON-Tecnologia Página 23 de 111
+
+[Página 24]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Inserir o comentário que desejar;
+▪ Acionar o botão ‘COMENTAR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 24 de 111
+
+[Página 25]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação
+▪ A seguir, é disponibilizada a lista dos comentários referentes ao processo.
+Elaboração: IKHON-Tecnologia Página 25 de 111
+
+[Página 26]
+Manual do usuário – Módulo Processos Versão 1.0
+Excluir comentário:
+▪ Selecionar com um ‘tick’ na coluna ‘excluir’ o(s) comentário(s) que desejar apagar;
+▪ Acionar o botão ‘EXCLUIR’ para efetuar a ação.
+▪ O sistema emite a mensagem solicitando a confirmação da ação
+▪ Ao confirmar, o sistema emitirá a mensagem a seguir em confirmação ao sucesso
+da ação
+Observação Importante: os comentários só podem ser excluídos pelo usuário que os cadastrou.
+2.6. Distribuir
+A funcionalidade Distribuir destina-se à atribuição da responsabilidade de um
+processo a um usuário do departamento em que está. Por esta funcionalidade também
+podem ser desfeitas a distribuição.
+Procedimentos:
+Elaboração: IKHON-Tecnologia Página 26 de 111
+
+[Página 27]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico.
+▪ Acionar o botão PESQUISAR.
+▪ Acionar o botão +, na opção ‘NUP’S ADICIONAIS’, para distribuir mais de um
+processo ao mesmo tempo para um usuário;
+Elaboração: IKHON-Tecnologia Página 27 de 111
+
+[Página 28]
+Manual do usuário – Módulo Processos Versão 1.0
+o Selecionar o funcionário para quem deseja distribuir o(s) processo(s);
+o Informar o motivo da distribuição;
+o Informar às providências que devem ser tomadas quanto ao(s) processo(s)
+distribuído(s);
+▪ Acionar o botão ‘DISTRIBUIR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 28 de 111
+
+[Página 29]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ O sistema atualizará a tela com a nova distribuição, ativa;
+Para que uma distribuição seja efetivada, o usuário pra quem o processo foi distribuído deve
+Receber a Distribuição. Somente o usuário que realizou a distribuição pode desfazer.
+Elaboração: IKHON-Tecnologia Página 29 de 111
+
+[Página 30]
+Manual do usuário – Módulo Processos Versão 1.0
+Desfazer distribuição:
+▪ Acionar o botão ‘DESFAZER’ para tornar a distribuição inativa;
+▪ Informar a justificativa e acionar o botão ‘CONFIRMAR’.
+▪ O sistema irá alterar o campo Ativo de SIM para NÃO.
+Elaboração: IKHON-Tecnologia Página 30 de 111
+
+[Página 31]
+Manual do usuário – Módulo Processos Versão 1.0
+Elaboração: IKHON-Tecnologia Página 31 de 111
+
+[Página 32]
+Manual do usuário – Módulo Processos Versão 1.0
+2.7. Emprestar
+A funcionalidade Emprestar destina-se ao empréstimo de processo(s) em situação
+de ‘ARQUIVADO’ ou ‘SOBRESTADO’. Nesta funcionalidade também são registradas as
+devoluções dos processos emprestados.
+O empréstimo registra que o processo foi retirado do arquivo do departamento
+para consulta por um usuário de outro departamento. O empréstimo é diferente da
+tramitação, ele não altera o departamento de carga do processo, apenas sua situação.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico;
+▪ Acionar o botão PESQUISAR:
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para emprestar mais de um
+processo ao mesmo tempo;
+▪ Selecionar o departamento do usuário para o qual o processo será emprestado;
+Elaboração: IKHON-Tecnologia Página 32 de 111
+
+[Página 33]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Selecionar o usuário para o qual o(s) processo(s) será(ão) emprestado(s);
+▪ Informar se o empréstimo será completo ou não. Ao selecionar a opção NÃO o
+sistema solicita que especifique a parte do processo que será emprestada.
+▪ Acionar o botão ‘EMPRESTAR’ para efetuar a ação;
+▪ O sistema emitirá mensagem a seguir em confirmação ao sucesso da ação.
+▪ O sistema atualizará a tela com o novo empréstimo ativo;
+Elaboração: IKHON-Tecnologia Página 33 de 111
+
+[Página 34]
+Manual do usuário – Módulo Processos Versão 1.0
+Registrar a devolução de um processo emprestado
+▪ Acionar o botão ‘DEVOLVER’ para tornar registrar a devolução do processo pelo
+usuário a quem o empréstimo fora realizado;
+▪ O sistema irá alterar o campo Ativo de SIM para NÃO.
+Elaboração: IKHON-Tecnologia Página 34 de 111
+
+[Página 35]
+Manual do usuário – Módulo Processos Versão 1.0
+2.8. Expedir
+A funcionalidade Expedir destina-se à movimentação de processos para fora da
+instituição.
+A expedição pode ser realizada entre departamentos de secretarias distintas que
+compõem o quadro de secretarias da prefeitura que utilizam o sistema ou instituições
+externas ao sistema.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico;
+▪ Acionar o botão PESQUISAR:
+▪ Selecionar a opção que deseja realiza a expedição
+Elaboração: IKHON-Tecnologia Página 35 de 111
+
+[Página 36]
+Manual do usuário – Módulo Processos Versão 1.0
+AÇÃO: Expedição Externa
+A ação Expedição externa é destinada ao registro da movimentação do processo
+para instituições que não utilizam o sistema.
+Procedimentos:
+▪ Acionar o botão +, na opção ‘NUP´S ADICIONAIS’, para expedir mais de um
+processo ao mesmo tempo.
+Elaboração: IKHON-Tecnologia Página 36 de 111
+
+[Página 37]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Selecionar o ‘TIPO DE REMESSA’ se trata, DIGITAL ou EM MÃOS.
+▪ Informar o ‘NÚMERO DE REMESSA’ do envio, se não houver número, preencher o
+campo com s/n (Sem Numeração).
+▪ Informar o DESTINO.
+▪ Os campos peso e valor da correspondência não são obrigatórios.
+▪ Selecionar a opção imprimir guia se desejar gerar a guia de expedição dos
+processos.
+▪ Acionar o botão ‘EXPEDIR’ para efetuar a ação.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+Elaboração: IKHON-Tecnologia Página 37 de 111
+
+[Página 38]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Se for selecionada a opção Imprimir Guia, ao realizar a expedição o sistema irá
+apresentar a guia de expedição para impressão.
+Cancelar Expedição:
+▪ Acionar o botão ‘Alterar’ para alterar algum dado da expedição;
+▪ Acionar o botão ‘Cancelar Expedição’ para cancelar a expedição do processo;
+Elaboração: IKHON-Tecnologia Página 38 de 111
+
+[Página 39]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema mostrará a seguinte tela, apresentando o processo não ativo;
+Se o processo tiver algum documento com pendência de assinatura o sistema não irá permitir realizar
+a expedição externa.
+AÇÃO: Expedição Outros Protocolos
+A ação Expedição outros protocolos é destinada a movimentação do processo
+entre departamentos de secretarias distintas que compõem o quadro de secretarias da
+prefeitura que utilizam o sistema.
+Procedimentos:
+Elaboração: IKHON-Tecnologia Página 39 de 111
+
+[Página 40]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para expedir mais de um
+processo ao mesmo tempo.
+▪ Selecionar o ‘TIPO DE REMESSA’ se trata, DIGITAL ou EM MÃOS.
+▪ Informar o ‘NÚMERO DE REMESSA’ do envio, se não houver número, preencher o
+campo com s/n (Sem Numeração).
+▪ Selecionar a unidade organizacional (secretaria de destino).
+▪ Selecionar o departamento de destino. Este campo apresenta todos os
+departamentos configurados como DEPARTAMENTO PROTOCOLIZADOR no seu
+cadastro.
+▪ Selecionar aos cuidados de qual usuário o processo ficará.
+▪ Selecionar a opção imprimir guia se desejar gerar a guia de expedição dos
+processos.
+Elaboração: IKHON-Tecnologia Página 40 de 111
+
+[Página 41]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Acionar o botão ‘EXPEDIR’ para efetuar a ação.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+Elaboração: IKHON-Tecnologia Página 41 de 111
+
+[Página 42]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Se for selecionada a opção Imprimir Guia, ao realizar a expedição o sistema irá
+apresentar a guia de expedição para impressão.
+Depois de expedido, o processo permanecerá na listagem de tramitados e não recebidos na tela
+inicial do departamento emissor. Enquanto um usuário do setor de destino não receber a movimentação, a
+mesma ainda poderá ser desfeita, fazendo com que o processo retorne para a listagem de correntes de
+emissor.
+Elaboração: IKHON-Tecnologia Página 42 de 111
+
+[Página 43]
+Manual do usuário – Módulo Processos Versão 1.0
+2.9. Ficha de Acompanhamento
+A funcionalidade Ficha de Acompanhamento de Processos – FAP destina-se à
+geração de folhas de despacho para registro de ações realizadas com um processo nos
+departamentos por onde tramitar dentro da instituição.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico para qual deseja gerar a guia ou um intervalo entre vários processos;
+▪ Selecionar a geração da frente, do verso ou de ambos os lados da folha de
+despacho;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ O sistema abrirá na tela a(s) folha(s) de despacho solicitada(s), como no modelo
+abaixo;
+Elaboração: IKHON-Tecnologia Página 43 de 111
+
+[Página 44]
+Manual do usuário – Módulo Processos Versão 1.0
+2.10. FollowUp
+A funcionalidade Follow-up destina-se ao acompanhamento dos prazos de
+resposta estabelecidos para processos tramitados de um departamento para outro. Por
+esta funcionalidade é possível, também, fazer o acompanhamento dos prazos de resposta
+emitidos pelo departamento em processos tramitados por ela.
+Para “dar baixa” nos prazos de resposta, o departamento de destino deve
+RECEBER A TRAMITAÇÃO e dar encaminhamento no documento realizando uma NOVA
+TRAMITAÇÃO para o departamento que solicitou o prazo de resposta. Esta última ação
+consolida o prazo de resposta como atendido.
+Procedimentos:
+▪ O sistema listará os processos cujos prazos de atendimento estabelecidos para o
+departamento venceram, vencem no dia e irão vencer;
+Elaboração: IKHON-Tecnologia Página 44 de 111
+
+[Página 45]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Utilizar a ‘BARRA DE AÇÃO’ para ‘TRAMITAR’, ‘VISUALIZAR’ os detalhes dos seus
+dados cadastrais ou ‘ATUALIZAR’ estes dados alterando-os.
+▪
+Acionar a opção ‘FOLLOW-UP – EMITIDOS’ para acessar o relatório de prazos de
+atendimento emitidos pelo departamento;
+▪ Utilizar os filtros do relatório para visualizar os prazos emitidos conforme desejar;
+▪ Processos destacados em vermelho estão com os prazos de resposta vencidos;
+Elaboração: IKHON-Tecnologia Página 45 de 111
+
+[Página 46]
+Manual do usuário – Módulo Processos Versão 1.0
+Elaboração: IKHON-Tecnologia Página 46 de 111
+
+[Página 47]
+Manual do usuário – Módulo Processos Versão 1.0
+2.11. Guias
+A funcionalidade Guias destina-se à geração de guias para controle e ateste de
+tramitação, remessa e expedição de processos.
+Procedimentos:
+▪ Selecionar a funcionalidade GUIAS.
+▪ O sistema disponibiliza a lista de guias que podem ser impressas.
+Navegando na tela inicial da funcionalidade:
+▪ Selecionar a opção Guias de Tramitação para gerar guias de controle de envio de
+processos para outros departamentos ativos no sistema;
+▪ Selecionar a opção Guias de Remessa para gerar guias de controle do envio de
+malotes de remessa de processo.
+▪ Selecionar a opção Guias de Expedição – Externo para gerar guias de controle de
+envio de processo para pessoas físicas e jurídicas externas à PMC;
+▪ Selecionar a opção Guias de Expedição – Outras Secretarias para gerar guias de
+controle de envio de processo para departamentos de outras secretarias que
+utilizam o sistema
+▪ Selecionar a opção Guias de Expedição – Em Mãos para gerar guias de controle
+de envio de processos em mãos para pessoas físicas e jurídicas externas à PMC;
+AÇÃO: Guias de Tramitação
+A funcionalidade Guia de tramitação é destinada à geração de guias de controle
+de protocolos tramitados entre departamentos da mesma empresa no sistema.
+Procedimentos:
+Elaboração: IKHON-Tecnologia Página 47 de 111
+
+[Página 48]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Selecionar o tipo de guia que deseja gerar: guia de tramitação por departamento ou
+guia de tramitação por protocolo.
+Guias de Tramitação por Departamento
+Procedimentos:
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia. Os campos assinalados com asterisco
+vermelho são de preenchimento obrigatório;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+▪ O sistema listará o(s) processos tramitados pelo departamento de acordo com os
+parâmetros informados no formulário.
+▪ Selecionar o(s) protocolo que deseja incluir na guia;
+▪ Acionar o botão ‘IMPRIMIR GUIA’;
+Elaboração: IKHON-Tecnologia Página 48 de 111
+
+[Página 49]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema gerará uma guia como a seguir.
+Guias de Tramitação por Protocolo
+Procedimentos:
+▪ Informar o número do processo cujo histórico de tramitação deseja acessar;
+▪ Acionar o botão ‘BUSCAR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 49 de 111
+
+[Página 50]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema listará os trâmites localizados;
+▪ Selecionar o(s) trâmite(s) que deseja listar na guia;
+▪ Acionar o botão ‘IMPRIMIR GUIA’ para efetuar a ação.
+▪ O sistema gerará uma guia como a seguir.
+Elaboração: IKHON-Tecnologia Página 50 de 111
+
+[Página 51]
+Manual do usuário – Módulo Processos Versão 1.0
+AÇÃO: Guias de Remessa
+A funcionalidade Guia de Remessa é destinada à geração de guias de controle de
+envio de malotes de remessa de processo.
+Procedimentos:
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia. Os campos assinalados com asterisco
+vermelho são de preenchimento obrigatório.
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 51 de 111
+
+[Página 52]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Selecionar os registros que deseja incluir na guia e acionar o botão IMPRIMIR GUIA.
+▪ O sistema irá exibir a Guia de Remessa conforme a tela abaixo.
+AÇÃO: Guia de Expedição - Externo
+A funcionalidade Guia de Expedição – Externo é destinada à geração de guias
+de controle de protocolos enviados para pessoas ou instituições externas à PMC.
+Elaboração: IKHON-Tecnologia Página 52 de 111
+
+[Página 53]
+Manual do usuário – Módulo Processos Versão 1.0
+Procedimentos:
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+▪ O sistema listará o(s) protocolo(s) localizado(s) de acordo com os parâmetros
+utilizados na pesquisa;
+▪ Selecionar o(s) protocolo que deseja incluir na guia;
+▪ Acionar o botão ‘IMPRIMIR GUIA’;
+▪ O sistema gerará uma guia como a seguir:
+Elaboração: IKHON-Tecnologia Página 53 de 111
+
+[Página 54]
+Manual do usuário – Módulo Processos Versão 1.0
+AÇÃO: Guias de Expedição - Outras Secretarias
+A funcionalidade Guia de Expedição – Outras Secretarias é destinada à geração
+de guias de controle de protocolos enviados para outras secretarias que utilizam o sistema.
+Procedimentos:
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia;
+▪ O campo destino apresenta todos os departamentos das demais secretarias.
+Selecionar o departamento que deseja gerar a guia;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 54 de 111
+
+[Página 55]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema listará o(s) protocolo(s) localizado(s) de acordo com os parâmetros
+utilizados na pesquisa;
+▪ Selecionar o(s) protocolo que deseja incluir na guia;
+▪ Acionar o botão ‘IMPRIMIR GUIA’;
+▪ O sistema gerará uma guia como a seguir:
+Elaboração: IKHON-Tecnologia Página 55 de 111
+
+[Página 56]
+Manual do usuário – Módulo Processos Versão 1.0
+AÇÃO: Guia de Expedição – Em Mãos
+A funcionalidade GUIA DE EXPEDIÇÃO – EM MÃOS é destinada à geração de
+guias de controle de protocolos enviados em mãos a pessoas e instituições externas à
+PMC.
+Procedimentos:
+Ver tópico - Guias de Expedição.
+Elaboração: IKHON-Tecnologia Página 56 de 111
+
+[Página 57]
+Manual do usuário – Módulo Processos Versão 1.0
+2.12. Anexar / Apensar
+A funcionalidade Juntar/Anexar/Apensar destina-se a juntar um processo a outro
+processo por meio da anexação ou apensação e juntar um documento a um processo. Por
+esta funcionalidade também podem ser desfeitas as juntadas de processo.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico do processo principal ao qual deseja anexar outros protocolos;
+▪ Acionar o botão PESQUISAR;
+▪ Informar o tipo de juntada (processo ou documento).
+▪ Acionar o botão +, na opção ‘NUP’, para selecionar o(s) documento(s) ou
+processo(s) que deseja anexar.
+▪ Informar o tipo de operação (anexação ou apensação) se o tipo de juntada for
+processo. Para documento somente estará disponível a operação anexação.
+Elaboração: IKHON-Tecnologia Página 57 de 111
+
+[Página 58]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ No campo NUP:
+o Clicar no + do campo nup;
+o Selecionar com um ‘click’ o(s) documento(s) ou processo(s) que serão
+juntados;
+o Acionar o botão ‘ADICIONAR’;
+▪ Em seguida o sistema mostrará uma relação dos protocolos que serão juntados ao
+processo.
+▪ Acionar o botão ‘ANEXAR’.
+Elaboração: IKHON-Tecnologia Página 58 de 111
+
+[Página 59]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá a seguinte mensagem;
+DESFAZER JUNTADA/ANEXAÇÃO/APENSAÇÃO
+▪ Selecionar o documento ou processo que deseja desmembrar ou desentranhar;
+▪ Acionar o botão ‘DESMEMBRAR’ para retirar o(s) documento(s) ou processo(s) da
+juntada atual e reutilizar em seguida, ou ‘DESENTRANHAR’ para retirar o(s)
+documento(s) ou processo(s) da juntada atual e deixá-lo(s) na listagem de correntes
+para utilizar em ações futuras;
+▪ Inserir uma justificativa para a desanexação;
+▪ Se possuir o TERMO adicionar;
+Elaboração: IKHON-Tecnologia Página 59 de 111
+
+[Página 60]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Acionar o botão “CONFIRMAR DESMEMBRAMENTO” ou CONFIRMAR
+“DESENTRANHAMENTO’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+Elaboração: IKHON-Tecnologia Página 60 de 111
+
+[Página 61]
+Manual do usuário – Módulo Processos Versão 1.0
+Elaboração: IKHON-Tecnologia Página 61 de 111
+
+[Página 62]
+Manual do usuário – Módulo Processos Versão 1.0
+2.13. Listagem
+A funcionalidade Listagem destina-se à visualização e ao acesso às ações
+disponíveis com os processos que estão na carga do departamento. Pela listagem o
+usuário localiza o processo com o qual deseja trabalhar e em seguida a ação que deseja
+executar com o processo escolhido.
+Navegando na tela inicial da funcionalidade:
+▪ Utilizar o campo ‘ANO’ para filtrar a exibição dos processos na listagem de acordo
+com o ano em que foram registrados no sistema;
+▪ Utilizar o campo ‘PENDÊNCIA’ para filtrar a exibição dos processos na listagem pelo
+tipo de pendência que um processo possui. Os tipos de pendências são: ACEITA,
+AGUARDANDO ANÁLISE, AGUARDANDO ENVIO, AGUARDANDO RESPOSTA,
+CANCELADA, NÃO ACEITA, RESPONDIDO E NÃO ENVIADO;
+▪ Utilizar o campo ‘SITUAÇÃO’ para filtrar a exibição da listagem de acordo com sua
+situação (CORRENTES, CADASTRADOS, ARQUIVADOS, CANCELADOS,
+EXPEDIDOS, SOBRESTADO, RECUSADOS, SOBRESTADOS e MIGRADOS);
+▪ Selecionar a opção ‘PESSOAL’ para exibir apenas os processos distribuídos para a
+responsabilidade do usuário;
+▪ Selecionar a opção ‘MOSTRAR JUNTATOS’ para exibir na listagem os processos
+que estão juntados a outros processos. Por padrão, o sistema os ocultará;
+▪ Selecionar a opção ‘PROCESSOS DIGITAIS’ para exibir apenas os processos
+digitais, os quais exibem a coloração amarela de fundo;
+▪ Utilizar o campo ‘PESQUISAR’ para localizar um processo dentro da listagem de
+processos exibida na tela;
+▪ Utilizar a ‘BARRA DE AÇÃO’ para realizar alterações, inclusão de arquivos digitais,
+tramitação, geração de etiquetas e outras ações com o processo;
+Elaboração: IKHON-Tecnologia Página 62 de 111
+
+[Página 63]
+Manual do usuário – Módulo Processos Versão 1.0
+BARRA DE AÇÃO: Alterar
+Este é outro caminho possível para acessar a funcionalidade Juntar / Anexar /
+Apensar descrita no tópico 2.9 deste manual.
+BARRA DE AÇÃO: Anexar / Apensar
+Este é outro caminho possível para acessar a funcionalidade Juntar / Anexar /
+Apensar descrita no tópico 2.9 deste manual.
+BARRA DE AÇÃO: Arquivar
+Este é outro caminho possível para acessar a funcionalidade Arquivar, descrita no
+tópico 2.1 deste manual.
+BARRA DE AÇÃO: Cancelar
+A ação Cancelar destina-se ao cancelamento do registro de um processo no
+sistema. Os processos cancelados não serão eliminados do sistema, mas serão
+redirecionados para uma listagem de processos cancelados distinguindo-os dos que estão
+na listagem de correntes.
+Procedimentos:
+Elaboração: IKHON-Tecnologia Página 63 de 111
+
+[Página 64]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Selecionar a funcionalidade LISTAGEM barra de ação CANCELAR;
+▪ Informar o motivo do cancelamento;
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para cancelar mais de um
+processo ao mesmo tempo;
+Elaboração: IKHON-Tecnologia Página 64 de 111
+
+[Página 65]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Acionar o botão ‘CANCELAR’;
+▪ O sistema atualizará a tela com a situação atual do processo: CANCELADO.
+Após o cancelamento, o PROCESSO pode ser recuperado para a listagem de processos correntes. Para acessar
+o cadastro de um processo cancelado, selecionar a situação ‘CANCELADO’ na Listagem de processos do
+departamento, na barra de ação do processo desejado clicar em cancelar. A tela acima aparecerá, clicar no botão
+RECUPERAR PROCESSO para que o mesmo, retorne à listagem de correntes.
+Recuperar o Processo
+▪ Acionar o botão ‘RECUPERAR PROCESSO’ para desfazer o cancelamento e reativar o
+protocolo.
+Elaboração: IKHON-Tecnologia Página 65 de 111
+
+[Página 66]
+Manual do usuário – Módulo Processos Versão 1.0
+BARRA DE AÇÃO: Distribuir
+Este é outro caminho possível para acessar a funcionalidade Distribuir, descrita
+no tópico 2.4 deste manual.
+BARRA DE AÇÃO: Eventos
+A ação Eventos é destinada ao cadastramento de eventos em processos
+cadastrados no sistema.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação EVENTOS;
+▪ Acionar o botão ‘+’, na opção ‘NUP´S ADICIONAIS’, para cadastrar um evento em
+mais de um processo ao mesmo tempo;
+▪ Informar o evento;
+▪ Informar a data de ocorrência do evento;
+▪ Preencher o campo de detalhamento do evento;
+▪ Acionar o campo ‘INCLUIR’ para efetuar a ação.
+Elaboração: IKHON-Tecnologia Página 66 de 111
+
+[Página 67]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema atualiza a tela com o novo evento do processo.
+O sistema somente permite excluir o evento o usuário que cadastrou.
+Elaboração: IKHON-Tecnologia Página 67 de 111
+
+[Página 68]
+Manual do usuário – Módulo Processos Versão 1.0
+Excluir evento:
+▪ Marcar a caixa da coluna e acionar o botão ‘EXCLUIR’ para retirar o evento;
+▪ O sistema emitirá a mensagem a seguir solicitando que confirme a operação;
+▪ O sistema atualiza mostrando a tela sem o evento;
+Elaboração: IKHON-Tecnologia Página 68 de 111
+
+[Página 69]
+Manual do usuário – Módulo Processos Versão 1.0
+Finalizar evento:
+▪ Marcar a caixa da coluna e acionar o botão ‘FINALIZAR’ para encerrar o evento;
+▪ O sistema emitirá a mensagem a seguir solicitando que confirme a operação.
+Elaboração: IKHON-Tecnologia Página 69 de 111
+
+[Página 70]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema atualiza mostrando a tela com evento NÃO ATIVO;
+BARRA DE AÇÃO: Expedir
+Este é outro caminho possível para acessar a funcionalidade Expedir, descrita no
+tópico 2.8 deste manual.
+BARRA DE AÇÃO: FAP
+Este é outro caminho possível para acessar a funcionalidade Ficha de
+Acompanhamento, descrita no tópico 2.6 deste manual.
+Elaboração: IKHON-Tecnologia Página 70 de 111
+
+[Página 71]
+Manual do usuário – Módulo Processos Versão 1.0
+BARRA DE AÇÃO: Histórico
+A funcionalidade Histórico é destinada à visualização dos históricos de tramitação e
+prazo de resposta e de um processo. Esta tela não possui ações próprias.
+BARRA DE AÇÃO: Incluir Documento
+A ação Incluir Documento destina-se ao cadastro de um novo documento no
+sistema anexando-o ao processo em que o usuário solicitou a inclusão.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação Incluir Documento Geral.
+▪ O sistema irá apresentar a tela de cadastro de documento interno.
+▪ Alguns dados já viram preenchidos com as informações que contam no processo
+que está sendo respondido.
+▪ Complementar os dados do formulário de cadastro com as informações que
+permitirão a gestão deste documento e o acesso à informação nele registrada.
+Elaboração: IKHON-Tecnologia Página 71 de 111
+
+[Página 72]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+CAMPOS PARA SELEÇÃO E PREENCHIMENTO
+Será preenchido automaticamente com o número de protocolo do documento gerado
+NÚMERO
+pelo sistema após a inclusão.
+DATA DO Inserir a data de criação da peça documental a ser cadastrada, somente pode ser
+DOCUMENTO preenchido com a data atual ou com uma data retroativa.
+Indicar neste campo se o documento a ser inserido será de caráter totalmente digital ou
+TIPO DE SUPORTE
+se alguma peça física dele circulará, escolhendo entre as opções DIGITAL e PAPEL.
+Inserir o número de um processo já cadastrado no sistema PROTUS que seja correlato ao
+NÚMERO DO PROTUS
+documento que será cadastrado, se houver (campo não obrigatório).
+TIPO DOCUMENTAL Inserir o tipo de documentos a ser cadastrado. Ex: Ofício, Despacho Ata...etc.
+Se o documento a ser cadastrado possuir um número próprio Ex: Ofício nº01, inserir
+NÚMERO DE ORIGEM neste campo, ou digitar S/N para documentos sem numeração, pois este campo é
+obrigatório e necessita estar preenchido antes de se clicar em INCLUIR.
+Definir neste campo em que nível de acesso ao documento está caracterizado. Se a opção
+PÚBLICO for escolhida, todas as informações deste documento poderão ser visualizadas
+ACESSO por qualquer usuário interno do sistema. Se outras opções de nível de acesso forem
+cadastradas, somente usuários cadastrados com o mesmo nível poderão visualizar as
+informações do documento em questão.
+É preenchido automaticamente com o número do processo que deu origem ao
+REFERÊNCIA
+documento a ser cadastrado.
+Inserir neste campo um número já cadastrado no SIGED que seja correlato ao documento
+RESPOSTA AO
+a ser cadastrado, se houver (campo não obrigatório).
+PRAZO PREVISTO DE Inserir neste campo um prazo para o atendimento a este documento, se
+TÉRMINO necessário (campo não obrigatório).
+CLASSIFICAÇÃO Código derivado de um plano de classificação utilizado para organização dos processos de
+ARQUIVISTICA um arquivo e determinar o seu prazo de guarda.
+Indicar uma ou mais palavras correlatas ao documento a ser inserido, para facilitar buscas
+PALAVRAS-CHAVE futuras dentro do sistema, se necessário (campo não obrigatório). As palavras-chave
+devem ser pré-cadastrados.
+ASSUNTO Detalhar neste campo o assunto/objeto do conteúdo do documento a ser cadastrado.
+Acionar o botão + e escolher uma pessoa física ou jurídica que irá figurar como
+INTERESSADO interessado direto do documento, ou seja, o documento será cadastrado em nome desta
+pessoa física ou jurídica
+Indicar neste campo quem entregou a documentação para cadastro, ou seja, de onde
+procedem as peças documentais a serem cadastradas no sistema. Pode ser que o
+PROCEDÊNCIA
+interessado também figure como a procedência ou um representante legal daquele
+interessado pode assumir este papel
+Elaboração: IKHON-Tecnologia Página 72 de 111
+
+[Página 73]
+Manual do usuário – Módulo Processos Versão 1.0
+Manter acionada a checkbox SIM para que após se clicar em INCLUIR, o sistema
+ARQUIVO DIGITAL
+redirecione o usuário à tela de inserção de arquivo digital
+Preencher os campos deste item para que ao se clicar em INCLUIR, o documento seja
+automaticamente tramitado para o departamento escolhido. Recomenda-se o não
+TRAMITAR PARA
+preenchimento destes campos pois, neste caso, o que será tramitado é o processo e não
+o documento juntado a ele
+Ao preencher e selecionar as informações acione o botão INCLUIR para efetivar o
+INCLUIR
+cadastro do processo no sistema.
+LIMPAR Permite apagar todos os dados alimentados na tela.
+Elaboração: IKHON-Tecnologia Página 73 de 111
+
+[Página 74]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação. E
+anexará o documento ao processo.
+▪ Ao deixar marcado a opção incluir arquivo digital SIM, após a mensagem de
+sucesso da inclusão o sistema irá direcionar o usuário para a tela de incluir arquivo
+digital.
+Elaboração: IKHON-Tecnologia Página 74 de 111
+
+[Página 75]
+Manual do usuário – Módulo Processos Versão 1.0
+BARRA DE AÇÃO: Palavra-chave
+Este é outro caminho possível para acessar a funcionalidade Palavra-chave,
+descrita no tópico 2.11 deste manual.
+BARRA DE AÇÃO: Responsáveis
+A funcionalidade Responsáveis é destinada à atribuição de responsabilidade de
+um processo a um usuário do sistema. O usuário e o processo precisam estar no mesmo
+departamento para que a responsabilidade seja atribuída.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação RESPONSÁVEIS.
+Cadastrar responsáveis técnicos:
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para dar a um usuário
+responsabilidade sobre mais de um processo ao mesmo tempo;
+▪ Informar o nome do usuário;
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+▪ Ao selecionar a opção ‘RECEBER EMAIL DE TRAMITAÇÃO’ o sistema envia um
+e-mail para o técnico responsável que foi associado.
+Elaboração: IKHON-Tecnologia Página 75 de 111
+
+[Página 76]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá uma mensagem como a mensagem a seguir em confirmação ao
+sucesso da ação.
+▪ Após a mensagem o sistema exibirá a lista de responsáveis cadastrados.
+▪ O usuário definido como responsável será alertado da existência de um processo
+‘Pessoal Processos’ na página inicial do sistema, conforme imagem abaixo:
+Elaboração: IKHON-Tecnologia Página 76 de 111
+
+[Página 77]
+Manual do usuário – Módulo Processos Versão 1.0
+Excluir responsáveis técnicos:
+▪ O responsável pode EXCLUIR ou FINALIZAR o acompanhamento do protocolo;
+▪ Para excluir ou finalizar o acompanhamento o responsável precisa selecionar a ação
+a ser excluída e acionar o botão ‘EXCLUIR’ ou ‘FINALIZAR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 77 de 111
+
+[Página 78]
+Manual do usuário – Módulo Processos Versão 1.0
+BARRA DE AÇÃO: Sobrestar
+A ação Sobrestar destina-se ao sobrestamento de um processo registrado no
+sistema (colocar um protocolo “em espera” enquanto aguarda alguma definição, criação ou
+“chegada” de um outro protocolo). Ao ser sobrestado, o processo passa de situação
+‘Corrente’ para ‘Sobrestado’. Por esta funcionalidade também podem ser desfeitas ações
+de sobrestamento de processo.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação SOBRESTAR.
+Sobrestar processo
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para sobrestar mais de um
+processo ao mesmo tempo;
+▪ Informar a localização física de armazenamento do processo;
+o O(s) processos(s) pode(m) ser sobrestado(s) diretamente em uma caixa do
+Módulo Arquivos. Acionar o botão + no campo ‘CAIXA’ para selecionar uma;
+o Não é preciso preencher todos os campos;
+▪ Selecionar a conclusão do processo;
+▪ Informar o motivo/despacho do sobrestamento;
+▪ Acionar o botão ‘SOBRESTAR’ para efetuar a ação;
+Elaboração: IKHON-Tecnologia Página 78 de 111
+
+[Página 79]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação
+▪ O sistema atualizará a tela com a nova situação do processo.
+Após o sobrestamento, o processo continua sendo acessado pelo módulo de processo. Para acessá-lo o
+usuário deverá escolher a situação ‘SOBRESTADO’ na Listagem de processos do departamento.
+Desfazer sobrestamento:
+▪ Acionar o botão ‘DESFAZER’ para desfazer o sobrestamento do processo.
+Elaboração: IKHON-Tecnologia Página 79 de 111
+
+[Página 80]
+Manual do usuário – Módulo Processos Versão 1.0
+BARRA DE AÇÃO: Tramitar
+Este é outro caminho possível para acessar a funcionalidade Tramitar, descrita no
+tópico 2.21 deste manual.
+BARRA DE AÇÃO: Volumes
+Este é outro caminho possível para acessar a funcionalidade Volumes, descrita no
+tópico 2.22 deste manual.
+Elaboração: IKHON-Tecnologia Página 80 de 111
+
+[Página 81]
+Manual do usuário – Módulo Processos Versão 1.0
+2.14. Palavra - Chave
+A funcionalidade Palavra-Chave destina-se à vinculação de palavras-padrão para
+a descrição do conteúdo de um processo registrado no sistema.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação PALAVRA-CHAVE;
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico ao qual deseja vincular a palavras-chave.
+▪ Acionar o botão PESQUISAR.
+▪ Acionar o botão +, na opção ‘NUP´S ADICIONAIS’, para inserir a(s) mesma(s)
+palavra-chave(s) em mais de um processo ao mesmo tempo;
+▪ Acionar o botão +, na opção ‘PALAVRA-CHAVE’, para pesquisar a(s) palavra(s)
+desejada(s);
+o Selecionar com um ‘tick’ a(s) palavra(s);
+o Acionar o botão ‘INCLUIR’;
+Elaboração: IKHON-Tecnologia Página 81 de 111
+
+[Página 82]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema atualizará a tela com a(s) palavra(s) selecionada(s);
+▪ Acionar o botão ‘INSERIR’ para efetuar a ação;
+Excluir palavra-chave:
+▪ Para retirar uma palavra-chave, selecionar o item com um ‘tick’ na última coluna;
+▪ Acionar o botão ‘EXCLUIR’ para iniciar a ação.
+Elaboração: IKHON-Tecnologia Página 82 de 111
+
+[Página 83]
+Manual do usuário – Módulo Processos Versão 1.0
+2.15. Pesquisa Avançada
+A funcionalidade Pesquisa-Avançada é destinada à busca por processos
+cadastrados no sistema utilizando os campos das descrições utilizadas no registro deles.
+Procedimentos:
+▪ Preencher os campos do formulário de pesquisa com as informações das quais
+dispõe;
+o Para um resultado mais amplo, utilizar menos critérios;
+o Para um resultado mais refinado, combinar mais critérios;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação
+Elaboração: IKHON-Tecnologia Página 83 de 111
+
+[Página 84]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema listará o(s) protocolo(s) localizado(s) de acordo com os parâmetros
+utilizados na pesquisa;
+▪ Para acessar um processo clique no link do número do processo ou na coluna
+NÚMERO/AÇÃO selecione uma das funções da lista.
+▪ Acionar a opção ‘REFINAR PESQUISA’ para fazer nova busca utilizando também os
+padrões utilizado na última pesquisa;
+▪ Acionar a opção ‘NOVA PESQUISA’ para fazer nova busca em tela com todos os
+campos em branco;
+Elaboração: IKHON-Tecnologia Página 84 de 111
+
+[Página 85]
+Manual do usuário – Módulo Processos Versão 1.0
+Informação Importante: O usuário deve utilizar esta funcionalidade informando o máximo de campos possíveis,
+pois quanto menos refinada for a pesquisa maior serão número de processos apresentados e, consequentemente o
+tempo de resposta da pesquisa será demorado. A recuperação das informações será efetuada informando um ou mais
+campos ao mesmo tempo e, quanto mais campos estiverem preenchidos, mais preciso será o resultado da pesquisa.
+Elaboração: IKHON-Tecnologia Página 85 de 111
+
+[Página 86]
+Manual do usuário – Módulo Processos Versão 1.0
+2.16. Pesquisa Simples
+A funcionalidade Pesquisa Simples destina-se à busca de processos registrados
+no sistema utilizando o número de protocolo como critério de busca. A pesquisa simples
+direciona o usuário para a tela de dados cadastrais do processo.
+A tela de dados cadastrais apresenta os dados que descrever o conteúdo e as
+principais informações sobre ações realizadas com o processo.
+Procedimentos:
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico do processo ao qual deseja pesquisa;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+▪ O sistema disponibilizará os dados do processo apenas para consulta. Para ver
+todas as informações do processo, navegar na página rolando a barra vertical à
+direita da tela.
+Elaboração: IKHON-Tecnologia Página 86 de 111
+
+[Página 87]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema disponibiliza diversos botões de ações que podem ser feitas no processo
+caso o mesmo, esteja com carga no departamento do usuário. Se o processo que
+está sendo consultado estiver em outro departamento o sistema só disponibiliza, na
+tela de cadastro, os botões ‘ETIQUETAS’ e ‘VISUALIZAR’.
+Elaboração: IKHON-Tecnologia Página 87 de 111
+
+[Página 88]
+Manual do usuário – Módulo Processos Versão 1.0
+2.17. Receber Tramitação
+A funcionalidade Receber Tramitação destina-se ao recebimento da tramitação de
+ou um mais processos. O sistema disponibiliza a lista dos processos movimentados para o
+departamento e que ainda não foram recebidos.
+Ou
+Procedimentos:
+Elaboração: IKHON-Tecnologia Página 88 de 111
+
+[Página 89]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico do processo principal ao qual deseja anexar outros protocolos;
+▪ Selecionar, entre os processos listados, o(s) protocolos(s) cuja(s) tramitação(ões)
+deseja receber.
+▪ Acionar o botão ‘RECEBER’ para efetuar a ação;
+o Acionar o botão ‘RECEBER/ARQUIVAR’ para ser redirecionado para a tela
+de arquivamento de processos imediatamente após o recebimento;
+o Acionar o botão ‘RECEBER/DISTRIBUIR’ para ser redirecionado para a tela
+de distribuição de processos imediatamente após o recebimento;
+o Acionar o botão ‘RECEBER/LISTAGEM’ para ser redirecionado para a
+listagem de processos correntes do departamento;
+o Acionar o botão ‘RECEBER/SOBRESTAR’ para ser redirecionado para a tela
+de sobrestamento de processos;
+o Acionar o botão ‘RECEBER/TRAMITAR’ para ser redirecionado para a tela de
+tramitação de processos imediatamente após o recebimento;
+o Acionar o botão ‘RECUSAR’ para recusar o recebimento de um processo, o
+qual retornará à origem;
+▪ O sistema apresenta três opções para o recebimento dos processos, além da opção
+de recusa:
+o Informar o número do processo e acionar o botão RECEBER;
+Elaboração: IKHON-Tecnologia Página 89 de 111
+
+[Página 90]
+Manual do usuário – Módulo Processos Versão 1.0
+o Marcar somente o(s) processo(s) que deseja receber clicando sobre a(s)
+caixa(s) correspondente e acionando o botão RECEBER.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+o Além das opções de recebimento o sistema ainda dá a oportunidade de
+RECUSAR o recebimento de um processo, o que faz com que esse processo
+retorne à origem. Basta marcar a checkbox RECUSAR, informar a justificativa
+para a recusa acionar o botão RECUSAR;
+Elaboração: IKHON-Tecnologia Página 90 de 111
+
+[Página 91]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema emitirá uma a mensagem a seguir em confirmação ao sucesso da ação.
+▪ Enquanto um processo não for recebido via sistema este aparece com a cor
+vermelha na Listagem de processos do departamento.
+▪ Na listagem ao clicar na ação receber o sistema irá receber o processo
+automaticamente.
+Elaboração: IKHON-Tecnologia Página 91 de 111
+
+[Página 92]
+Manual do usuário – Módulo Processos Versão 1.0
+2.18. Receber Distribuição
+A funcionalidade Receber Distribuição destina-se ao recebimento da distribuição
+da responsabilidade sobre um ou mais processos dada a um usuário do sistema.
+Procedimentos:
+▪ Selecionar a funcionalidade RECEBER DISTRIBUIÇÃO;
+▪ Selecionar, entre os processos listados, o(s) processo(s) cuja(s) distribuição(ões)
+deseja receber;
+o O sistema listará nesta tela todos os processos distribuídos para o usuário;
+▪ Acionar o botão ‘RECEBER’;
+o O sistema atualizará a tela com os dados a serem inseridos;
+o Informar o servidor responsável pelo recebimento e o motivo;
+Elaboração: IKHON-Tecnologia Página 92 de 111
+
+[Página 93]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Em seguida o sistema emitirá a mensagem de confirmação de sucesso da ação;
+2.19. Receber Empréstimo
+A funcionalidade Receber Empréstimo destina-se ao recebimento de
+empréstimos de um ou mais processos arquivados e emprestados para o departamento e
+ainda não foram recebidos.
+Procedimentos:
+▪ Selecionar a funcionalidade RECEBER EMPRÉSTIMO;
+▪ Selecionar, entre os processos listados, o(s) processo(s) cujo(s) o empréstimo(s)
+deseja receber;
+o O sistema listará nesta tela todos os processos emprestados para o
+departamento;
+▪ Acionar o botão ‘RECEBER’;
+Elaboração: IKHON-Tecnologia Página 93 de 111
+
+[Página 94]
+Manual do usuário – Módulo Processos Versão 1.0
+2.20. Relatórios
+A funcionalidade Relatórios destina-se à geração de relatórios das atividades
+realizadas com processos no sistema. O usuário deve combinar os filtros e campos de
+busca disponíveis em cada relatório para obter as informações que deseja.
+Atualmente, estão disponíveis os relatórios de: Arquivo Setorial, Classificação
+Arquivística, Comentários, Distribuição, Eficiência, Estatísticas Gerais,
+Juntada,Palavras-Chave, Prazo de Atendimento, Prazo de Guarda, Prazo de Resposta,
+Produção, Produção com Todos os Departamentos com Gráfico, Produção por
+Departamento com Gráfico, Quantitativo de Protocolos por Departamento, Responsáveis,
+Relatório de Andamento de Processos, Tempo de Tramitação e Tramitação.
+Procedimentos:
+▪ Selecionar a funcionalidade RELATÓRIOS:
+▪ Selecionar o relatório desejado, digitar ou selecionar os campos para a filtragem e
+acionar o botão PESQUISAR. Abaixo o exemplo de relatório de Produção.
+Exemplo:
+GERAR RELATÓRIO PRODUÇÃO
+Elaboração: IKHON-Tecnologia Página 94 de 111
+
+[Página 95]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Preencher os campos do formulário de busca;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+CAMPOS PARA SELEÇÃO E PREENCHIMENTO
+Campo Descrição do Campo
+Cadastrado no departamento Selecionar para filtragem dos dados a partir do departamento de cadastro do
+processo. Campo preenchido com os departamentos do sistema.
+Selecionar para incluir na pesquisa os departamentos subordinados ao
+Incluir departamento subordinado
+departamento selecionado no campo departamento de cadastro.
+Selecionar para filtragem dos dados a partir da unidade demandante.
+Unidade demandante
+Campo preenchido com os departamentos do sistema.
+Elaboração: IKHON-Tecnologia Página 95 de 111
+
+[Página 96]
+Manual do usuário – Módulo Processos Versão 1.0
+Selecionar para filtragem o usuário que procedeu com o cadastro do processo.
+Cadastrado por
+Campo preenchido com os usuários vinculados ao departamento de cadastro
+selecionado.
+Selecionar para filtragem dos dados a partir do departamento de onde foi tramitado
+Tramitado de o processo. (Informar o departamento de origem do tramite).
+Campo preenchido com os departamentos do sistema.
+Selecionar para filtragem dos dados a partir de para onde foi tramitado o processo.
+Tramitado para (Informar o departamento de destino do tramite)
+Campo preenchido com os departamentos do sistema.
+Informar para filtragem dos dados a partir do período inicial do cadastro do
+Cadastrados Entre (Início) processo.
+Campo preenchido com o primeiro dia do mês vigente.
+Informar para filtragem dos dados a partir do período final do cadastro do processo.
+Cadastrados Entre (Fim)
+Campo preenchido com último dia do mês vigente.
+Tramitado Entre (Início) Informar para filtragem dos dados a partir do período inicial de tramitação. (Período
+inicial que o processo sofreu tramitações)
+Tramitado Entre (Fim) Informar para filtragem dos dados a partir do período final de tramitação. (Período
+final que o processo sofreu tramitações)
+Recebido Entre (Início) Informar para filtragem dos dados a partir do período inicial de recebimento da
+tramitação
+Recebido Entre (Fim) Informar para filtragem dos dados a partir do período final de recebimento de
+tramitação.
+Selecionar a opção SIM para a pesquisa exibir somente os processos que não têm
+Recebimento pendência de recebimento de tramitação e NÃO para exibir os que possuem
+pendência de recebimento de tramitação.
+Departamento atual Selecionar para filtragem dos dados a partir do departamento atual do processo.
+Classificação Arquivística Selecionar para filtragem dos dados a partir da classificação arquivística do
+processo.
+Incluir classificação arquivísticas Selecionar para filtragem dos dados a partir das classificações arquivísticas
+subordinadas a selecionada no campo Classificação Arquivística.
+subordinadas
+Selecionar para filtragem dos dados a partir do tipo de acesso do processo.
+Acesso
+Campo preenchido com os tipos de acesso do sistema.
+Requerente Selecionar para da filtragem dos dados a partir do interessado do processo.
+Campo Livre Informar para filtragem dos dados a partir do campo livre.
+Este campo realiza a pesquisa pelo assunto do processo.
+Considerar Processo Recebido Selecionar para considerar os processos externos como produzidos e aparecer no
+resultado da pesquisa.
+como produzido
+Selecionar para da filtragem dos dados a partir da situação do processo.
+Situação O sistema apresenta os seguintes valores para seleção: Todas; (Default);
+Correntes; Arquivados; Cancelados; Expedidos; Sobrestados; Eliminados;
+Recusados.
+Selecionar para filtrar os processos que possui evento associado.
+Evento
+Opções – Ver Tramitações Selecionar para que no resultado da pesquisa sejam exibidas as tramitações.
+Opções – Mostrar Formulário Selecionar para se após a pesquisa exibir o formulário de pesquisa.
+Opções – Exibir Selecionar para que no resultado da pesquisa sejam exibidos o CPF/CNPJ e
+Endereço do interessado.
+CPF/CNPJ/Endereço
+Selecionar para serem exibidos no resultado do relatório todos os campos ou
+Exibir Campos
+somente os campos selecionados.
+Exibir Campos – Somente Campos exibidos somente se a opção “somente selecionados” for selecionada.
+Elaboração: IKHON-Tecnologia Página 96 de 111
+
+[Página 97]
+Manual do usuário – Módulo Processos Versão 1.0
+Selecionados
+Apresenta os campos a serem selecionados para exibição no resultado da
+pesquisa.
+Campo Valores apresentados no SOMENTE SELECIONADOS: Data do processo; Data de
+Abertura; Número de origem; Classificação Arquivística; Interessado(s);
+Departamento Atual.
+▪ O sistema atualizará a tela com uma relação de protocolos encontrados de acordo
+com os critérios de busca utilizados.
+CAMPOS APRESENTADOS NO RESULTADO DA PESQUISA
+CAMPO DESCRIÇÃO DO CAMPO
+Quantitativo Apresenta a quantidade de registros encontrados que correspondem ao critério de pesquisa
+utilizado.
+Apresenta o número do processo.
+Processo
+Ao clicar no número do processo, o sistema irá apresentar os detalhes do processo.
+Elaboração: IKHON-Tecnologia Página 97 de 111
+
+[Página 98]
+Manual do usuário – Módulo Processos Versão 1.0
+Formalização Em Apresenta o departamento em que o processo foi cadastrado.
+Formalizado Por Apresenta o usuário que realizou a formalização do processo.
+Data do Processo Apresenta a data do processo.
+Data de Abertura Apresenta a data de abertura do processo. (Data de cadastro do processo no sistema).
+Classificação Apresenta a classificação arquivística do processo.
+Arquivística
+Interessado(s) Apresenta os interessados do processo com as informações do seu CPF se for pessoa física
+ou CNPJ se for pessoa jurídica.
+Endereço Apresenta o endereço dos interessados do processo.
+Situação Apresenta a situação atual do processo.
+Departamento Atual Apresenta o departamento atual do processo.
+Data da Tramitação Apresenta a data de tramitação do processo.
+Departamento de Apresenta o departamento de origem das tramitações do processo.
+Origem
+Departamento de Apresenta o departamento de destino das tramitações do processo.
+Destino
+Despacho Apresenta o despacho dado ao processo no momento das tramitações.
+RELATÓRIOS MÓDULO PROCESSOS
+RELATÓRIO DESCRIÇÃO CAMPOS
+✔ Classificação arquivística
+✔ Departamento atual
+✔ Localização
+Relatório para ✔ Prazos “vencidos”, “vencendo” e “a vencer”
+controle dos prazos
+Arquivo de guarda dos ✔ Data de expiração corrente
+Setorial processos
+✔ Data de expiração intermediária
+arquivados em um
+departamento. ✔ Ano
+✔ Números dos processos
+✔ Conclusão
+✔ Opções de filtro para exibição do resultado
+✔ Departamento de cadastro
+Relatório para
+controle das ✔ Tipo de documento
+classificações
+Classificação arquivísticas ✔ Classificação arquivística
+Arquivística atribuído a
+✔ Data de cadastro dos documentos
+processos
+cadastrados no ✔ Acesso
+sistema.
+✔ Opções de filtro para exibição do resultado
+Elaboração: IKHON-Tecnologia Página 98 de 111
+
+[Página 99]
+Manual do usuário – Módulo Processos Versão 1.0
+Relatório para ✔ Data de cadastro dos comentários
+controle de inclusões
+Comentários ✔ Usuário que fez os comentários
+de comentários em
+processos.
+✔ Campo livre para busca no texto dos comentários
+✔ Departamento atual dos processos
+✔ Usuário pelo qual foi feita distribuição
+✔ Usuário para o qual foi feita distribuição
+Relatório para
+controle de ✔ Data da distribuição
+Distribuição distribuições de
+processos a usuários ✔ Data de vencimento da distribuição
+do sistema.
+✔ Distribuição ativa “sim” ou “não”
+✔ Distribuição recebida “sim” ou “não”
+✔ Opções de filtro para exibição do resultado
+Relatório para ✔ Empresa que deseja verificar a eficiência
+verificação da
+eficiência dos ✔ Departamento que deseja verificar a eficiência
+Eficiência
+departamentos em
+✔ Data que deseja verificar a eficiência.
+um determinado
+período. ✔ Intervalo da eficiência.
+Apresenta
+estatísticas
+Estatísticas quantitativas
+N/A
+Gerais gerais para
+determinado
+período.
+✔ Departamento atual dos documentos
+✔ Tipo de documento juntado
+Relatório para
+controle de ✔ Data de cadastro dos processos
+Juntada
+processos anexados
+✔ Retornar: Todos, Juntados ou Não Juntados.
+a processos.
+✔ Data da juntada.
+✔ Usuário que realizou a juntada.
+Relatório para ✔ Palavras-chave cadastrada
+Palavras-chav controle de inclusões
+✔ Usuário que realizou a inclusão
+e de palavras-chave
+em processos.
+✔ Data de cadastro das palavras-chave
+✔ Opções de filtro para exibição do resultado
+Relatório para
+Prazo de controle dos prazos ✔ Prazos “vencidos”, “vencendo” e “a vencer”
+Atendimento de atendimento dos
+✔ Departamento atual
+processos.
+✔ Data de atendimento
+✔ Exibir no relatório apenas “prazo de guarda vencido” ou “todos”
+Relatório para ✔ Classificação arquivística,
+Prazo de controle dos prazos
+✔ Prazos “vencidos”, “vencendo” e “a vencer”
+Guarda de guarda de
+processos.
+✔ Departamento atual
+✔ Data de expiração corrente
+Elaboração: IKHON-Tecnologia Página 99 de 111
+
+[Página 100]
+Manual do usuário – Módulo Processos Versão 1.0
+✔ Data de expiração intermediária
+✔ Mostrar Prazos “todos”, “compridos” e “não compridos”
+Relatório para ✔ Departamento para a qual foi emitido prazo de resposta
+controle de prazos
+Prazo de de resposta ✔ Prazos “vencidos”, “vencendo” e “a vencer”
+Resposta informados na
+✔ Departamento atual
+tramitação de
+documentos. ✔ Situação dos processos.
+✔ Data inicial e final do prazo de resposta.
+Relatório para
+✔ Filtros explicados na exemplificação do relatório.
+Produção controle da produção
+de processos.
+Produção Relatório para ✔ Departamento de cadastro dos processos
+com Todos os controle de cadastro
+Departamento de processos por ✔ Data de cadastro dos processos
+s com Gráfico departamentos.
+Relatório para
+Produção Por ✔ Departamento atual
+controle da situação
+Departamento
+dos protocolos por
+Com Gráfico
+departamento.
+Relatório para
+Quantitativo controle de ✔ Tipo de departamento “interno”, “externo” e “próprio”.
+de Protocolos quantidade de ✔ Situação do departamento
+por protocolos
+Departamento atualmente por ✔ Somente exibir protocolos correntes
+departamento.
+✔ Empresa
+✔ Departamento atual dos processos para exibir no resultado da pesquisa
+✔ Departamento de cadastro dos processos para filtro.
+✔ Exibir departamentos subordinados no resultado da pesquisa
+✔ Agrupar departamentos subordinados no resultado da pesquisa.
+✔ Departamento de cadastro dos processos para exibir no resultado da
+pesquisa
+Relatório para ✔ Departamento atual dos processos dos processos para filtro
+controle de
+Relatório de ✔ Exibir departamentos subordinados no resultado da pesquisa
+Processos
+Andamento
+cadastrados no
+de Processos ✔ Agrupar departamentos subordinados no resultado da pesquisa
+sistema e sua
+situação atua. ✔ Situação dos processos
+✔ Pendência “todos”, “aguardando envio”, “cancelada”,
+“respondida e não enviada”, “aguardando análise”, “aguardando resposta”,
+“aceita” e “não aceita”
+✔ Origem do processo “Web”, “presencial” e “migrado”
+✔ Permanência do processo no departamento
+✔ Data permanência no departamento
+✔ Data de cadastro do processo
+Relatório para ✔ Departamento de atribuição
+Responsáveis controle de
+responsáveis ✔ Usuário que atribuiu
+Elaboração: IKHON-Tecnologia Página 100 de 111
+
+[Página 101]
+Manual do usuário – Módulo Processos Versão 1.0
+✔ Usuário a quem foi atribuído
+✔ Data da atribuição
+✔ Opções de filtro para exibição do resultado
+✔ Departamento atual
+Relatório para
+Tempo de
+controle de tempo de ✔ Incluir departamentos subordinados
+Tramitação
+tramitação.
+✔ Data de tramitação
+✔ Departamento de origem
+✔ Departamento de destino
+✔ Motivo da tramitação
+✔ Tramitação recebida “sim” ou “não”
+Relatório para
+controle das ✔ Data da tramitação
+Tramitação
+tramitações sofridas
+✔ Horário da tramitação
+por processos
+✔ Situação dos processos
+✔ Classificação Arquivística
+✔ Incluir classificações arquivísticas subordinadas
+✔ Opções de filtro para exibição do resultado
+Elaboração: IKHON-Tecnologia Página 101 de 111
+
+[Página 102]
+Manual do usuário – Módulo Processos Versão 1.0
+2.21. Tramitar
+A funcionalidade Tramitar destina-se à tramitação (movimentação) de processo de um
+departamento para outro no sistema.
+Procedimentos:
+▪ Selecionar a funcionalidade TRAMITAR;
+▪ Informar o número do processo ou o ler o código de barras ou informar o número cívico que deseja
+tramitar;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para adicionar mais processo à tramitação;
+▪ Informar se o(s) processo(s) tramitado(s) possui prioridade de tratamento no departamento de
+destino;
+▪ Informar o departamento de destino do(s) processos(s) e aos cuidados de qual usuário;
+▪ Informar o motivo pelo qual está realizando a tramitação;
+▪ Informar um despacho acerca da tramitação do(s) processo(s);
+▪ Informar se há prazo para a resposta da tramitação;
+Elaboração: IKHON-Tecnologia Página 102 de 111
+
+[Página 103]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Acionar o botão ‘TRAMITAR’ para efetuar a ação.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ O trâmite poderá ser desfeito até o recebimento do processo pelo departamento
+para onde ele foi tramitado.
+NÚMEROS ADICIONAIS:
+▪ Esta funcionalidade é utilizada para adicionar outros registros na tramitação com o
+mesmo motivo e o mesmo despacho. Para adicionar novos registros acione o botão
+(+):
+Elaboração: IKHON-Tecnologia Página 103 de 111
+
+[Página 104]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Selecionar o registro de interesse e acionar o botão ADICIONAR:
+▪ Para tramitar mais de um volume do mesmo processo, deve-se adicionar os demais
+volumes ao tramite no campo números adicional.
+▪ Para tramitar os processos para departamentos distintos selecionar a opção
+TRÂMITE PARA DEPARTAMENTOS DISTINTOS no campo DESTINO.
+▪ O sistema irá listas os processos para a seleção dos departamentos de destino de
+cada um.
+▪ Informar o número de folhas dos processos e acionar o botão ‘TRAMITAR’ para
+efetuar a ação.
+Elaboração: IKHON-Tecnologia Página 104 de 111
+
+[Página 105]
+Manual do usuário – Módulo Processos Versão 1.0
+A tramitação altera a situação do processo para ‘TRAMITANDO’, Assim, o protocolo só poderá sofrer outras ações
+até o recebimento pelo departamento de destino ou até o cancelamento da tramitação pelo departamento de origem.
+Elaboração: IKHON-Tecnologia Página 105 de 111
+
+[Página 106]
+Manual do usuário – Módulo Processos Versão 1.0
+2.22. Volumes
+A funcionalidade Volumes destina-se ao encerramento e abertura de volumes de
+processos. Para abrir um novo volume é preciso que o volume anterior esteja encerrado.
+Procedimentos:
+▪ Selecionar a funcionalidade VOLUMES.
+▪ Informar o número do processo ou o ler o código de barras ou informar o número
+cívico.
+▪ Acionar o botão ‘PESQUISAR’.
+▪ Se o processo já possuir um volume aberto o sistema exibirá a tela abaixo para
+realizar o encerramento do volume.
+▪ Acionar o botão ‘ENCERRAR VOLUME’.
+▪ O sistema exibirá a tela abaixo com a opção de criar o Termo de Encerramento de
+Volumes.
+▪ Acionar o botão [+]
+Elaboração: IKHON-Tecnologia Página 106 de 111
+
+[Página 107]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ Informar o número do protocolo do termo.
+▪ Acionar o botão ‘ADICIONAR’.
+▪ O sistema irá atualizar a tela de volumes com o número do protocolo do termo
+incluído.
+▪ Acionar o botão ‘CONFIRMAR’. Para confirmar o encerramento do volume.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação
+Criar volume
+▪ Para criar um volume de processos acionar o botão ‘CRIAR NOVO VOLUME’.
+Elaboração: IKHON-Tecnologia Página 107 de 111
+
+[Página 108]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema exibirá a opção de criar o Termo de Abertura de Volumes.
+▪ Informar o número do protocolo do termo.
+▪ Acionar o botão ‘ADICIONAR’.
+▪ Ou preencher os campos para a criação de novo termo
+▪ Acionar o botão ‘INCLUR’.
+▪ O sistema irá atualizar a tela de volumes com o número do protocolo do termo
+incluído.
+▪ O sistema emitirá a mensagem solicitando a confirmação da ação.
+Elaboração: IKHON-Tecnologia Página 108 de 111
+
+[Página 109]
+Manual do usuário – Módulo Processos Versão 1.0
+▪ O sistema retornará a tela de volumes habilitando novamente a opção de encerrar
+volume.
+Elaboração: IKHON-Tecnologia Página 109 de 111
+
+[Página 110]
+Manual do usuário – Módulo Processos Versão 1.0
+3. 3 - T A
+ECLAS DE TALHO
+As teclas de atalho são ferramentas a serem utilizadas para agilizar o acesso a determinada tela ou
+funcionalidade do sistema. Para acessar uma das telas, abaixo, acione a tecla correspondente no teclado do
+seu computador. Abaixo, segue a finalidade de cada tecla.
+TECLA FUNCIONALIDADE
+F1 MANUAIS E NORMAS > VISUALIZAR
+F2 DOCUMENTOS>CADASTRO
+F3 PROCESSOS>VOLUMES
+F4 DOCUMENTOS>ANEXOS
+F6 DOCUMENTOS> ETIQUETAS
+F7 DOCUMENTOS> AUTUAR PROCESSO
+F8 DOCUMENTOS> PESQUISA SIMPLES
+F9 DOCUMENTOS> ARQUIVAR
+F11 DOCUMENTOS> JUNTAR DOCUMENTO
+[Ctrl] + [G] DOCUMENTOS> CONTROLE DE PRAZOS
+[Ctrl] + [P] IMPRIMIR
+Elaboração: IKHON-Tecnologia Página 110 de 111
+
+[Página 111]
+Manual do usuário – Módulo Processos Versão 1.0
+4. 4- F
+ECHAMENTO
+O presente manual destina-se a orientar os usuários na utilização do Módulo de Processos do
+E-Palmas, como também, dotá-los de conhecimentos da navegabilidade, usabilidade e das funcionalidades
+para a operacionalização e gerência do mesmo.
+Elaboração: IKHON-Tecnologia Página 111 de 111

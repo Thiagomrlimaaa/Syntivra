@@ -1,0 +1,150 @@
+﻿=================================================================
+  INGEST├O COMPLETA DE CONHECIMENTO ù E-Palmas/SIGED
+=================================================================
+
+Removidos 30 chunks de PDF antigos.
+
+
+  Processando: Glossßrio SIGED - E-Palmas
+  Tamanho: 12,080 chars
+  Seþ§es detectadas: 14
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+    [+] TERMO DEFINIÃ├O
+
+  Processando: Manual M¾dulo Documentos - E-Palmas v1.0
+  Tamanho: 91,127 chars
+  Seþ§es detectadas: 48
+    [+] 2 - MËDULO DOCUMENTOS 5
+    [+] AÃ├O: Gerar Vias 24
+    [+] BARRA DE AÃ├O: Tramitar 100
+    [+] 1 - INTRODUÃ├O
+    [+] 2 - MËDULO DOCUMENTOS
+    [+] FUNÃ├O DESCRIÃ├O
+    [+] ATRAV╔S DE CERTIFICADO DIGITAL
+    [+] ATRAV╔S DE LOGIN E SENHA
+    [+] AÃ├O: Cadastrar Documento Geral
+    [+] CAMPOS PARA SELEÃ├O E PREENCHIMENTO
+    [+] AÃ├O: Modelos e Minutas
+    [+] AÃ├O: Imprimir Etiquetas
+    [+] AÃ├O: Gerar Vias
+    [+] CAMPOS PARA SELEÃ├O E PREENCHIMENTO
+    [+] AÃ├O: Guias de TramitaþÒo
+    [+] AÃ├O: Guias de Remessa
+    [+] AÃ├O: Guia de ExpediþÒo - Externo
+    [+] AÃ├O: Guia de ExpediþÒo - Outras Secretarias
+    [+] AÃ├O: Guia de ExpediþÒo û Em MÒos
+    [+] BARRA DE AÃ├O: Alterar
+    [+] BARRA DE AÃ├O: Formalizar Processo Geral
+    [+] GERAL;
+    [+] CAMPOS PARA SELEÃ├O E PREENCHIMENTO
+    [+] BARRA DE AÃ├O: Gerar via eletr¶nica
+    [+] BARRA DE AÃ├O: Hist¾rico
+    [+] BARRA DE AÃ├O: Manter Dados
+    [+] BARRA DE AÃ├O: ProvidÛncias
+    [+] BARRA DE AÃ├O: Responder
+    [+] BARRA DE AÃ├O: Responsßveis
+    [+] BARRA DE AÃ├O: Sobrestar
+    [+] BARRA DE AÃ├O: SituaþÒo Internet
+    [+] BARRA DE AÃ├O: Tramitar
+    [+] BARRA DE AÃ├O: Alterar
+    [+] BARRA DE AÃ├O: Arquivo Digital
+    [+] BARRA DE AÃ├O: Etiquetas
+    [+] BARRA DE AÃ├O: Arquivo Digital
+    [+] BARRA DE AÃ├O: Distribuir
+    [+] BARRA DE AÃ├O: Excluir
+    [+] BARRA DE AÃ├O: Protocolar
+    [+] BARRA DE AÃ├O: Tramitar
+    [+] PROTOCOLOS PARA CADASTRO.
+    [+] RECEBER;
+    [+] CAMPOS PARA SELEÃ├O E PREENCHIMENTO
+    [+] CAMPO DESCRIÃ├O DO CAMPO
+    [+] RELATËRIO DESCRIÃ├O CAMPOS
+    [+] 3 - TECLAS DE ATALHO
+    [+] TECLA FUNCIONALIDADE
+    [+] 4 - FECHAMENTO
+
+  Processando: Manual M¾dulo Processos - E-Palmas v1.0
+  Tamanho: 76,255 chars
+  Seþ§es detectadas: 60
+    [+] ECHAMENTO
+    [+] ËDULO DE ROCESSOS
+    [+] FUNCIONALIDADE DESCRIÃ├O
+    [+] 2.1. Alterar
+    [+] 2.2. Arquivar
+    [+] 2.3. Cadastro de Processo
+    [+] AÃ├O: Cadastrar Processo Geral:
+    [+] CAMPOS PARA SELEÃ├O E PREENCHIMENTO
+    [+] AÃ├O: Imprimir Capa de Processo
+    [+] AÃ├O: Imprimir Etiquetas
+    [+] AÃ├O: Imprimir Folha de Despacho
+    [+] 2.4. Cancelar TramitaþÒo
+    [+] 2.5. Comentar
+    [+] 2.6. Distribuir
+    [+] 2.7. Emprestar
+    [+] 2.8. Expedir
+    [+] AÃ├O: ExpediþÒo Externa
+    [+] AÃ├O: ExpediþÒo Outros Protocolos
+    [+] 2.9. Ficha de Acompanhamento
+    [+] 2.10. FollowUp
+    [+] 2.11. Guias
+    [+] AÃ├O: Guias de TramitaþÒo
+    [+] AÃ├O: Guias de Remessa
+    [+] AÃ├O: Guia de ExpediþÒo - Externo
+    [+] AÃ├O: Guias de ExpediþÒo - Outras Secretarias
+    [+] AÃ├O: Guia de ExpediþÒo û Em MÒos
+    [+] 2.12. Anexar / Apensar
+    [+] DESFAZER JUNTADA/ANEXAÃ├O/APENSAÃ├O
+    [+] 2.13. Listagem
+    [+] CANCELADA, N├O ACEITA, RESPONDIDO E N├O ENVIADO;
+    [+] BARRA DE AÃ├O: Cancelar
+    [+] BARRA DE AÃ├O: Eventos
+    [+] BARRA DE AÃ├O: Hist¾rico
+    [+] BARRA DE AÃ├O: Incluir Documento
+    [+] N┌MERO
+    [+] TIPO DE SUPORTE
+    [+] N┌MERO DO PROTUS
+    [+] RESPOSTA AO
+    [+] PROCED╩NCIA
+    [+] ARQUIVO DIGITAL
+    [+] TRAMITAR PARA
+    [+] INCLUIR
+    [+] BARRA DE AÃ├O: Responsßveis
+    [+] BARRA DE AÃ├O: Sobrestar
+    [+] 2.14. Palavra - Chave
+    [+] 2.15. Pesquisa Avanþada
+    [+] 2.16. Pesquisa Simples
+    [+] 2.17. Receber TramitaþÒo
+    [+] 2.18. Receber DistribuiþÒo
+    [+] 2.19. Receber EmprÚstimo
+    [+] 2.20. Relat¾rios
+    [+] CAMPOS PARA SELEÃ├O E PREENCHIMENTO
+    [+] CAMPO DESCRIÃ├O DO CAMPO
+    [+] RELATËRIO DESCRIÃ├O CAMPOS
+    [+] 2.21. Tramitar
+    [+] N┌MEROS ADICIONAIS:
+    [+] 2.22. Volumes
+    [+] ECLAS DE TALHO
+    [+] TECLA FUNCIONALIDADE
+    [+] ECHAMENTO
+
+=================================================================
+  Chunks de PDF criados:     122
+  Chunks de hist¾rico:       0
+  Total ativo no banco:      122
+=================================================================
+
+  IngestÒo concluÝda com sucesso!
+  A IA agora conhece toda a documentaþÒo do E-Palmas/SIGED.
+

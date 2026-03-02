@@ -1,0 +1,20 @@
+﻿.\venv\Scripts\python.exe :  
+ File "<string>", line 49
+No linha:1 caractere:1
++ .\venv\Scripts\python.exe 
+-c "
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo           
+   : NotSpecified: (  File   
+  "<string>", line 49:Stri   
+ ng) [], RemoteException
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+    print(f'  {s[" 
+source_name\][:55]}:
+          ^
+SyntaxError: unterminated 
+string literal (detected at 
+line 49)

@@ -1,0 +1,10 @@
+﻿Ticket: [4] 'incluir documento' | org=Empresa Demo
+
+Total de mensagens: 2
+
+  id=38 | is_ai=True | author=None | org=Empresa Demo
+  content="Olß! Para incluir documentos no sistema, siga os passos abaixo:\n\n1. Acesse o m¾dulo correspondente e clique em 'Anexar A"
+
+  id=39 | is_ai=False | author=admin@demo.com | org=Empresa Demo
+  content="Olß! Para incluir documentos no sistema, siga os passos abaixo:\n\n1. Acesse o m¾dulo correspondente e clique em 'Anexar A"
+

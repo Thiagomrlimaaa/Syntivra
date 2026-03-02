@@ -1,0 +1,4 @@
+﻿Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, sessions, tenants, tickets, users
+Running migrations:
+  Applying tickets.0005_knowledge_chunk_ai_state... OK

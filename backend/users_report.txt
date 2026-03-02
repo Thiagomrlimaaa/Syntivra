@@ -1,0 +1,3 @@
+Total de usuarios: 2
+CPF='00000000000'  email='admin@demo.com'  role=ADMIN  active=True  staff=True  superuser=True
+CPF='11111111111'  email='cliente@demo.com'  role=CUSTOMER  active=True  staff=False  superuser=False

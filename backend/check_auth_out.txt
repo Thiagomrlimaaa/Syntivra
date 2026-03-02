@@ -1,0 +1,7 @@
+﻿=== Usuarios no banco ===
+  CPF='00000000000'  email='admin@demo.com'  role=ADMIN  active=True  has_usable_pw=True
+  CPF='11111111111'  email='cliente@demo.com'  role=CUSTOMER  active=True  has_usable_pw=True
+
+=== Teste de autenticacao ===
+  OK - CPF=00000000000 autenticado -> role=ADMIN
+  OK - CPF=11111111111 autenticado -> role=CUSTOMER

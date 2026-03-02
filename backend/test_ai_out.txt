@@ -1,0 +1,18 @@
+﻿Testando IA para ticket: 'INCLUIR DOCUMENTO'
+  Org: Empresa Demo
+  Status: OPEN
+
+Sentiment detectado: NEUTRAL
+
+Sugestao gerada:
+------------------------------------------------------------
+Ol├í! Para incluir documentos no sistema, siga os passos abaixo:
+
+1. Acesse o m├│dulo correspondente e clique em 'Anexar Arquivo'.
+2. Os formatos aceitos s├úo: PDF, DOCX, XLSX e imagens (JPG/PNG) com at├® 10 MB.
+3. Ap├│s o upload, confirme clicando em 'Salvar'.
+
+Caso o documento n├úo apare├ºa ap├│s o upload, tente limpar o cache do navegador (Ctrl+Shift+R) e repita o processo. Se o problema persistir, informe o nome do arquivo e o erro exibido para agilizarmos a an├ílise.
+------------------------------------------------------------
+
+Mensagens de IA existentes nesse ticket: 0

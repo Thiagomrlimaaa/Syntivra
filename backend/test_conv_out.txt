@@ -1,0 +1,23 @@
+﻿=== Teste do Sistema Conversacional de IA ===
+
+--- Deteccao de categorias ---
+  [documento | conf=0.61 | kb=1.00] Incluir Documento no sistema
+    -> Chunk: como cadastrar documento interno, como registrar n
+  [documento | conf=0.91 | kb=1.00] Como fazer upload de arquivo PDF
+    -> Chunk: como incluir arquivo digital, como anexar pdf, com
+  [processo | conf=0.37 | kb=0.79] Nao consigo tramitar meu processo
+    -> Chunk: como criar processo, como formalizar processo, dif
+  [documento | conf=0.30 | kb=1.00] Quero arquivar meu documento
+    -> Chunk: quais sÒo as situaþ§es de um documento no epalmas,
+  [assinatura | conf=1.00 | kb=1.00] Como funciona a assinatura digital
+    -> Chunk: como assinar digitalmente, como usar certificado d
+  [default | conf=0.00 | kb=1.00] Sistema lento nao carrega
+    -> Chunk: como incluir arquivo digital, como anexar pdf, com
+  [documento | conf=0.30 | kb=0.00] Quero saber o que e o NUP
+  [acesso | conf=0.37 | kb=1.00] Nao tenho permissao para acessar nada
+    -> Chunk: quais sÒo os perfis de usuario no epalmas, nÒo con
+
+--- Simulacao de conversa (ticket: 'Incluir Documento') ---
+  Categoria: documento (conf=1.00)
+  KB score: 1.00
+  Chunk encontrado: como incluir arquivo digital, como anexar pdf, como fazer upload de arquivo no d

@@ -1,0 +1,2219 @@
+[Página 1]
+Manual do usuário – Módulo Documentos Versão 1.0
+MANUAL DO USUÁRIO
+Módulo Documentos
+
+[Página 2]
+Manual do usuário – Módulo Documentos Versão 1.0
+Índice
+1 - INTRODUÇÃO 4
+2 - MÓDULO DOCUMENTOS 5
+2.1 – Arquivar 8
+Arquivar Documento: 8
+Desarquivar: 10
+2.2 - Arquivo Digital 11
+Incluir Arquivo Digital: 11
+Assinatura Digital: 13
+Excluir Arquivo Digital: 17
+2.3 - Cadastrar Documento Interno 18
+AÇÃO: Cadastrar Documento Geral 18
+AÇÃO: Modelos e Minutas 21
+AÇÃO: Imprimir Etiquetas 21
+AÇÃO: Imprimir Folha de Despacho 23
+AÇÃO: Gerar Vias 24
+2.4 - Cadastrar Documento Externo Geral 25
+2.5 – Cadastrar Requerimento 29
+2.6 - Cancelar Tramitação 32
+2.7 - Cancelar/Reativar 32
+Cancelar Documento: 33
+Reativar Documento Cancelado: 35
+2.8 - Comentar 36
+Incluir Comentário: 36
+Excluir Comentário: 37
+2.9 - Distribuir 38
+Distribuir Documento: 38
+Desfazer distribuição: 39
+2.10 – Emprestar 41
+2.11 - Expedição por Lote 44
+2.12 - Expedir 45
+Expedição Entre Secretarias: 47
+Expedição Externa: 49
+Desfazer Expedição: 50
+2.13 - Ficha de Acompanhamento 52
+2.14 - Follow-up 54
+2.15 - Guias 55
+AÇÃO: Guias de Tramitação 56
+AÇÃO: Guias de Remessa 61
+AÇÃO: Guia de Expedição - Externo 64
+AÇÃO: Guia de Expedição - Outras Secretarias 65
+AÇÃO: Guia de Expedição – Em Mãos 68
+2.16 – Juntar Documento 68
+2.17 – Listagem 72
+BARRA DE AÇÃO: Alterar 74
+BARRA DE AÇÃO: Arquivar 75
+2
+
+[Página 3]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Arquivo Digital 75
+BARRA DE AÇÃO: Cancelar 75
+BARRA DE AÇÃO: Comentário 75
+BARRA DE AÇÃO: Distribuir 75
+BARRA DE AÇÃO: Etiquetas 75
+BARRA DE AÇÃO: Expedir 75
+BARRA DE AÇÃO: FAD 75
+BARRA DE AÇÃO: Formalizar Processo Geral 76
+BARRA DE AÇÃO: Gerar via física 79
+BARRA DE AÇÃO: Gerar via eletrônica 79
+BARRA DE AÇÃO: Histórico 79
+BARRA DE AÇÃO: Juntar Documento 80
+BARRA DE AÇÃO: Manter Dados 80
+BARRA DE AÇÃO: Palavra-chave 81
+BARRA DE AÇÃO: Providências 81
+BARRA DE AÇÃO: Responder 84
+BARRA DE AÇÃO: Responsáveis 85
+BARRA DE AÇÃO: Sobrestar 87
+BARRA DE AÇÃO: Situação Internet 89
+BARRA DE AÇÃO: Tramitar 90
+2.18 – Listagem Pré-Cadastro 91
+BARRA DE AÇÃO: Alterar 92
+BARRA DE AÇÃO: Arquivo Digital 94
+BARRA DE AÇÃO: Etiquetas 94
+2.19 - Modelos e Minutas 95
+BARRA DE AÇÃO: Arquivo Digital 96
+BARRA DE AÇÃO: Excluir 99
+BARRA DE AÇÃO: Histórico 99
+BARRA DE AÇÃO: Protocolar 100
+BARRA DE AÇÃO: Tramitar 100
+2.20 - Palavra-Chave 101
+2.21 - Pesquisa Avançada 104
+2.22 - Pesquisa Simples 105
+2.23 – Pré-Cadastro 107
+2.24 - Pré-Protocolo 109
+2.25 – Receber Tramitação 111
+2.26 - Receber Distribuição 115
+2.27 - Relatórios 116
+2.28 - Tramitar 128
+3 - TECLAS DE ATALHO 129
+4 - FECHAMENTO 131
+3
+
+[Página 4]
+Manual do usuário – Módulo Documentos Versão 1.0
+1 - INTRODUÇÃO
+Este documento foi elaborado com o objetivo de orientar os usuários do E-Palmas
+quanto à operacionalização do Módulo de Documentos. Este manual apresenta os procedimentos
+operacionais que permitirão a utilização plena deste recurso na Instituição.
+Para facilitar a interação sistema-usuário, este manual demonstra a composição das
+funcionalidades e ações do Módulo de Documentos e a facilidade da navegabilidade e usabilidade
+por meio de descrições sucintas dos procedimentos e dos resultados que serão alcançados.
+O manual do Módulo de Documentos descreve as funcionalidades disponibilizadas no
+sistema para a gestão dos documentos em situação corrente. Ações como cadastro, inclusão de
+arquivos digitais, exclusão, tramitação e recebimento de documentos são contempladas neste
+módulo.
+O acesso às funcionalidades deste módulo é definido pelos perfis atribuídos aos
+usuários. Algumas ações são permitidas apenas aos administradores/gestores do sistema.
+4
+
+[Página 5]
+Manual do usuário – Módulo Documentos Versão 1.0
+2 - MÓDULO DOCUMENTOS
+O MÓDULO DOCUMENTOS é destinado às funcionalidades de gerenciamento de
+documentos (protocolos) pelo sistema. Os documentos no E-Palmas são como pastas virtuais
+onde estarão inseridos os arquivos digitais. São identificados no NUP (Número Único de
+Protocolo) pelo número .9. localizado logo antes do número sequencial final, o que o difere do
+documento que apresenta .0. logo antes do número sequencial final.
+Para navegar no Módulo Documentos o usuário deve posicionar o cursor do mouse sobre
+o respectivo menu do módulo. O sistema habilitará a relação de funcionalidades disponíveis; o
+usuário deverá clicar sobre a funcionalidade que deseja operar e o sistema o direcionará para lá.
+FUNÇÃO DESCRIÇÃO
+Lista todos os protocolos na carga do departamento. Permite a execução de
+atividades de acordo com as permissões do usuário. Por meio da listagem é possível
+Listagem
+executar diversas ações como, por exemplo, armazenar, imprimir etiquetas, gerar via,
+ver histórico, definir assinaturas, responder, sobrestar, além de outras, item 2.17.
+Arquiva virtualmente o documento passível de arquivamento no setor em que a ação
+Arquivar
+é realizada.
+Arquivo Digital Anexa um Arquivo Digital a um registro do documento.
+Cadastrar
+Permite o cadastro de documentos com seus respectivos arquivos digitais advindos
+Documento
+internamente do setor de cadastro.
+Interno
+5
+
+[Página 6]
+Manual do usuário – Módulo Documentos Versão 1.0
+Cadastrar
+Permite o cadastro de documentos externos. Documentos recebidos pelo setor de
+Documento
+cadastro.
+Externo Geral
+Cadastrar Permite o cadastramento de serviços disponíveis no portal diretamente pelo usuário
+Requerimento interno.
+Cancelar Cancela a tramitação de um documento. Esta funcionalidade só é válida desde que o
+Tramitação departamento de destino ainda não tenha recebido o documento.
+Permite que o usuário cancele um documento, ou seja, o documento fica com status
+Cancelar/Reativar de cancelado no banco de dados e não aparece mais na carga do usuário. É possível
+reativar esse registro cancelado, se necessário.
+Comentar Permite inserir comentários nos documentos através da utilização de um campo texto.
+Distribui um documento para um funcionário dentro do departamento organizacional,
+Distribuir
+o documento continua disponível na listagem do departamento.
+Possibilita o empréstimo de um documento para um usuário desde que o mesmo
+Emprestar
+esteja arquivado ou sobrestado. (funcionalidade disponível para o Arquivo Geral).
+Expedição por
+Expede vários documentos ao mesmo tempo para Secretarias distintas.
+Lote
+Expedir Expede um documento para Secretarias distintas.
+Ficha de
+Permite gerar e imprimir a ficha de acompanhamento com os dados gerais do
+Acompanhament
+documento.
+o
+Fluxo de Trabalho Permite inserir documentos em fluxo automáticos de trabalho.
+Guias Permite gerar as Guias de tramitação, de remessa e de expedição.
+Juntar
+Permite que o usuário realize a ação de anexar documentos a outros documentos.
+Documento
+Lista todos os protocolos na carga do departamento. Permite a execução de
+atividades de acordo com as permissões do usuário. Por meio da listagem é possível
+Listagem
+executar diversas ações como, por exemplo, armazenar, imprimir etiquetas, gerar via,
+ver histórico, definir assinaturas, responder, sobrestar, além de outras.
+Listagem
+Lista todos os documentos pré-cadastrados na carga do departamento do usuário.
+Pré-Cadastro
+Permite que o usuário escolha, edite e grave um modelo documental no sistema,
+Modelos e
+formatado de acordo com o Manual de Editoração da instituição, ou inclua uma
+Minutas
+minuta de sua própria estação de trabalho nesse repositório.
+Palavra-Chave Inclui uma palavra-chave que auxiliará em consultas futuras.
+6
+
+[Página 7]
+Manual do usuário – Módulo Documentos Versão 1.0
+Recupera um ou mais documentos a partir de diversos parâmetros de pesquisa
+Pesquisa
+informados nos filtros da pesquisa. Quanto mais refinada é a busca mais eficaz é o
+Avançada
+resultado da pesquisa.
+Pesquisa Simples Recupera um documento a partir do seu número de protocolo.
+Permite o pré-cadastro rápido de um documento externo e a emissão da etiqueta de
+Pré-Cadastro
+protocolo correspondente para fins de atendimento em guichê.
+Permite gerar etiquetas de documentos em lote para afixação nos documentos
+Pré-Protocolo
+recebidos pela instituição para posterior cadastramento do documento no sistema
+Receber Permite receber os documentos que foram tramitados (encaminhados) para o
+Tramitação departamento por outro(s) departamento(s).
+Receber Permite receber um documento que foi distribuído para o usuário dentro do
+Distribuição departamento.
+Emite relatórios de algumas ações realizadas com os documentos cadastrados no
+Relatórios sistema, como por exemplo, de Classificação Arquivística, dos Interessados
+associados, a Produção Documental, as Distribuições entre outros.
+Tramitar Tramita um documento de um departamento organizacional para outro.
+7
+
+[Página 8]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.1 – Arquivar
+A funcionalidade arquivar é destinada ao arquivamento de um documento registrado no
+sistema. Por esta funcionalidade também podem ser desfeitas ações de arquivamento de
+documentos.
+Procedimentos:
+Arquivar Documento:
+▪ Informar o número do documento que deseja arquivar;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Acionar o botão ‘+’, na opção ‘NÚMEROS ADICIONAIS’, para arquivar mais de um
+documento ao mesmo tempo;
+▪ Informar a localização física de arquivamento do documento;
+o O(s) documento(s) pode(m) ser arquivado(s) diretamente em uma caixa do Módulo
+Arquivos. Acionar o botão + no campo ‘CAIXA’ para selecionar uma;
+o É preciso preencher um dos campos;
+o Não é preciso preencher todos os campos;
+8
+
+[Página 9]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘ARQUIVAR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ O sistema atualizará a tela com a nova situação do documento.
+Após o arquivamento, o documento continua sendo acessado pelo módulo de documentos. Para
+acessá-lo o usuário deverá selecionar a situação ‘ARQUIVADO’ na Listagem de documentos do
+departamento.
+9
+
+[Página 10]
+Manual do usuário – Módulo Documentos Versão 1.0
+Desarquivar:
+▪ Acionar o botão ‘DESARQUIVAR’ para desfazer o arquivamento do documento.
+10
+
+[Página 11]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.2 - Arquivo Digital
+A funcionalidade Arquivo Digital é destinada à inclusão, visualização e exclusão de um
+arquivo digital nos documentos registrados no sistema.
+Procedimentos:
+▪ Informar o número do documento no qual deseja inserir um arquivo digital;
+▪ Acionar o botão ‘PESQUISAR’;
+Incluir Arquivo Digital:
+▪ Acionar o botão ‘ESCOLHER ARQUIVO’ para localizar no computador o arquivo que
+deseja carregar;
+o O sistema aceita upload apenas de arquivos em formato PDF;
+11
+
+[Página 12]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Selecionar o arquivo que deseja anexar;
+▪ Acionar o botão ‘ABRIR’;
+▪ Acionar o botão ‘ANEXAR’ para carregar o arquivo selecionado;
+▪ O sistema atualizará a página com o arquivo digital carregado;
+12
+
+[Página 13]
+Manual do usuário – Módulo Documentos Versão 1.0
+Assinatura Digital:
+▪ Por meio da ação ARQUIVO DIGITAL, informar o NUP, pesquisar e em seguida Acionar o
+botão ‘ASSINATURA DIGITAL’.
+▪ Escolher a forma pela qual será assinado o documento.
+ATRAVÉS DE CERTIFICADO DIGITAL
+▪ Clicar o cursor do mouse sobre ATRAVÉS DE CERTIFICADO DIGITAL;
+13
+
+[Página 14]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema apresentará a tela para selecionar o certificado digital;
+▪ Selecionar o arquivo digital a ser assinado;
+▪ Acionar o botão ‘ASSINAR’;
+▪ Após a assinatura acionar o botão ‘FECHAR’.
+▪ O sistema atualizará a página com o arquivo digital carregado e assinado;
+14
+
+[Página 15]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Visualizando um documento assinado. O sistema apresenta o QR Code e endereço para
+verificar a autenticidade da assinatura.
+ATRAVÉS DE LOGIN E SENHA
+▪ Clicar o cursor do mouse sobre ATRAVÉS DE LOGIN E SENHA
+▪ O sistema apresentará a tela para selecionar o(s) arquivo(s) para assinatura; a identificação
+já está disponível, pois é a mesma de login de acesso ao sistema, digite a senha em
+seguida acione o botão assinar para proceder com a assinatura digital.
+15
+
+[Página 16]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ Visualizando um documento assinado. O sistema apresentará o QR Code e endereço para
+verificar a autenticidade da assinatura.
+16
+
+[Página 17]
+Manual do usuário – Módulo Documentos Versão 1.0
+Excluir Arquivo Digital:
+▪ Selecionar com um ‘tick’ na coluna ‘excluir’ o arquivo que deseja excluir;
+▪ Acionar o botão ‘EXCLUIR’ para efetuar a ação;
+▪ O sistema atualizará a tela sem o arquivo digital e habilitará a combo para carregamento
+de outro arquivo, se o usuário desejar;
+Somente poderá excluir um arquivo digital o usuário que incluiu e somente até a próxima
+tramitação. Após, o sistema não permite a exclusão.
+17
+
+[Página 18]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.3 - Cadastrar Documento Interno
+A funcionalidade Cadastrar Documento Interno é destinada ao cadastro no sistema de
+documentos produzidos pelo usuário do E-Palmas no exercício de suas atividades.
+Navegando na tela inicial da funcionalidade:
+▪ Selecionar a opção Cadastrar Documento Geral para registrar um novo documento
+produzido internamente;
+▪ Selecionar a opção Modelos e Minutas para registrar um novo documento utilizando
+modelos pré-cadastrados ou para criar minutas de documentos;
+▪ Selecionar a opção Imprimir Etiquetas para gerar etiquetas de identificação dos
+documentos cadastrados no sistema;
+▪ Selecionar a opção Imprimir Folha de Despacho para gerar uma ficha de
+acompanhamento e de despachos dados a um documento cadastrado no sistema;
+▪ Selecionar a opção Gerar Vias para criar vias de um documento cadastrado no sistema;
+AÇÃO: Cadastrar Documento Geral
+A funcionalidade Cadastrar Documento Geral é destinada ao cadastro no sistema de
+documentos produzidos pelo usuário do E-Palmas no exercício de suas atividades.
+Procedimentos:
+▪ Preencher o formulário de cadastro com as informações que permitirão a gestão deste
+documento e o acesso à informação nele registrada. Os campos assinalados com
+asterisco vermelho são de preenchimento obrigatório;
+18
+
+[Página 19]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+▪ O sistema emitirá uma mensagem como a mensagem a seguir em confirmação ao sucesso
+da ação. O número 00000.9.000058/2022 é o Número Único de Protocolo (NUP) atribuído
+pelo sistema ao documento. O usuário utilizará este número para realizar ações dentro do
+sistema.
+CAMPOS PARA SELEÇÃO E PREENCHIMENTO
+Número Único de Protocolo (NUP) que será gerado automaticamente após a
+NUP
+finalização do cadastro. Este número identifica o documento registrado no sistema.
+Utilizar este campo para informar a numeração de controle da criação de documentos
+Número do
+de um mesmo tipo documental. Ex.: Ofício 35/2013. Caso não exista número de
+Documento
+origem, preencher com S/N (sem número). Campo obrigatório.
+19
+
+[Página 20]
+Manual do usuário – Módulo Documentos Versão 1.0
+Utilizar este campo para informar a data de criação/assinatura do documento que está
+Data do
+sendo registrado. Diferente da data de abertura, que é a data em que o documento foi
+Documento
+cadastrado no sistema.
+Utilizar este campo para informar a configuração do conteúdo (informação) do
+Tipo Documental
+documento, a estrutura lógica do documento. Ex.: carta, ofício, memorando.
+Utilizar este campo para informar o suporte físico em que a informação está
+Tipo de Suporte registrada, a estrutura física em que o documento está gravado. O sistema trará o
+campo preenchido com a opção DIGITAL, por padrão.
+Utilizar este campo para definir o nível de acesso de um documento. Documentos
+públicos podem ser acessados por todos os usuários do sistema; documentos
+Acesso
+sigilosos podem ser acessados apenas por usuários com permissão para
+acessá-los.
+Utilizar este campo para informar à relação que o documento que está sendo
+registrado possui com outros documentos.
+Referência Este é um campo de preenchimento livre, podendo receber letras, números e sinais.
+Recomendado para referenciar documentos que não estejam cadastrados no sistema
+ou cujos números de protocolo não sejam reconhecidos.
+Utilizar campo para informar à relação que o documento que está sendo registrado
+possui com outros documentos também registrados no sistema.
+Resposta Ao
+Este é um campo mascarado e só aceita números no formato padrão de número
+único de protocolo do sistema. Ex. 2014.11209.15296.9.000001.
+Prazo de Resposta Utilizar este campo para informar o prazo final para resposta do documento.
+Utilizar este campo para dar uma classificação arquivística ao documento.
+Classificação
+A classificação arquivística organiza os documentos de arquivo e estabelece os seus
+Arquivística
+prazos para guarda.
+Utilizar este campo para atribuir ao registro do documento palavra-chave que
+descrevam o conteúdo do documento. As palavras-chaves podem ser utilizadas como
+Palavras-Chave
+parâmetro de busca.
+Acionar o botão + para selecionar uma palavra-chave.
+Utilizar este campo para descrever o conteúdo do documento. Este é um campo de
+preenchimento livre, podendo receber letras, números e sinais. É possível utilizar
+Assunto
+assuntos pré-cadastrados. Acionar o botão + para selecionar um assunto
+pré-cadastrado.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s) interessadas
+no conteúdo do documento que está sendo registrado.
+Interessado
+Este campo utiliza informações previamente cadastradas no Módulo Mala Direta do
+sistema. Acionar o botão + para selecionar um interessado.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s) das quais
+advêm os arquivos digitais a serem inseridos no documento que está sendo
+Procedência registrado (quem entrega a documentação).
+Este campo utiliza informações previamente cadastradas no Módulo Mala Direta do
+sistema. Acionar o botão + para selecionar um interessado.
+Utilizar este campo para que, imediatamente após o cadastro do documento, o
+Tramitar Para
+sistema execute o trâmite deste para outro departamento.
+Utilizar este campo para registrar uma pessoa do departamento selecionado no
+Aos Cuidados De
+campo ‘Tramitar Para’ a quem o se destina.
+Utilizar este campo para registrar um motivo pelo qual se está movimentando este
+Motivo
+documento para o departamento escolhido no campo Tramitar Para.
+20
+
+[Página 21]
+Manual do usuário – Módulo Documentos Versão 1.0
+Utilizar este campo para que, ao final do cadastro do documento, o sistema
+Arquivo Digital redirecione o usuário para uma tela em que poderá inserir arquivos digitais no
+cadastro do documento.
+Botão Incluir Acionar o botão ‘INCLUIR’ para concluir o cadastro do documento
+Acionar o botão ‘LIMPAR’ para excluir todas as informações preenchidas no
+Botão Limpar
+formulário.
+AÇÃO: Modelos e Minutas
+A funcionalidade Modelos e Minutas é destinada à geração de novos documentos
+utilizando modelos pré-cadastrados no sistema ou a partir da criação de minutas de documentos
+em processo de produção.
+Ver tópico 2.19 Modelos e Minutas, neste manual.
+AÇÃO: Imprimir Etiquetas
+A funcionalidade Imprimir Etiquetas é destinada à geração de etiquetas de identificação
+de documentos registrados no sistema.
+Procedimentos:
+▪ Informar o número do documento para o qual deseja gerar a etiqueta ou um intervalo entre
+vários documentos;
+▪ Acionar o botão ‘PESQUISAR’;
+21
+
+[Página 22]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema encaminhará o usuário para a tela em que escolherá o tipo de etiqueta
+para documentos que deseja gerar;
+o Não é preciso alterar as configurações das etiquetas. Ao selecionar o tipo o
+sistema trará automaticamente as configurações previamente definidas;
+▪ Acionar o botão ‘GERAR’ para efetuar a ação;
+▪ O sistema gerará uma etiqueta como a seguir.
+22
+
+[Página 23]
+Manual do usuário – Módulo Documentos Versão 1.0
+AÇÃO: Imprimir Folha de Despacho
+Este é outro caminho possível para acessar a funcionalidade Ficha de
+Acompanhamento, descrita no tópico 2.13 deste manual.
+23
+
+[Página 24]
+Manual do usuário – Módulo Documentos Versão 1.0
+AÇÃO: Gerar Vias
+A funcionalidade Gerar Vias é destinada à criação de vias (cópias) para
+documentos já registrados no sistema. As vias são registros independentes com conteúdo
+e metadados de descrição iguais aos de seu original.
+Procedimentos:
+▪ Informar o número do documento para o qual deseja gerar vias;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Informar a quantidade de vias que deseja gerar;
+▪ Acionar o botão ‘GERAR VIAS’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+24
+
+[Página 25]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ As guias geradas estarão acessíveis da Listagem de documentos correntes do
+departamento. Cada via é um registro independente e, como tal, pode ser
+tramitada, expedida, arquivada, entre outras ações.
+2.4 - Cadastrar Documento Externo Geral
+A funcionalidade Cadastrar Documento Externo Geral é destinada ao cadastro
+de documentos recebidos de pessoas e outras instituições pelos usuários do sistema.
+Procedimentos: Preencher o formulário de cadastro com as informações que permitirão
+a gestão deste documento e o acesso à informação nele registrada. Os campos
+assinalados com asterisco vermelho são de preenchimento obrigatório;
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+▪ O sistema emitirá uma mensagem como a apresentada a seguir em confirmação
+ao sucesso da ação. O número 00000.9.000070/2022 é o Número Único de
+Protocolo (NUP) atribuído pelo sistema ao documento. O usuário utilizará este
+número para realizar ações dentro do sistema.
+25
+
+[Página 26]
+Manual do usuário – Módulo Documentos Versão 1.0
+CAMPOS PARA SELEÇÃO E PREENCHIMENTO
+Número Único de Protocolo (NUP) que será gerado automaticamente após a
+NUP
+finalização do cadastro. Este número identifica o documento registrado no sistema.
+Utilizar este campo para informar a data de criação/assinatura do documento que está
+Data do
+sendo registrado. Diferente da data de abertura, que é a data em que o documento foi
+Documento
+cadastrado no sistema.
+Data de
+Utilizar este campo para informar a data em que o documento chegou à instituição.
+Recebimento
+Tipo de Remessa Utilizar este campo para informar o modo como o documento chegou à instituição.
+Número da Utilizar este campo para informar o número de controle do tipo de remessa, caso
+Remessa exista.
+Utilizar este campo para definir o nível de acesso de um documento.
+Documentos ostensivos podem ser acessados por todos os usuários do sistema;
+Acesso
+documentos sigilosos podem ser acessados apenas por usuários com permissão
+para acessá-los.
+Utilizar este campo para informar a configuração do conteúdo (informação) do
+Tipo Documental
+documento, a estrutura lógica do documento. Ex.: carta, ofício, memorando.
+Utilizar este campo para informar a numeração de controle da criação de documentos
+Número do
+de um mesmo tipo documental. Ex.: Ofício 35/2013/PRESIDÊNCA.
+Documento
+Caso não exista número de origem, preencher com S/N (sem número).
+Utilizar este campo para informar o suporte físico em que a informação está
+Tipo de Suporte registrada, a estrutura física em que o documento está gravado. O sistema trará o
+campo preenchido com a opção DIGITAL, por padrão.
+Utilizar este campo para informar a relação que o documento que está sendo
+Referência
+registrado possui com outros documentos.
+26
+
+[Página 27]
+Manual do usuário – Módulo Documentos Versão 1.0
+Este é um campo de preenchimento livre, podendo receber letras, números e sinais.
+Recomendado para referenciar documentos que não estejam cadastrados no sistema
+ou cujos números de protocolo sejam reconhecidos.
+Utilizar campo para informar a relação que o documento que está sendo registrado
+possui com outros documentos também registrados no sistema.
+Resposta Ao
+Este é um campo mascarado e só aceita números no formato padrão de número único
+de protocolo do sistema. Ex. 2016.11209.15296.000001.
+Prazo de Resposta Utilizar este campo para informar o prazo final para resposta do documento.
+Utilizar este campo para informar a classificação arquivística do documento.
+Classificação
+A classificação arquivística organiza os documentos de arquivo e estabelece os seus
+Arquivística
+prazos para guarda.
+Ao selecionar o TIPO DE DOCUMENTO e a CLASSIFICAÇÃO ARQUIVISTICA o
+Documentos
+sistema irá apresentar uma série de campos para o atendente informar à
+entregues pelo
+documentação que o contribuinte apresentou para o serviço solicitado. Ex: CPF, RG,
+contribuinte.
+DOCUMENTO DO IMÓVEL, entre outros.
+27
+
+[Página 28]
+Manual do usuário – Módulo Documentos Versão 1.0
+Utilizar este campo para atribuir ao registro do documento palavra-chave que
+descrevam o conteúdo do documento. As palavras-chave podem ser utilizadas como
+Palavras-Chave
+parâmetro de busca.
+Acionar o botão + para selecionar uma palavra-chave.
+Utilizar este campo para descrever o conteúdo do documento.
+Este é um campo de preenchimento livre, podendo receber letras, números e sinais.
+Assunto
+É possível utilizar assuntos pré-cadastrados. Acionar o botão + para selecionar um
+assunto pré-cadastrado.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s) interessadas
+no conteúdo do documento que está sendo registrado.
+Interessado
+Este campo utiliza informações previamente cadastradas no Módulo Mala Direta do
+sistema. Acionar o botão + para selecionar um interessado.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s) da qual se
+origina o documento que está sendo registrado.
+Procedência
+Este campo utiliza informações previamente cadastradas no Módulo Mala Direta do
+sistema. Acionar o botão + para selecionar uma procedência.
+Utilizar este campo para informar o departamento para o qual se destina o documento
+Destinatário
+recebido.
+Utilizar este campo para registrar uma pessoa do departamento selecionado no
+Aos Cuidados De
+campo ‘Destinatário’ a quem o documento se destina.
+Tramitar Após Utilizar este campo para que, imediatamente após o cadastro do documento, o
+Inclusão sistema possa tramitá-lo para outro departamento.
+Utilizar este campo para registrar uma pessoa do departamento selecionado no
+Aos Cuidados De
+campo ‘Tramitar Após Inclusão’ a quem o documento se destina.
+Selecionar esta opção para que o sistema traga os mesmos dados preenchidos no
+Manter Dados
+formulário para o cadastro de outro documento, na sequência.
+Utilizar este campo para informar um atributo de documento específico de um
+Atributos
+departamento da instituição.
+Específicos Por
+Os atributos são campos complementares que são habilitados pelo sistema mediante
+Departamento
+o preenchimento de algum outro campo do formulário.
+Utilizar este campo para que, ao final do cadastro do documento, o sistema
+Arquivo Digital redirecione o usuário para uma tela em que poderá inserir arquivos digitais no
+cadastro do documento.
+Botão Incluir Acionar o botão ‘INCLUIR’ para concluir o cadastro do documento
+Acionar o botão ‘LIMPAR’ para excluir todas as informações preenchidas no
+Botão Limpar
+formulário.
+28
+
+[Página 29]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.5 – Cadastrar Requerimento
+A funcionalidade Cadastrar Requerimento é destinada ao cadastro de serviços
+disponíveis pelo portal, porém pelo usuário interno.
+Procedimentos:
+▪ Selecionar um ‘GRUPO DE SERVIÇO’;
+▪ Selecionar um ‘SERVIÇO’;
+▪ Informar a ‘INSCRIÇÃO IMOBILIÁRIA’, caso houver;
+▪ Informar o CPF ou CNPJ do ‘REQUERENTE’ e acionar o botão ‘PESQUISAR’;
+▪ Informar o CPF ou CNPJ do ‘REQUERENTE’ o botão ‘INTERESSADO’;
+▪ Informar o ‘ASSUNTO’;
+▪ Selecionar o ‘DEPARTAMENTO DE DESTINO’ do requerimento;
+▪ Selecionar o ‘ARQUIVO DIGITAL’;
+▪ Selecionar a opção ‘FORMALIZAR PROCESSO’, caso desejar que o requerimento
+já nasça como processo;
+▪ Acionar o botão ‘INCLUIR DOCUMENTO’;
+29
+
+[Página 30]
+Manual do usuário – Módulo Documentos Versão 1.0
+30
+
+[Página 31]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ O sistema redireciona o usuário para tela de dados cadastrais, informando os
+dados do requerimento recém-cadastrado e sua destinação informada.
+31
+
+[Página 32]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.6 - Cancelar Tramitação
+A funcionalidade Cancelar Tramitação é destinada ao desfazimento da última
+tramitação sofrida por um documento. Uma tramitação só pode ser cancelada pelo
+departamento que a realizou.
+Procedimentos:
+▪ O sistema listará todos os documentos tramitados pelo departamento do usuário e
+ainda não recebidos pelo departamento de destino;
+▪ Selecionar, entre os documentos listados, aqueles cuja(s) tramitação(ões) deseja
+cancelar;
+▪ Acionar o botão ‘CANCELAR’;
+▪ O sistema emitirá uma mensagem como a apresentada a seguir em
+confirmação ao sucesso da ação.
+A tramitação de um documento só pode ser cancelada antes do efetivo recebimento pelo
+departamento de destino.
+32
+
+[Página 33]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.7 - Cancelar/Reativar
+A funcionalidade Cancelar/Reativar é destinada ao cancelamento do registro de um
+documento no sistema, da mesma forma que a sua reativação para que possam voltar a tramitar
+nos departamentos.
+Procedimentos:
+Cancelar Documento:
+▪ Informar o número do documento que deseja cancelar ou recuperar;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Informar o motivo do cancelamento;
+▪ Acionar o botão ‘CANCELAR DOCUMENTO’;
+33
+
+[Página 34]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema emitirá uma mensagem como a apresentada a seguir em confirmação
+ao sucesso da ação.
+▪ Se o usuário efetuar uma pesquisa simples neste documento, o sistema retorna a
+informação mostrando que ele foi cancelado.
+Após o cancelamento, o NUP não desaparece do sistema. Para acessar o cadastro de um
+documento cancelado, escolher a situação ‘CANCELADO’ na Listagem de documentos do departamento. É
+possível recuperar um NUP cancelado.
+34
+
+[Página 35]
+Manual do usuário – Módulo Documentos Versão 1.0
+Reativar Documento Cancelado:
+▪ Acionar o botão ‘RECUPERAR DOCUMENTO’ para desfazer o cancelamento e
+reativar o documento.
+▪ O sistema emitirá uma mensagem como a apresentada a seguir em confirmação
+ao sucesso da ação.
+35
+
+[Página 36]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.8 - Comentar
+A funcionalidade comentar é destinada à inserção de um comentário no cadastro
+de um documento registrado no sistema. Por esta funcionalidade também podem ser
+excluídos os comentários já registrados.
+Procedimentos:
+Incluir Comentário:
+▪ Informar o número do documento que deseja comentar;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para inserir o mesmo
+comentário e mais de um documento ao mesmo tempo;
+▪ Inserir o comentário que desejar;
+▪ Acionar o botão ‘COMENTAR’ para efetuar a ação;
+36
+
+[Página 37]
+Manual do usuário – Módulo Documentos Versão 1.0
+Excluir Comentário:
+▪ Selecionar com um ‘tick’ na coluna ‘excluir’ o(s) comentário(s) que desejar apagar;
+▪ Acionar o botão ‘EXCLUIR’ para efetuar a ação;
+▪ O sistema solicitará ao usuário a confirmação da ação.
+Somente o usuário que incluiu o comentário poderá excluí-lo.
+37
+
+[Página 38]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.9 - Distribuir
+A funcionalidade distribuir é destinada à atribuição da responsabilidade de um
+documento a um usuário do departamento em que está. Por esta funcionalidade também
+podem ser desfeitas a distribuição.
+Procedimentos:
+Distribuir Documento:
+▪ Informar o número do documento que deseja distribuir;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para distribuir mais de um
+documento ao mesmo tempo para um usuário;
+o Selecionar o funcionário para quem deseja distribuir o(s) documento(s);
+o Informar o motivo da distribuição;
+o Informar às providências que devem ser tomadas quanto aos documentos
+distribuídos;
+o Indicar um prazo para resposta ao documento distribuído, se necessário.
+▪ Acionar o botão ‘DISTRIBUIR’ para efetuar a ação;
+38
+
+[Página 39]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ O sistema atualizará a tela com a nova distribuição, ativa;
+Desfazer distribuição:
+▪ Acionar o botão ‘DESFAZER’ para tornar uma distribuição inativa;
+39
+
+[Página 40]
+Manual do usuário – Módulo Documentos Versão 1.0
+Para que uma distribuição seja efetivada, o usuário para quem o documento foi distribuído deve
+Receber a Distribuição. Somente o usuário que realizou a distribuição pode desfazê-la.
+40
+
+[Página 41]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.10 – Emprestar
+A funcionalidade Emprestar é destinada ao empréstimo de documentos em
+situação de ‘ARQUIVADO’ ou ‘SOBRESTADO. Por esta funcionalidade também são
+registradas as devoluções dos documentos emprestados.
+O empréstimo registra que o documento foi retirado do arquivo do departamento
+para consulta por um usuário de outro departamento. O empréstimo é diferente da
+tramitação, ele não altera o departamento de carga do documento, apenas sua situação.
+Procedimentos:
+Emprestar documento:
+▪ Informar o número do documento que deseja emprestar;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para emprestar mais de um
+documento ao mesmo tempo;
+▪ Selecionar o departamento do usuário para o qual o documento será emprestado;
+▪ Selecionar o usuário para o qual o(s) documento(s) será(ão) emprestado(s);
+▪ Indicar a data limite para o retorno do documento, se necessário;
+41
+
+[Página 42]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘EMPRESTAR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ O sistema atualizará a tela com o novo empréstimo ativo;
+42
+
+[Página 43]
+Manual do usuário – Módulo Documentos Versão 1.0
+Registrar devolução de documento emprestado:
+▪ Acionar o botão ‘DEVOLVER’ para registrar a devolução do documento pelo
+usuário a quem o empréstimo fora realizado;
+43
+
+[Página 44]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.11 - Expedição por Lote
+A funcionalidade Expedição por lote é destinada ao registro do envio em lote de
+documentos para pessoas físicas e jurídicas externas à secretaria do departamento de
+origem. A expedição altera a situação do documento de ‘Corrente’ para ‘Expedido’.
+Procedimentos:
+▪ Selecionar o(s) documento(s) que deseja expedir;
+▪ Informar o ‘TIPO DE REMESSA’ pelo qual o documento será expedido;
+▪ Acionar o botão ‘IMPRIMIR GUIA’ para gerar uma guia da expedição realizada.
+Ver a opção Guias de Expedição, neste manual.
+▪ O botão ‘GRAVAR’ permite gravar as informações já preenchidas para uma futura
+expedição.
+▪ Acionar o botão ‘EXPEDIR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação
+44
+
+[Página 45]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.12 - Expedir
+A funcionalidade expedir é destinada ao registro do envio de documentos para
+pessoas físicas e jurídicas externas à PMBV. Por esta funcionalidade também podem ser
+desfeitas expedições.
+Procedimentos:
+Expedir documento:
+▪ Informar o número do documento que deseja expedir;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ O usuário deve escolher entre dois tipos de expedição:
+o Expedição entre secretarias: Envio de protocolos para as instituições
+vinculadas à Prefeitura.
+o Expedição externa: Envio de protocolos para as instituições externas à
+Prefeitura.
+45
+
+[Página 46]
+Manual do usuário – Módulo Documentos Versão 1.0
+46
+
+[Página 47]
+Manual do usuário – Módulo Documentos Versão 1.0
+Expedição Entre Secretarias:
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para expedir mais de um
+documento ao mesmo tempo;
+▪ Informar o DESTINO.
+▪ Selecionar a opção ‘OUTROS PROTOCOLOS’ para registrar movimentações feitas
+para departamentos de secretarias distintas que utilizam o sistema,
+▪ Selecionar a opção ‘EXTERNO’ para registrar movimentações feitas para destinos
+distintos e secretarias que ainda não utilizam o sistema.
+▪ Para a opção de destino Outros Protocolos informar o ÓRGÃO (Secretaria) para
+onde se quer enviar o documento, e também a ‘UNIDADE DE DESTINO’ do órgão
+recebedor do envio.
+▪ Para a opção Externo informar a descrição do destino.
+▪ Os demais campos são de preenchimento opcional;
+▪ Acionar o botão ‘EXPEDIR’ para efetuar a ação;
+▪ O sistema emitirá a seguinte mensagem;
+47
+
+[Página 48]
+Manual do usuário – Módulo Documentos Versão 1.0
+48
+
+[Página 49]
+Manual do usuário – Módulo Documentos Versão 1.0
+Expedição Externa:
+▪ Acionar o botão +, na opção ‘NUP’S ADICIONAIS’, para expedir mais de um
+documento ao mesmo tempo;
+▪ Selecionar o ‘TIPO DE REMESSA’;
+▪ Informar o ‘NÚMERO DE REMESSA’;
+▪ Informar o ‘DESTINO’;
+▪ Informar o ‘PESO’, se houver;
+▪ Informar o ‘VALOR DA CORRESPONDÊNCIA’;
+▪ Selecionar ‘IMPRIMIR GUIA’ caso deseje imprimir a guia de expedição a ser
+gerada;
+▪ Acionar o botão ‘EXPEDIR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+49
+
+[Página 50]
+Manual do usuário – Módulo Documentos Versão 1.0
+Após a expedição, o documento o continua sendo acessado pelo módulo de documentos. Para
+acessá-lo o usuário deverá escolher a SITUAÇÃO ‘EXPEDIDO’ na Listagem de documentos do
+departamento.
+Desfazer Expedição:
+▪ Se o documento foi expedido para outras secretarias, depois de expedido, o
+documento se comporta como se tivesse sofrido uma tramitação, para desfazer a
+movimentação o usuário deve ir à tela inicial do sistema, na parte de documentos
+no item Tramitados e Não Recebidos.
+▪ Selecionar o documento cuja movimentação será cancelada e acionar o botão
+‘CANCELAR’ para efetuar a ação;
+50
+
+[Página 51]
+Manual do usuário – Módulo Documentos Versão 1.0
+Quando a movimentação é cancelada o documento retorna para a listagem de correntes.
+▪ Para a opção expedir EXTERNO, seguir o mesmo caminho percorrido para realizar
+a expedição;
+▪ Acionar o botão ‘CANCELAR EXPEDIÇÃO’ para cancelar uma expedição indevida
+ou ‘RETORNAR EXPEDIÇÃO’ para tornar a expedição inativa.
+51
+
+[Página 52]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.13 - Ficha de Acompanhamento
+A funcionalidade Ficha de Acompanhamento é destinada à geração de folhas
+de despacho para registro de ações realizadas com um documento nos departamentos
+por onde tramitar dentro da instituição.
+Procedimentos:
+▪ Informar o número do documento para o qual deseja gerar a guia ou um intervalo
+entre vários documentos;
+▪ Selecionar a geração da frente, do verso ou de ambos os lados da folha de
+despacho;
+▪ Acionar o botão ‘PESQUISAR’;
+▪
+O sistema abrirá na tela a(s) folha(s) de despacho solicitada(s), como no
+modelo abaixo;
+52
+
+[Página 53]
+Manual do usuário – Módulo Documentos Versão 1.0
+53
+
+[Página 54]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.14 - Follow-up
+A funcionalidade Follow-up é destinada ao acompanhamento dos prazos de
+acompanhamento estabelecidos para documentos tramitados de um departamento para
+outro. Por esta funcionalidade é possível fazer o acompanhamento também dos prazos de
+resposta emitidos pelo departamento em documentos tramitados por ele.
+Procedimentos:
+▪ O sistema listará os documentos cujo prazo de atendimento estabelecido, para os
+departamento, quando eles vencem, os vencidos e os que irão vencer;
+▪ Selecionar a ação desejada com os protocolos listados;
+▪ Acionar a opção ‘FOLLOW-UP – EMITIDOS’ para acessar o relatório de prazos de
+atendimento emitidos pelo departamento;
+54
+
+[Página 55]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.15 - Guias
+A funcionalidade Guias é destinada à geração de guias para controle e ateste de
+tramitação, remessa e expedição de documentos.
+Navegando na tela inicial da funcionalidade:
+▪ Selecionar a opção Guias de Tramitação para gerar guias de controle de envio de
+documentos para outros departamentos ativos no sistema;
+▪ Selecionar a opção Guias de Remessa para gerar guias de controle do envio de
+malotes de remessa de documentos;
+▪ Selecionar a opção Guias de Expedição - Externo para gerar guias de controle de
+envio de documentos para pessoas físicas e jurídicas externas à secretaria atual,
+que não utilizam o E-Palmas ainda;
+▪ Selecionar a opção Guias de Expedição – Outras Secretarias para gerar guias
+de controle de envio de documentos para pessoas físicas e jurídicas externas à
+secretaria atual, que já utilizam o E-Palmas;
+▪ Selecionar a opção Guias de Expedição – Em Mãos para gerar guias de controle
+de envio de documentos em mãos para pessoas físicas e jurídicas externas à
+PMBV;
+55
+
+[Página 56]
+Manual do usuário – Módulo Documentos Versão 1.0
+AÇÃO: Guias de Tramitação
+A funcionalidade Guia de tramitação é destinada à geração de guias de controle
+de protocolos tramitados entre departamentos do sistema.
+Procedimentos:
+▪ Selecionar o tipo de guia que deseja gerar: guia de protocolos tramitados por um
+departamento ou histórico de tramitação de um protocolo.
+Guias de Tramitação por Departamento
+Procedimentos:
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia. Os campos assinalados com asterisco
+vermelho são de preenchimento obrigatório;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+56
+
+[Página 57]
+Manual do usuário – Módulo Documentos Versão 1.0
+O sistema listará o(s) documento(s) tramitado(s) pelo departamento de acordo com os
+parâmetros informados no formulário.
+▪ Selecionar o(s) protocolo que deseja incluir na guia;
+▪ Acionar o botão ‘IMPRIMIR GUIA’;
+▪ O sistema apresentará para impressão a guia gerada.
+57
+
+[Página 58]
+Manual do usuário – Módulo Documentos Versão 1.0
+58
+
+[Página 59]
+Manual do usuário – Módulo Documentos Versão 1.0
+Guia de Tramitação por Protocolo
+▪ Informar o NUP do documento que deseja emitir a guia;
+▪ Acionar o botão ‘BUSCAR’;
+▪ O sistema traz os dados do protocolo buscado;
+▪ Selecionar a(s) movimentação(ões) que deseja gerar a guia em ‘HISTÓRICO DE
+MOVIMENTAÇÃO’;
+▪ Acionar o botão ‘IMPRIMIR GUIA’;
+59
+
+[Página 60]
+Manual do usuário – Módulo Documentos Versão 1.0
+60
+
+[Página 61]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ A guia solicitada é gerada;
+AÇÃO: Guias de Remessa
+A funcionalidade Guia de Remessa é destinada à geração de guias de controle
+de envio de malotes de remessa de documento.
+Procedimentos:
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia. Os campos assinalados com asterisco
+vermelho são de preenchimento obrigatório;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+61
+
+[Página 62]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Selecionar os registros que deseja incluir na guia e acionar o botão IMPRIMIR
+GUIA.
+▪ O sistema irá exibir a Guia de Remessa conforme a tela abaixo.
+62
+
+[Página 63]
+Manual do usuário – Módulo Documentos Versão 1.0
+63
+
+[Página 64]
+Manual do usuário – Módulo Documentos Versão 1.0
+AÇÃO: Guia de Expedição - Externo
+A funcionalidade Guia de Expedição – Externo é destinada à geração de guias
+de controle de protocolos enviados para pessoas e instituições externas à PMC.
+Procedimentos:
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+▪ O sistema listará o(s) protocolo(s) localizado(s) de acordo com os parâmetros
+utilizados na pesquisa;
+▪ Selecionar o(s) protocolo que deseja incluir na guia;
+▪ Acionar o botão ‘IMPRIMIR GUIA’;
+64
+
+[Página 65]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema apresentará a guia gerada:
+AÇÃO: Guia de Expedição - Outras Secretarias
+A funcionalidade Guia de Expedição – Outras Secretarias é destinada à
+geração de guias de controle de protocolos enviados para outras secretarias que utilizam
+o sistema.
+Procedimentos:
+65
+
+[Página 66]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Preencher o formulário com as informações necessárias para a localização dos
+protocolos que serão incluídos na guia;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+66
+
+[Página 67]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema listará o(s) protocolo(s) localizado(s) de acordo com os parâmetros
+utilizados na pesquisa;
+▪ Selecionar o(s) protocolo que deseja incluir na guia;
+▪ Acionar o botão ‘IMPRIMIR GUIA’;
+▪ O sistema emitirá a mensagem de registro expedido:
+▪ O sistema apresentará a guia gerada:
+67
+
+[Página 68]
+Manual do usuário – Módulo Documentos Versão 1.0
+AÇÃO: Guia de Expedição – Em Mãos
+A funcionalidade GUIA DE EXPEDIÇÃO – EM MÃOS é destinada à geração de
+guias de controle de protocolos enviados em mãos a pessoas e instituições externas à
+PMC.
+Procedimentos:
+Ver tópico - Guias de Expedição.
+2.16 – Juntar Documento
+A funcionalidade Juntar Documento é destinada à juntada de um documento a
+outro por anexação. Por esta funcionalidade também podem ser desfeitas juntadas de
+documentos.
+A partir da anexação, o protocolo principal será o único passível de ações no
+sistema. Os protocolos vinculados serão secundários e seguirão tudo o que for realizado
+com o principal. Para trabalhar separadamente em algum dos protocolos juntados, é
+necessário desfazer a anexação.
+Procedimentos:
+Anexar documentos:
+▪ Informar o número do documento principal, ao qual deseja anexar outros números;
+▪ Acionar o botão ‘PESQUISAR’;
+68
+
+[Página 69]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão +, na opção ‘NUP, para selecionar o(s) documento(s) que deseja
+anexar
+o Informe o ‘NUP’ e acione o botão ‘ADICIONAR’;
+69
+
+[Página 70]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema atualizará a tela com o(s) documento(s) selecionado(s);
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+Desfazer anexação de documentos:
+▪ Selecionar o documento que desejar desanexar;
+▪ Acionar o botão ‘RETIRAR’ para iniciar a ação;
+▪ Informar uma justificativa para a desanexação;
+▪ Acionar o botão ‘CONFIRMAR DESANEXAÇÃO’ para efetuar a ação;
+70
+
+[Página 71]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+71
+
+[Página 72]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.17 – Listagem
+A funcionalidade Listagem é destinada à visualização e ao acesso às ações
+disponíveis com os documentos que estão na carga do departamento. Pela listagem o
+usuário localiza o documento com o qual deseja trabalhar e em seguida a ação que
+deseja executar com o documento escolhido.
+Navegando na tela inicial da funcionalidade:
+▪ Utilizar os campos ‘ANO’ e ‘FILTRO’ de meses para filtrar a exibição dos
+documentos na listagem de acordo com a data em que foram registrados no
+sistema;
+▪ Utilizar o campo PENDÊNCIA para verificar os encaminhamentos do documento.
+▪ Utilizar o campo ‘SITUAÇÃO’ para filtrar a exibição da listagem de acordo com sua
+situação (CORRENTE, CADASTRADO, ARQUIVADO, CANCELADO, EXPEDIDO,
+RECUSADO, SOBRESTADO, SOBRESTADO CONCLUIDO e MIGRADO);
+▪ Selecionar a opção ‘PESSOAL’ para exibir apenas os documentos distribuídos para
+a responsabilidade do usuário;
+▪ Selecionar a opção ‘MOSTRAR JUNTADOS’ para exibir na listagem os
+documentos que estão juntados a outros documentos. Por padrão, o sistema os
+ocultará;
+▪ Selecionar a opção ‘DOCUMENTOS DIGITAIS’ para exibir apenas os documentos
+digitais;
+▪ Utilizar o campo ‘PESQUISAR’ para localizar um documento;
+▪ Utilizar a ‘BARRA DE AÇÃO’ para realizar alterações, inclusão de arquivos digitais,
+tramitação, geração de etiquetas e outras ações com o documento;
+72
+
+[Página 73]
+Manual do usuário – Módulo Documentos Versão 1.0
+73
+
+[Página 74]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Alterar
+A funcionalidade Alterar é destinada à alteração de dados do cadastro de um
+documento.
+Procedimentos:
+▪ Alterar as informações dos campos abertos para edição conforme desejar;
+▪ Acionar o botão ‘SALVAR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+74
+
+[Página 75]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Arquivar
+Este é outro caminho possível para acessar a funcionalidade Arquivar, descrita no
+tópico 2.1 deste manual.
+BARRA DE AÇÃO: Arquivo Digital
+Este é outro caminho possível para acessar a funcionalidade Arquivo Digital,
+descrita no tópico 2.2 deste manual.
+BARRA DE AÇÃO: Cancelar
+Este é outro caminho possível para acessar a funcionalidade Cancelar/Reativar,
+descrita no tópico 2.7 deste manual.
+BARRA DE AÇÃO: Comentário
+Este é outro caminho possível para acessar a funcionalidade Comentar, descrita
+no tópico 2.8 deste manual.
+BARRA DE AÇÃO: Distribuir
+Este é outro caminho possível para acessar a funcionalidade Distribuir, descrita no
+tópico 2.9 deste manual.
+BARRA DE AÇÃO: Etiquetas
+Este é outro caminho possível para acessar a funcionalidade Imprimir Etiquetas,
+descrita no tópico 2.3 – Cadastro de Documento Interno deste manual.
+BARRA DE AÇÃO: Expedir
+Este é outro caminho possível para acessar a funcionalidade Expedir, descrita no
+tópico 2.12 deste manual.
+BARRA DE AÇÃO: FAD
+Este é outro caminho possível para acessar a funcionalidade Ficha de
+Acompanhamento, descrita no tópico 2.13 deste manual.
+75
+
+[Página 76]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Formalizar Processo Geral
+A funcionalidade Formalizar Processo Geral é destinada à autuação de um
+documento registrado no sistema em um processo. Ela só estará habilitada para
+‘departamentos protocoladores’ do sistema e após a inclusão de um arquivo digital no
+protocolo.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação FORMALIZAR PROCESSO
+GERAL;
+▪ Preencher o formulário de cadastro de documento com as informações que
+permitirão a gestão do documento e o acesso à informação nele registrada. Os
+campos assinalados com asterisco vermelho são de preenchimento obrigatório;
+o O sistema trará na tela de cadastro de documento as informações
+previamente preenchidas no cadastro do documento que será autuado;
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+76
+
+[Página 77]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema emitirá uma mensagem como a apresentada a seguir em confirmação
+ao sucesso da ação. O número 00000.0.000001/2020 é o Número Único de
+Protocolo (NUP) atribuído pelo sistema ao PROCESSO. O usuário utilizará este
+número para realizar ações dentro do sistema.
+CAMPOS PARA SELEÇÃO E PREENCHIMENTO
+Este campo não é editável, o número do processo será gerado
+NUP
+automaticamente pelo sistema.
+Inserir neste campo a data real em que o processo foi gerado. Aceita data
+Data do Processo
+atual ou retroativa.
+77
+
+[Página 78]
+Manual do usuário – Módulo Documentos Versão 1.0
+Departamento Gestor Informar qual setor irá gerir este processo diretamente.
+Se o processo a ser gerado terá alguma peça documental física circulando,
+Tipo de Suporte escolher a opção PAPEL. Se o processor gerado for totalmente virtual,
+selecionar a opção DIGITAL.
+Acesso Campo para definir restrições de acesso ao processo.
+Processo Prioritário Campo parar informar a prioridade do processo.
+Utilizar este campo para informar se o que o processo que está sendo
+registrado possui referências a outros protocolos. Este é um campo de
+Referência preenchimento livre, podendo receber letras, números e sinais.
+Recomendado para referenciar protocolos que não estejam cadastrados no
+sistema ou cujos números de protocolo sejam reconhecidos.
+Prazo de Resposta Informar o prazo final para resposta do processo.
+Classificação Código derivado de um plano de classificação utilizado para organização
+Arquivística dos processos de um arquivo e determinar o seu prazo de guarda.
+Sigla Processo Informar a sigla do processo.
+Deseja Incluir o
+Processo em Fluxo de Campo para inserir o processo a ser autuado em um fluxo de trabalho.
+Trabalho
+Informar palavras referentes ao processo que serão utilizadas para futuras
+Palavras-Chave
+pesquisas.
+Campo para descrever o conteúdo do processo. Campo de preenchimento
+Assunto
+livre, podendo receber letras, números e sinais.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s)
+interessada(s) no conteúdo do processo que está sendo registrado. Este
+Interessado
+campo utiliza informações previamente cadastradas no Módulo Mala Direta
+do sistema. Acionar o botão + para selecionar um interessado.
+Utilizar este campo para informar a(s) pessoa(s) física(s) ou jurídica(s) que
+originou o conteúdo do processo que está sendo registrado. Este campo
+Procedência
+utiliza informações previamente cadastradas no Módulo Mala Direta do
+sistema. Acionar o botão + para selecionar um interessado.
+Número de
+Informar a quantidade de volumes, folhas e anexos que possui o processo
+Volumes/Folhas
+cadastrado.
+/Anexos
+A funcionalidade deve ser utilizada caso o usuário deseja tramitar o
+Tramitar Para
+processo imediatamente após se clicar no botão INCLUIR.
+Permite informar o nome do destinatário para recebimento do processo, no
+Aos Cuidados De
+caso de uma tramitação imediata.
+Ao preencher e selecionar as informações acione o botão INCLUIR para
+Incluir
+efetivar o cadastro do processo no sistema.
+Limpar Permite apagar todos os dados alimentados na tela.
+78
+
+[Página 79]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Gerar via física
+Este é outro caminho possível para acessar a funcionalidade Gerar Vias, descrita
+no tópico 2.3 – Cadastro de Documento Interno, deste manual.
+BARRA DE AÇÃO: Gerar via eletrônica
+A geração de Vias eletrônicas de documentos cadastrados no sistema é
+semelhante à geração de Vias físicas. A diferença entre estas funcionalidades se dá no
+TIPO DE SUPORTE informado no cadastro do documento.
+BARRA DE AÇÃO: Histórico
+A funcionalidade Histórico é destinada à visualização dos históricos de
+tramitação e de prazo de resposta de um documento. Esta tela não possui ações próprias.
+79
+
+[Página 80]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Juntar Documento
+Este é outro caminho possível para acessar a funcionalidade Juntar Documento,
+descrita no tópico 2.16 deste manual.
+BARRA DE AÇÃO: Manter Dados
+A funcionalidade Manter Dados é destinada ao cadastro de um novo documento
+no sistema utilizando informações preenchidas anteriormente no cadastro de um
+documento anterior.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação MANTER DADOS
+▪ Complementar o formulário de cadastro com as informações que permitirão a
+gestão deste documento e o acesso à informação nele registrada. Os campos
+assinalados com asterisco vermelho são de preenchimento obrigatório;
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+▪ O sistema emitirá uma mensagem como a apresentada a seguir em confirmação
+ao sucesso da ação. O número 00000.9.000002/2020 é o Número Único de
+Protocolo (NUP) atribuído pelo sistema ao documento. O usuário utilizará este
+número para realizar ações dentro do sistema.
+80
+
+[Página 81]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Palavra-chave
+Este é outro caminho possível para acessar a funcionalidade Palavra-chave,
+descrita no tópico 2.20 deste manual.
+BARRA DE AÇÃO: Providências
+A funcionalidade Providências é destinada à inserção de uma providência que
+deve ser realizada no cadastro de um documento registrado no sistema. Por esta
+funcionalidade também podem ser excluídas as providências já registradas.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação PROVIDÊNCIAS
+Incluir providência:
+▪ Informar à providência que deve ser realizada com o documento;
+81
+
+[Página 82]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘INFORMAR’ para efetuar a ação;
+Excluir providência:
+▪ Selecionar com um ‘tick’ na coluna ‘excluir’ a(s) providência(s) que desejar
+apagar;
+▪ Acionar o botão ‘EXCLUIR’ para efetuar a ação;
+▪ O sistema solicitará ao usuário a confirmação da ação.
+82
+
+[Página 83]
+Manual do usuário – Módulo Documentos Versão 1.0
+Somente o usuário que incluiu a providência poderá exclui-la.
+83
+
+[Página 84]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Responder
+A funcionalidade Responder é destinada ao cadastro de um novo documento no
+sistema vinculando-o a outro por referência. O usuário cria um documento em resposta ao
+documento selecionado.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação RESPONDER
+▪ Complementar o formulário de cadastro com as informações que permitirão a
+gestão deste documento e o acesso à informação nele registrada. Os campos
+assinalados com asterisco vermelho são de preenchimento obrigatório;
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+▪ O sistema emitirá uma mensagem como a mensagem a seguir em confirmação ao
+sucesso da ação. O número 00000.9.000003/2020 é o Número Único de Protocolo
+(NUP) atribuído pelo sistema ao documento. O usuário utilizará este número para
+realizar ações dentro do sistema.
+84
+
+[Página 85]
+Manual do usuário – Módulo Documentos Versão 1.0
+A descrição dos campos está no tópico 2.3 Cadastro de Documento Interno deste manual.
+BARRA DE AÇÃO: Responsáveis
+A funcionalidade Responsáveis é destinada a atribuição de responsabilidade
+sobre um documento a um usuário do sistema. O usuário e o documento precisam estar
+no mesmo departamento para que a responsabilidade seja atribuída.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação RESPONSÁVEIS;
+Cadastrar responsáveis técnicos:
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para dar a um usuário
+responsabilidade sobre mais de um documento ao mesmo tempo;
+▪ Informar o nome do usuário;
+85
+
+[Página 86]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+86
+
+[Página 87]
+Manual do usuário – Módulo Documentos Versão 1.0
+Excluir responsáveis técnicos:
+▪ Selecionar com um ‘tick’ o(s) técnico(s) que desejar excluir;
+▪ Acionar o botão ‘EXCLUIR’ para efetuar a ação;
+BARRA DE AÇÃO: Sobrestar
+A funcionalidade Sobrestar é destinada ao sobrestamento de um documento
+registrado no sistema. Ao ser sobrestado, um documento passa de situação ‘Corrente’
+para ‘Sobrestado’. Por esta funcionalidade também podem ser desfeitas as ações de
+sobrestamento de documentos;
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação SOBRESTAR;
+Sobrestar documento:
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para sobrestar mais de um
+documento ao mesmo tempo;
+▪ Informar a localização física de armazenamento do documento;
+o O(s) documento(s) pode(m) ser sobrestado(s) diretamente em uma caixa do
+Módulo Arquivos. Acionar o botão + no campo ‘CAIXA’ para selecionar uma;
+o Não é preciso preencher todos os campos;
+▪ Informar o motivo/despacho para o sobrestamento;
+▪ Informar o período que o documento deve permanecer sobrestado;
+87
+
+[Página 88]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘SOBRESTAR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ O sistema atualizará a tela com a nova situação do documento.
+Após o sobrestamento, o documento continua sendo acessado pelo módulo de documentos.
+Para acessá-lo o usuário deverá escolher a situação ‘SOBRESTADO’ na Listagem de documentos do
+departamento.
+88
+
+[Página 89]
+Manual do usuário – Módulo Documentos Versão 1.0
+Desfazer sobrestamento:
+▪ Acionar o botão ‘DESFAZER’ para desfazer o sobrestamento do documento.
+BARRA DE AÇÃO: Situação Internet
+A ação Situação Internet é destinada a incluir a situação de um documento para
+ser exibida na pesquisa externa do sistema.
+Procedimentos:
+▪ Selecionar a funcionalidade LISTAGEM barra de ação Situação Internet.
+▪ Informar a situação do documento que deve ser apresentado na pesquisa externa
+▪ Acionar o botão ‘INSERIR’.
+89
+
+[Página 90]
+Manual do usuário – Módulo Documentos Versão 1.0
+Excluir Situação
+▪ Marcar a caixa da coluna e acionar o botão ‘EXCLUIR’ para retirar uma situação;
+BARRA DE AÇÃO: Tramitar
+Este é outro caminho possível para acessar a funcionalidade Tramitar, descrita
+no tópico 2.28 deste manual.
+90
+
+[Página 91]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.18 – Listagem Pré-Cadastro
+A funcionalidade Listagem de Pré-Cadastro é destinada à visualização e ao
+acesso às ações disponíveis com os documentos pré-cadastrados que se encontram na
+carga do departamento.
+Navegando na tela inicial da funcionalidade:
+91
+
+[Página 92]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Utilizar os campos ‘ANO’ e ‘FILTRO’ de meses para filtrar a exibição dos
+documentos sem situação de pré-cadastro;
+▪ Utilizar o campo ‘PESQUISAR’ para localizar um registro na listagem;
+▪ Utilizar a ‘BARRA DE AÇÃO’ para complementar o cadastro, incluir arquivos
+digitais e gerar etiquetas;
+BARRA DE AÇÃO: Alterar
+A funcionalidade Alterar é destinada à complementação do cadastro dos
+documentos em situação de pré-cadastro.
+Procedimentos:
+▪ Complementar o formulário de cadastro com as informações que permitirão a
+gestão deste documento e o acesso à informação nele registrada. Os campos
+assinalados com asterisco vermelho são de preenchimento obrigatório;
+92
+
+[Página 93]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘SALVAR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+▪ Após a complementação do cadastro, o documento não será mais exibido na
+Listagem Pré-Cadastro e sim na Listagem de documentos correntes do
+departamento.
+93
+
+[Página 94]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Arquivo Digital
+A funcionalidade Arquivo Digital é destinada à inclusão, visualização e exclusão
+de um arquivo digital nos documentos em situação de pré-cadastro.
+Ver tópico 2.1 Arquivo Digital, neste manual.
+BARRA DE AÇÃO: Etiquetas
+A funcionalidade Etiquetas destina-se à geração de etiquetas de identificação de
+documentos registrados no sistema.
+Ver tópico Imprimir Etiquetas, neste manual.
+94
+
+[Página 95]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.19 - Modelos e Minutas
+A funcionalidade Modelos e Minutas é destinada à disponibilização de modelos
+de tipos documentais pré-cadastrados na tabela auxiliar de tipos de documentos no
+sistema e à criação de minutas de documentos em processo de elaboração.
+Navegando na tela inicial da funcionalidade:
+▪ Utilizar o campo ‘TIPO DE DOCUMENTO’ para visualizar somente as minutas
+correspondentes àquele tipo documental específico;
+▪ Utilizar o campo ‘PESQUISAR’ para encontrar a minuta desejada dentre as demais;
+▪ Utilizar o campo ‘NOVA MINUTA’ para registrar uma nova minuta de documento.
+Procedimentos:
+Registrar nova minuta:
+▪ Selecionar a ‘ESPÉCIE/TIPO DE DOCUMENTO’;
+▪ Selecionar o ‘ARQUIVO’;
+▪ Informar o ‘ASSUNTO’;
+▪ Selecionar a ‘CLASSIFICAÇÃO ARQUIVÍSTICA’;
+▪ Selecionar o ‘INTERESSADO’;
+95
+
+[Página 96]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Selecionar a ‘PROCEDÊNCIA’;
+Acionar o botão ‘INCLUIR’ para efetivar o registro da minuta.
+▪ O sistema gerará uma mensagem de confirmação como a demonstrada abaixo.
+▪ As minutas cadastradas podem sofrer determinadas ações até que o documento
+esteja finalizado e possa ser protocolado. Seguem abaixo as descrições da
+operacionalização de minutas de documento no sistema.
+BARRA DE AÇÃO: Arquivo Digital
+A funcionalidade Arquivo Digital é destinada à inclusão, visualização e exclusão
+de arquivos digitais incluídos nas minutas cadastradas no sistema.
+96
+
+[Página 97]
+Manual do usuário – Módulo Documentos Versão 1.0
+Procedimentos:
+Incluir arquivo digital:
+▪ Acionar o botão ‘ESCOLHER ARQUIVO’ para localizar o arquivo digital que deseja
+carregar;
+▪ Acionar o botão ‘ANEXAR’ para efetuar a ação;
+Está ação não substitui o arquivo digital anexado no momento da inclusão da
+minuta.
+Excluir Arquivo Digital
+▪ Selecionar com um ‘tick’ na coluna ‘excluir’ o arquivo que deseja alterar ou apagar;
+▪ Acionar o botão ‘EXCLUIR’ para efetuar a ação;
+97
+
+[Página 98]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Distribuir
+A funcionalidade Distribuir é destinada a atribuir a responsabilidade de uma
+minuta, a um usuário do sistema logado naquele departamento.
+Procedimentos:
+Distribuir minuta:
+▪ Selecionar o Funcionário para o qual se direcionará a minuta;
+▪ Indicar o motivo da distribuição;
+▪ Registrar uma providencia para nortear as ações do destinatário;
+▪ Acionar o botão ‘DISTRIBUIR’ para efetivar a ação.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+98
+
+[Página 99]
+Manual do usuário – Módulo Documentos Versão 1.0
+Desfazer distribuição:
+▪ Acionar o botão ‘DESFAZER’ para tornar uma distribuição inativa;
+BARRA DE AÇÃO: Excluir
+A ação Excluir destina-se a excluir uma minuta do sistema.
+Procedimentos:
+▪ O sistema solicitará ao usuário a confirmação da ação.
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+BARRA DE AÇÃO: Histórico
+A funcionalidade Histórico é destinada à visualização do histórico de ações
+realizadas com uma minuta. Esta tela não possui ações próprias.
+99
+
+[Página 100]
+Manual do usuário – Módulo Documentos Versão 1.0
+BARRA DE AÇÃO: Protocolar
+A funcionalidade Protocolar é destinada à protocolar uma minuta. A minuta será
+registrada em documento no sistema.
+▪ O sistema encaminhará o usuário para a tela de Cadastro de documento.
+▪ A minuta protocolada receberá um NUP e deverá ser acessada pela Listagem de
+documentos correntes do departamento em que foi protocolada.
+BARRA DE AÇÃO: Tramitar
+A funcionalidade Tramitar é destinada a movimentar uma minuta para outro
+departamento.
+Procedimentos:
+Tramitar minuta:
+▪ Indicar se a minuta a ser enviada é prioritária ou não;
+▪ Indicar o departamento de destino;
+▪ Indicar o motivo da distribuição;
+▪ Registrar um despacho para nortear as ações do destinatário;
+▪ Acionar o botão ‘TRAMITAR’ para efetivar a ação.
+100
+
+[Página 101]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+2.20 - Palavra-Chave
+A funcionalidade Palavra-Chave é destinada à vinculação de palavras-padrão
+para a descrição do conteúdo de um documento registrado no sistema. As palavras-chave
+são cadastradas no sistema pelos usuários com perfil administrador.
+Procedimentos:
+▪ Informar o número do documento ao qual deseja vincular palavra-chave;
+▪ Acionar o botão ‘PESQUISAR’;
+101
+
+[Página 102]
+Manual do usuário – Módulo Documentos Versão 1.0
+Incluir Palavra-Chave
+▪
+Acionar o botão +, na opção ‘NUPS ADICIONAIS’, para inserir a(s) mesma(s)
+palavra-chave(s) em mais de um documento ao mesmo tempo;
+▪ Acionar o botão +, na opção ‘PALAVRA-CHAVE’, para pesquisar a(s) palavra(s)
+desejada(s);
+o Selecionar com um ‘tick’ a(s) palavra(s);
+o Acionar o botão ‘INCLUIR’;
+▪ O sistema atualizará a tela com o(s) documento(s) selecionado(s);
+▪ Selecionar a opção ‘SIM’ para vincular palavras-chave às vias do documento, caso
+elas existam;
+▪ Acionar o botão ‘INSERIR’ para efetuar a ação;
+102
+
+[Página 103]
+Manual do usuário – Módulo Documentos Versão 1.0
+Excluir Palavra-Chave
+▪ Para retirar uma palavra-chave, selecionar o item com um ‘tick’ na última coluna;
+▪ Acionar o botão ‘EXCLUIR’ para iniciar a ação;
+▪ O sistema solicitará ao usuário a confirmação da ação.
+103
+
+[Página 104]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.21 - Pesquisa Avançada
+A funcionalidade Pesquisa Avançada é destinada à busca por documentos
+cadastrados no sistema utilizando os campos de descrição utilizados no registro deles.
+Procedimentos:
+▪ Preencher os campos do formulário de pesquisa com as informações das quais
+dispõe;
+o Para um resultado mais amplo, utilizar menos critérios;
+o Para um resultado mais específico, combinar mais critérios;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+104
+
+[Página 105]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema listará o(s) protocolo(s) localizado(s) de acordo com os parâmetros
+utilizados na pesquisa;
+▪ Acionar a opção ‘REFINAR PESQUISA’ para fazer nova busca utilizando também
+os padrões utilizados na última pesquisa;
+▪ Acionar a opção ‘NOVA PESQUISA’ para fazer nova;
+2.22 - Pesquisa Simples
+A funcionalidade Pesquisa Simples é destinada à busca de documentos
+registrados no sistema utilizando o número de protocolo como critério de busca. A
+pesquisa simples direciona o usuário para a tela de dados cadastrais do documento.
+A tela de dados cadastrais apresenta os dados que descrever o conteúdo e as
+principais informações sobre ações realizadas com o documento.
+Procedimentos:
+▪ Informar o número do documento buscado;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+105
+
+[Página 106]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema irá apresentar a tela de visualização do documento.
+106
+
+[Página 107]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.23 – Pré-Cadastro
+A funcionalidade Pré-Cadastro é destinada à realização do cadastro rápido de
+documentos. O formulário de cadastro utilizado nesta funcionalidade possui menos
+campos de preenchimento obrigatório que o da funcionalidade Incluir – Cadastro de
+Documento.
+Os documentos em pré-cadastro compõem a Listagem Pré-Cadastro, e só
+podem ser tramitados entre os departamentos do sistema após o complemento dos dados
+cadastrais.
+Procedimentos:
+▪ Preencher o formulário de pré-cadastro com as informações básicas que permitirão
+a identificação do documento. Os campos assinalados com asterisco vermelho são
+de preenchimento obrigatório;
+▪ Acionar o botão ‘INCLUIR’ para efetuar a ação;
+▪ O sistema emitirá uma mensagem como a apresentada a seguir em confirmação
+ao sucesso da ação. O número 2018.00000.00000.9.000208 é o Número Único de
+Protocolo (NUP) atribuído pelo sistema ao documento. O usuário utilizará este
+número para realizar ações dentro do sistema.
+107
+
+[Página 108]
+Manual do usuário – Módulo Documentos Versão 1.0
+108
+
+[Página 109]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.24 - Pré-Protocolo
+A funcionalidade Pré-Protocolo é destinada a geração em lote de etiquetas antes
+mesmo do registro dos documentos no sistema.
+Procedimentos:
+▪ Selecionar a quantidade de etiquetas que deseja gerar.
+▪ Acionar o botão ‘GERAR ETIQUETAS’.
+▪ O sistema emitirá a mensagem a seguir solicitando que confirme a operação
+▪ O sistema criará automaticamente os números de protocolos de documentos a
+partir da quantidade de etiquetas selecionadas pelo usuário e retornará a tela
+conforme ilustrada abaixo com as etiquetas disponíveis para impressão.
+▪ Os números de registros de documentos gerados ficam disponíveis na lista de
+PROTOCOLOS PARA CADASTRO.
+109
+
+[Página 110]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Ao clicar sobre o número de um dos documentos da lista o sistema abrirá a tela
+para complementar/incluir os dados de cadastro do documento. Para melhor
+explicação dos passos de alterar o cadastro de documento consultar o tópico 2.3
+deste manual.
+▪ Quando um documento tem o seu cadastrado alterado o mesmo desaparece desta
+lista e ficará disponível na listagem de documentos correntes da unidade.
+110
+
+[Página 111]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.25 – Receber Tramitação
+A funcionalidade Receber tramitação destina-se ao recebimento da tramitação
+de um ou mais documentos.
+Procedimentos:
+▪ Selecionar, entre os documentos listados, o(s) documento(s) cuja(s)
+tramitação(ões) deseja receber;
+▪ Acionar o botão ‘RECEBER’ para efetuar a ação;
+o Acionar o botão ‘RECEBER/ARQUIVAR’ para ser redirecionado para a tela
+de arquivamento de documentos imediatamente após o recebimento;
+o Acionar o botão ‘RECEBER/FORMALIZAR PROCESSO’ para ser
+redirecionado para a tela de autuação de documento imediatamente após o
+recebimento;
+o Acionar o botão ‘RECEBER/DISTRIBUIR’ para ser redirecionado para a tela
+de distribuição de documentos imediatamente após o recebimento;
+o Acionar o botão ‘RECEBER/LISTAGEM’ para ser redirecionado para a
+listagem de documentos correntes do departamento;
+o Acionar o botão ‘RECEBER/SOBRESTAR’ para ser redirecionado para a
+tela de sobrestamento de documentos imediatamente após o recebimento;
+o Acionar o botão ‘RECEBER/TRAMITAR’ para ser redirecionado para a tela
+de tramitação de documentos imediatamente após o recebimento;
+o Acionar o botão ‘RECUSAR’ após clicar na checkbox de recusa do lado
+direito da listagem, para recusar o recebimento de um documento tramitado.
+Após efetivada a recusa, o documento retorna à listagem de correntes do
+departamento emissor;
+111
+
+[Página 112]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema apresenta três opções para o recebimento dos documentos, além da
+opção de recusa:
+o Informar o número do documento e acionar o botão RECEBER; ou
+o Marcar somente o(s) documento(s) que deseja receber clicando sobre a(s)
+caixa(s) correspondente e acionando o botão RECEBER; ou
+o Marcar a caixa para selecionar todos os documentos e acionar o botão
+RECEBER;
+112
+
+[Página 113]
+Manual do usuário – Módulo Documentos Versão 1.0
+113
+
+[Página 114]
+Manual do usuário – Módulo Documentos Versão 1.0
+o Além das opções de recebimento o sistema ainda dá a oportunidade de
+RECUSAR o recebimento de um documento, o que faz com que esse
+documento retorne à origem. Basta marcar a checkbox RECUSAR, informar
+a justificativa para a recusa acionar o botão RECUSAR;
+▪ Os documentos recebidos estarão acessíveis na listagem de documentos correntes
+do departamento.
+114
+
+[Página 115]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.26 - Receber Distribuição
+A funcionalidade Receber Distribuição é destinada ao recebimento da
+distribuição da responsabilidade sobre um ou mais documentos dados a um usuário do
+sistema.
+Procedimentos:
+▪ Selecionar, entre os documentos listados, o(s) documento(s) cuja(s)
+distribuição(ões) deseja receber;
+o O sistema listará nesta tela todos os documentos para o usuário;
+▪ Acionar o botão ‘RECEBER’;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação;
+▪ O sistema atualizará a tela da funcionalidade e exibirá a funcionalidade de receber
+e distribuir;
+115
+
+[Página 116]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ O sistema apresenta as opções de Distribuir ou Recusar:
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+2.27 - Relatórios
+A funcionalidade Relatórios é destinada à geração de relatórios das atividades
+realizadas com documentos no sistema.
+O usuário deve combinar os filtros e campos de busca disponíveis em cada
+relatório para obter as informações que deseja.
+116
+
+[Página 117]
+Manual do usuário – Módulo Documentos Versão 1.0
+117
+
+[Página 118]
+Manual do usuário – Módulo Documentos Versão 1.0
+Exemplo:
+GERAR RELATÓRIO PRODUÇÃO
+▪ Preencher os campos do formulário de busca;
+▪ Acionar o botão ‘PESQUISAR’ para efetuar a ação;
+118
+
+[Página 119]
+Manual do usuário – Módulo Documentos Versão 1.0
+CAMPOS PARA SELEÇÃO E PREENCHIMENTO
+Campo Descrição do Campo
+Cadastrado no Selecionar para filtragem dos dados a partir do departamento de cadastro do
+departamento documento.
+Campo preenchido com os departamentos do sistema
+Incluir departamento Selecionar para incluir na pesquisa os departamentos subordinados ao
+subordinado departamento selecionado no campo departamento de cadastro.
+Tipo documental Selecionar para filtragem dos dados a partir do tipo de documental.
+Campo preenchido com os tipos documentais do sistema
+Cadastrado por Selecionar para filtragem o usuário que procedeu com o cadastro do
+documento.
+Campo preenchido com os usuários vinculados ao departamento de cadastro
+selecionado.
+Tramitado de Selecionar para filtragem dos dados a partir do departamento de onde foi
+tramitado o documento. (Informar o departamento de origem do tramite).
+Campo preenchido com os departamentos do sistema.
+Tramitado para Selecionar para filtragem dos dados a partir de para onde foi tramitado o
+documento. (Informar o departamento de destino do tramite)
+Campo preenchido com os departamentos do sistema.
+Informar para filtragem dos dados a partir do período inicial do cadastro do
+Cadastrados Entre (Início) documento.
+Campo preenchido com o primeiro dia do mês vigente.
+Informar para filtragem dos dados a partir do período final do cadastro do
+Cadastrados Entre (Fim) documento.
+Campo preenchido com último dia do mês vigente.
+Informar para filtragem dos dados a partir do período inicial de tramitação.
+Tramitado Entre (Início)
+(Período inicial que o documento sofreu tramitações)
+Informar para filtragem dos dados a partir do período final de tramitação.
+Tramitado Entre (Fim)
+(Período final que o documento sofreu tramitações)
+Recebido Entre (Início) Informar para filtragem dos dados a partir do período inicial de recebimento.
+Informar para filtragem dos dados a partir do período final de recebimento de
+Recebido Entre (Fim)
+tramitação.
+Recebimento Selecionar a opção SIM para a pesquisa exibir somente os documentos que
+não tem pendência de recebimento de tramitação e NÃO para exibir os que
+possuem pendência de recebimento de tramitação.
+Departamento atual Selecionar para filtragem dos dados a partir do departamento atual do
+documento
+Classificação Arquivística Selecionar para filtragem dos dados a partir da classificação arquivística do
+documento.
+Incluir classificação Selecionar para filtragem dos dados a partir das classificações arquivisticas
+arquivísticas subordinadas a selecionada no campo Classificação Arquivística.
+subordinadas
+Acesso Selecionar para filtragem dos dados a partir do tipo de acesso do documento.
+Campo preenchido com os tipos de acesso do sistema
+Interessado Selecionar para da filtragem dos dados a partir do interessado do
+documento.
+Campo Livre Informar para filtragem dos dados a partir do campo livre.
+Este campo realiza a pesquisa pelo assunto do documento.
+119
+
+[Página 120]
+Manual do usuário – Módulo Documentos Versão 1.0
+Considerar vias como Selecionar para considerar as vias (cópias) como documentos produzidos e
+produzido exibi-los no resultado da pesquisa.
+Considerar Documento Selecionar para considerar os documentos externos como produzidos e
+Recebido como Produzido aparecer no resultado da pesquisa.
+Situação Selecionar para da filtragem dos dados a partir da situação do documento.
+O sistema apresenta os seguintes valores para seleção: Todas; (Default);
+Correntes; Arquivados; Cancelados; Expedidos; Sobrestados; Eliminados;
+Recusados.
+Opções – Ver Tramitações Selecionar para que no resultado da pesquisa sejam exibidas as tramitações.
+Opções – Mostrar Selecionar para se após a pesquisa exibir o formulário de pesquisa.
+Formulário
+Opções – Exibir Selecionar para que no resultado da pesquisa sejam exibidos o CPF/CNPJ e
+CPF/CNPJ/Endereço Endereço do interessado.
+Exibir Campos Selecionar para serem exibidos no resultado do relatório todos os campos ou
+somente os campos selecionados.
+Exibir Campos – Somente Campos exibidos somente se a opção “somente selecionados” for
+Selecionados selecionado.
+Apresenta os campos a serem selecionados para exibição no resultado da
+pesquisa.
+Campo Valores apresentados no SOMENTE SELECIONADOS: Data do documento;
+Data de Abertura; Número de origem; Classificação Arquivística;
+Interessado(s); Departamento Atual.
+▪ O sistema atualizará a tela com uma relação de protocolos encontrados para os
+padrões de busca utilizados;
+120
+
+[Página 121]
+Manual do usuário – Módulo Documentos Versão 1.0
+CAMPOS APRESENTADOS NO RESULTADO DA PESQUISA
+CAMPO DESCRIÇÃO DO CAMPO
+Apresenta a quantidade de registros encontrados que correspondem ao critério
+Quantitativo
+de pesquisa utilizado.
+Apresenta o número do documento e a via (cópia), se este possuir.
+Documento Ao clicar no número do documento, o sistema irá apresentar os detalhes do
+documento.
+Formalização Em Apresenta o departamento em que o documento foi cadastrado
+Formalizado Por Apresenta o usuário que realizou o cadastro do documento.
+Data do Documento Apresenta a data do documento.
+Apresenta a data de abertura do documento. (Data de cadastro do documento
+Data de Abertura
+no sistema).
+Número de Origem Apresenta o número de identificação do documento.
+Classificação Apresenta a classificação arquivística do documento.
+Arquivística
+Apresenta os interessados do documento com as informações do seu CPF se for
+Interessado(s)
+pessoa física ou CNPJ se for pessoa jurídica.
+Endereço Apresenta o endereço dos interessados do documento.
+Situação Apresenta a situação atual do documento
+Departamento Atual Apresenta o departamento atual do documento.
+Data da Tramitação Apresenta a data de tramitação do documento.
+Departamento de Apresenta o departamento de origem das tramitações do documento.
+Origem
+Departamento de Apresenta o departamento de destino das tramitações do documento.
+Destino
+Despacho Apresenta o despacho dado ao documento no momento das tramitações.
+▪ O sistema também tem a possibilidade de:
+o ‘EXPORTAR’ o resultado para uma tabela; e
+121
+
+[Página 122]
+Manual do usuário – Módulo Documentos Versão 1.0
+o ‘ACOMPANHAR’ para colocar o NUP do documento para
+acompanhamento na tela inicial; e
+o
+o ‘IMPRIMIR’ para imprimir os resultados do relatório;
+122
+
+[Página 123]
+Manual do usuário – Módulo Documentos Versão 1.0
+123
+
+[Página 124]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Seguem os demais relatórios do módulo de documentos:
+RELATÓRIOS MÓDULO DOCUMENTO
+RELATÓRIO DESCRIÇÃO CAMPOS
+Permite verificar quais ✔ Cadastrado no departamento;
+os registros de ✔ Tipo Documental
+Arquivo documentos possuem ✔ Intervalo da data de cadastro;
+arquivos digitais. ✔ Acesso;
+Digital
+✔ Possui Arquivo Digital;
+✔ Intervalo de data de inclusão do arquivo digital;
+✔ Produzidos/Recebidos;
+✔ Classificação arquivística;
+✔ Departamento atual;
+✔ Localização;
+Relatório para controle
+Arquivo ✔ Prazos “vencidos”, “vencendo” e “a vencer”;
+dos prazos de guarda
+✔ Data de expiração corrente;
+Setorial dos documentos
+✔ Data de expiração intermediária;
+arquivados em um
+✔ Ano;
+departamento.
+✔ Números dos documentos;
+✔ Conclusão;
+✔ Opções de filtro para exibição do resultado;
+Relatório para controle ✔ Departamento de cadastro;
+Classificação das classificações ✔ Tipo de documento;
+arquivísticas atribuído a ✔ Classificação arquivística;
+Arquivística
+documentos ✔ Data de cadastro dos documentos;
+cadastrados no ✔ Acesso;
+sistema. ✔ Opções de filtro para exibição do resultado;
+Relatório para controle
+✔ Data de cadastro dos comentários;
+de inclusões de
+Comentários ✔ Usuário que fez os comentários;
+comentários em
+✔ Campo livre para busca no texto dos comentários;
+documentos.
+Relatório de
+documentos ✔ Departamento de cadastro;
+Departamento cadastrados que tem ✔ 1º período de cadastro;
+como principal critério o ✔ 2º período de cadastro;
+departamento de ✔ Mostrar apenas documentos ou “todos os tipos”.
+cadastro.
+✔ Departamento destinatário;
+Relatório para controle
+de destinatários (na ✔ Departamento de destino da primeira tramitação;
+Destinatário
+SEMEF) de ✔ Data de cadastro;
+documentos externos ✔ Data de tramitação;
+recebidos. ✔ Possui resposta “sim”;
+✔ Data de inclusão;
+✔ Cadastro no departamento;
+✔ Tipo Documental;
+Relatório para controle
+Digitalização ✔ Usuário que realizou a digitalização;
+da digitalização de
+✔ Classificação arquivística;
+documentos.
+✔ Campo livre de conteúdo descritivo dos documentos;
+✔ Situação dos documentos;
+✔ Documento possui evento ativo associado.
+✔ Departamento atual dos documentos;
+Distribuição Relatório para controle
+✔ Usuário pelo qual foi feita distribuição;
+de distribuições de
+✔ Usuário para o qual foi feita distribuição;
+124
+
+[Página 125]
+Manual do usuário – Módulo Documentos Versão 1.0
+documentos a usuários ✔ Data da distribuição;
+do sistema. ✔ Data de vencimento da distribuição;
+✔ Distribuição ativa “sim” ou “não”;
+✔ Distribuição recebida “sim” ou “não”;
+✔ Opções de filtro para exibição do resultado;
+Relatório para ✔ Empresa que deseja verificar a eficiência;
+verificação da ✔ Departamento que deseja verificar a eficiência;
+Eficiência
+eficiência dos ✔ Data que deseja verificar a eficiência;
+departamentos em um ✔ Intervalo da eficiência;
+determinado período.
+✔ Prazos “vencidos”, “vencendo” e “a vencer”;
+Relatório para ✔ Departamento para a qual foi realizado empréstimo;
+Empréstimo controle de ✔ Data inicial e final do empréstimo;
+documentos ✔ Data inicial e final do retorno;
+emprestados. ✔ Exibir no relatório apenas “empréstimos devolvidos” ou
+“todos”.
+Entrada Relatório para
+✔ Departamento;
+controlar a entrada
+Mensal no ✔ Ação que ocasionou a entrada do documento no
+de protocolos
+departamento;
+Departamento mensal de um
+✔ Período;
+departamento.
+✔ Departamento em que foram expedidos;
+✔ Justificativa;
+✔ Data da expedição;
+Relatório para ✔ Horário da expedição;
+Expedição controle dos
+✔ Tipo de remessa;
+documentos
+✔ Número da remessa;
+expedidos.
+✔ Destino da remessa;
+✔ Expedição ativa “sim” ou “não”;
+✔ Exibir documentos/ juntados a documentos expedidos;
+✔ Departamento atual dos documentos;
+Relatório para controle ✔ Tipo de documento juntado;
+Juntada de documentos ✔ Data de cadastro dos documentos;
+anexados a ✔ Retornar: Todos, Juntados ou Não Juntados;
+documentos. ✔ Data da juntada;
+✔ Usuário que realizou a juntada;
+✔ Departamento de cadastro da minuta;
+✔ Departamento de origem da minuta;
+✔ Departamento de destino da minuta;
+Relatório para controle
+✔ Data de cadastro da minuta;
+Minutas de minutas de
+✔ Data de tramitação da minuta;
+documentos
+✔ Departamento atual da minuta;
+produzidas.
+✔ Minuta recebida “sim” ou “não”;
+✔ Usuário que incluiu a minuta;
+✔ Campo livre de conteúdo descritivo das minutas;
+Palavras-chav Relatório para controle ✔ Palavras-chave cadastradas;
+de inclusões de ✔ Usuário que realizou a inclusão;
+e
+palavras-chave em ✔ Data de cadastro das palavras-chave;
+documentos.
+Prazo de Relatório para controle ✔ Opções de filtro para exibição do resultado;
+dos prazos de ✔ Prazos “vencidos”, “vencendo” e “a vencer”;
+Atendimento
+atendimento dos ✔ Departamento atual;
+documentos. ✔ Data de atendimento;
+125
+
+[Página 126]
+Manual do usuário – Módulo Documentos Versão 1.0
+✔ Exibir no relatório apenas “prazo de guarda vencido” ou
+“todos”;
+Prazo de Relatório para controle ✔ Classificação arquivística;
+Guarda dos prazos de guarda ✔ Prazos “vencidos”, “vencendo” e “a vencer”;
+de documentos. ✔ Departamento atual;
+✔ Data de expiração corrente;
+✔ Data de expiração intermediária;
+✔ Mostrar Prazos “todos”, “compridos” e “não compridos”;
+Relatório para controle
+Prazo de ✔ Departamento para a qual foi emitido prazo de resposta;
+de prazos de resposta
+✔ Prazos “vencidos”, “vencendo” e “a vencer”;
+Resposta informados na
+✔ Departamento atual;
+tramitação de
+✔ Situação dos documentos;
+documentos.
+✔ Data inicial e final do prazo de resposta;
+Relatório para controle ✔ Filtros explicados na exemplificação do relatório;
+Produção
+da produção de
+documentos.
+Produção com
+Todos os Relatório para controle
+de cadastro de ✔ Departamento de cadastro dos documentos;
+Departamento
+documentos por ✔ Data de cadastro dos documentos;
+s com Gráfico departamentos.
+Produção Por
+Relatório para controle
+Departamento da situação dos
+✔ Departamento atual;
+protocolos por
+Com Gráfico
+departamento.
+✔ Data de cadastro;
+✔ Data de tramitação;
+✔ Departamento em que foi cadastrado;
+✔ Tipo de documento;
+✔ Usuário de cadastro;
+✔ Departamento de origem;
+Relatório para controle
+Recebimento ✔ Departamento de destino;
+do recebimento de
+✔ Classificação arquivística;
+documentos externos.
+✔ Requerentes associado aos documentos;
+✔ Tipo de remessa;
+✔ Número de remessa;
+✔ Campo livre;
+✔ Opções de filtro para exibir comentários e mostrar
+formulário;
+✔ Departamento de atribuição;
+✔ Usuário que atribuiu;
+Responsáveis Relatório para controle
+✔ Usuário a quem foi atribuído;
+de responsáveis
+✔ Data da atribuição;
+✔ Opções de filtro para exibição do resultado;
+126
+
+[Página 127]
+Manual do usuário – Módulo Documentos Versão 1.0
+✔ Grupo de Serviço;
+✔ Serviço;
+Serviços ✔ Unidade Organizacional;
+Relatório consolidado ✔ Departamento atual;
+(consolidados
+de solicitação de ✔ Formalizador;
+) serviços. ✔ Intervalo de data de cadastro;
+✔ Situação;
+✔ Tipo de Entrada;
+✔ Opções de filtro para exibição do resultado;
+✔ Grupo de Serviço;
+✔ Serviço;
+✔ Unidade Organizacional;
+Serviços ✔ Departamento atual;
+Relatório detalhado de
+(detalhado) ✔ Formalizador;
+solicitação de serviços.
+✔ Intervalo de data de cadastro;
+✔ Situação;
+✔ Tipo de Entrada;
+✔ Opções de filtro para exibição do resultado;
+✔ Prazos “vencidos”, “vencendo” e “a vencer”;
+✔ Departamento atual;
+Relatório para controle
+Sobrestar ✔ Prazo inicial e final do sobrestamento;
+do sobrestamento de
+✔ Motivo do sobrestamento;
+documentos.
+✔ Opções de filtro para exibir comentários e mostrar
+formulário
+Tempo de Relatório para controle ✔ Departamento atual;
+Tramitação de tempo de ✔ Incluir departamentos subordinados;
+tramitação. ✔ Data de tramitação;
+✔ Departamento de origem;
+✔ Departamento de destino;
+✔ Motivo da tramitação;
+Relatório para controle ✔ Tramitação recebida “sim” ou “não”;
+Tramitação das tramitações ✔ Data da tramitação;
+sofridas por ✔ Horário da tramitação;
+documentos. ✔ Situação dos documentos;
+✔ Classificação Arquivística;
+✔ Incluir classificações arquivísticas subordinadas;
+✔ Opções de filtro para exibição do resultado;
+Validade do Relatório para controle ✔ Classificação arquivística;
+dos prazos de validade ✔ Prazos “vencidos”, “vencendo” e “a vencer”;
+Suporte
+de suportes de ✔ Departamento;
+documentos. ✔ Data de validade do suporte.
+127
+
+[Página 128]
+Manual do usuário – Módulo Documentos Versão 1.0
+2.28 - Tramitar
+A funcionalidade Tramitar é destinada à tramitação (movimentação) de
+documentos de um departamento para outro no sistema.
+Procedimentos:
+▪ Informar o número do documento que deseja alterar;
+▪ Acionar o botão ‘PESQUISAR’;
+▪ Acionar o botão +, na opção ‘NÚMEROS ADICIONAIS’, para adicionar mais
+documentos à tramitação;
+▪ Informar se o(s) documento(s) tramitado(s) possui prioridade de tratamento no
+departamento de destino;
+▪ Informar o departamento de destino do(s) documento(s);
+▪ Informar o motivo pelo qual;
+▪ Informar um despacho acerca da tramitação do(s) documento(s);
+128
+
+[Página 129]
+Manual do usuário – Módulo Documentos Versão 1.0
+▪ Acionar o botão ‘TRAMITAR’ para efetuar a ação;
+▪ O sistema emitirá a mensagem a seguir em confirmação ao sucesso da ação.
+A tramitação altera a situação do documento para ‘TRAMITANDO’, Assim, o documento só poderá
+sofrer outras ações até o recebimento pelo departamento de destino ou até o cancelamento da tramitação
+pelo departamento de origem.
+129
+
+[Página 130]
+Manual do usuário – Módulo Documentos Versão 1.0
+3 - TECLAS DE ATALHO
+As teclas de atalho são ferramentas a serem utilizadas para agilizar o acesso à
+determinada tela ou funcionalidade do sistema. Para acessar uma das telas, abaixo,
+acione a tecla correspondente no teclado do seu computador. Abaixo, segue a finalidade
+de cada tecla.
+TECLA FUNCIONALIDADE
+F2 DOCUMENTOS> INCLUSÃO
+F3 DOCUMENTOS> VOLUMES
+F6 DOCUMENTOS> ETIQUETAS
+F7 DOCUMENTOS> AUTUAR DOCUMENTO
+F8 DOCUMENTOS> PESQUISA SIMPLES
+F9 DOCUMENTOS> ARQUIVAR
+F10 DOCUMENTOS> EMPRESTAR
+F11 DOCUMENTOS> JUNTAR DOCUMENTO
+[Ctrl] + [G] DOCUMENTOS> CONTROLE DE PRAZOS
+[Ctrl] + [P] IMPRIMIR
+130
+
+[Página 131]
+Manual do usuário – Módulo Documentos Versão 1.0
+4 - FECHAMENTO
+O presente manual é destinado a orientar os usuários na utilização do Módulo de
+Documentos do E-Palmas, como também, dotá-los de conhecimentos da navegabilidade,
+usabilidade e das funcionalidades para a operacionalização e gerência do mesmo.
+131

@@ -1,0 +1,22 @@
+﻿=== Tickets no banco (unfiltered) ===
+  [4] 'incluir documento' | status=OPEN | org=Empresa Demo | msgs=2 | ai_msgs=1
+    [AI] Olß! Para incluir documentos no sistema, siga os passos abaixo:
+
+1. Acesse o m¾d...
+    [Human] Olß! Para incluir documentos no sistema, siga os passos abaixo:
+
+1. Acesse o m¾d
+  [3] 'INCLUIR DOCUMENTO' | status=RESOLVED | org=Empresa Demo | msgs=1 | ai_msgs=1
+    [AI] [Baseado em caso similar resolvido]
+
+oBRIGADO...
+  [2] 'INCLUIR DOCUMENTO' | status=RESOLVED | org=Empresa Demo | msgs=3 | ai_msgs=1
+    [AI] [Baseado em caso similar resolvido]
+
+TUDO BEM?...
+    [Human] PARA VOC╩ INCLUIR DOCUMENTO E BEM SIMPLES, VOC╩ VAI NO SEU PROCESSO, CLICA EM IN
+    [Human] oBRIGADO
+  [1] 'INCLUIR DOCUMENTO' | status=RESOLVED | org=Empresa Demo | msgs=3 | ai_msgs=0
+    [Human] OLA
+    [Human] OI
+    [Human] TUDO BEM?

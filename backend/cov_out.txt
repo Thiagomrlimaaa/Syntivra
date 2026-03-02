@@ -1,0 +1,30 @@
+﻿COBERTURA DA BASE DE CONHECIMENTO:
+======================================================================
+  [OK] [documento|1.00] Incluir documento no sistema        -> como usar n·mero do protus, procedimentos par
+  [OK] [processo|1.00] Como tramitar processo para outra s -> como usar n·meros adicionais:, procedimentos 
+  [OK] [processo|1.00] Expedir processo para externo       -> como expedir aþÒo: expediþÒo externa, como en
+  [OK] [processo|1.00] Nao consigo arquivar o processo     -> como cadastrar, como registrar novo tecla fun
+  [OK] [assinatura|1.00] Como fazer assinatura digital com c -> como incluir arquivo digital, como fazer uplo
+  [??] [documento|0.00] O que e NUP                         -> SEM RESULTADO
+  [OK] [default|1.00] Como usar o follow-up               -> como acompanhar prazos, como usar followup
+  [OK] [tramitar|0.61] Quero gerar guia de tramitacao      -> o que Ú tramitaþÒo, o que significa tramitar 
+  [OK] [documento|1.00] Como anexar processo a outro proces -> o que Ú juntada, diferenþa entre anexaþÒo e a
+  [OK] [acesso|1.00] Nao tenho permissao para acessar a  -> quais sÒo os perfis de usußrio no epalmas, o 
+  [OK] [documento|1.00] Como sobrestar um documento         -> como alterar dados, como editar protocolos pa
+  [OK] [cancelar|1.00] Quero cancelar tramitacao           -> como cancelar tramitaþÒo, como desfazer envio
+  [OK] [tramitar|1.00] Como receber tramitacao             -> como cadastrar, como registrar novo barra de 
+  [OK] [default|1.00] Como usar palavra chave para busca  -> como usar relat¾rio descriþÒo campos, procedi
+  [OK] [default|1.00] Gerar relatorio de producao documen -> como alterar dados, como editar funcionalidad
+  [OK] [processo|1.00] Como abrir novo volume de processo  -> como cadastrar, como registrar novo tecla fun
+  [OK] [pesquisa|1.00] Como fazer pesquisa avancada        -> como fazer pesquisa avanþada, como filtrar do
+  [OK] [processo|1.00] Como distribuir processo para funci -> como distribuir 2.6. distribuir para funcionß
+  [OK] [documento|1.00] Como desfazer juntada de documentos -> o que Ú juntada, diferenþa entre anexaþÒo e a
+  [OK] [default|1.00] O que e follow up de prazos         -> o que Ú follow-up no epalmas, como acompanhar
+
+Cobertura: 19/20 (95%)
+Total chunks no banco: 121
+
+Chunks por fonte:
+  Manual M¾dulo Processos - E-Palmas v1.0: 60 chunks
+  Manual M¾dulo Documentos - E-Palmas v1.0: 48 chunks
+  Glossßrio SIGED - E-Palmas: 13 chunks
