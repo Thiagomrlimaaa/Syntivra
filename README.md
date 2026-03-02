@@ -8,6 +8,19 @@
 ## 🚀 Visão Geral
 **Syntivra** é um SaaS (Software as a Service) de suporte técnico projetado para alta escalabilidade e isolamento total de dados entre clientes (Multi-tenancy). O sistema utiliza inteligência artificial para analisar tickets históricos e sugerir resoluções em tempo real, otimizando o tempo médio de resposta (MTTR) das equipes técnicas.
 
+## 📸 Demonstração Visual
+
+<table>
+  <tr>
+    <td><img src="screenshots/login.png" alt="Login Page" width="100%"></td>
+    <td><img src="screenshots/dashboard.png" alt="Dashboard" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/tickets.png" alt="Ticket List" width="100%"></td>
+    <td><img src="screenshots/detail.png" alt="Ticket Detail" width="100%"></td>
+  </tr>
+</table>
+
 ## 🛠️ Stack Tecnológica (Senior Level)
 - **Backend:** Python 3.12 / Django / Django REST Framework (DRF)
 - **Database:** PostgreSQL (Ideal para produção) / SQLite (Dev)
