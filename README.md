@@ -71,6 +71,22 @@ docker-compose up --build
 
 ---
 
+## 🔑 Credenciais de Acesso (Teste)
+
+Para testar as funcionalidades do sistema, utilize as seguintes contas padrão:
+
+### 💎 Admin da Organização (Empresa Demo)
+- **Email:** `admin@demo.com`
+- **Senha:** `admin123`
+- **Acesso:** Dashboard completo, gestão de usuários, configurações de IA e todos os tickets.
+
+### 👤 Cliente / Usuário Final
+- **Email:** `cliente@demo.com`
+- **Senha:** `cliente123`
+- **Acesso:** Portal do cliente, abertura de tickets e acompanhamento.
+
+---
+
 ## 🔮 Roadmap de Evolução
 - [ ] **Evolução de IA:** Substituição do Full-Text Search por **Vector Embeddings** utilizando `pgvector` e OpenAI/Mistral.
 - [ ] **Billing Engine:** Integração com Stripe para faturamento por assento (per-seat) ou volumetria de tickets.
