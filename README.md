@@ -19,6 +19,12 @@
     <td><img src="screenshots/tickets.png" alt="Ticket List" width="100%"></td>
     <td><img src="screenshots/detail.png" alt="Ticket Detail" width="100%"></td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <p><b>Centro de Treinamento IA: Curadoria de Gaps de Conhecimento</b></p>
+      <img src="screenshots/training.png" alt="AI Training Interface" width="100%">
+    </td>
+  </tr>
 </table>
 
 ---
